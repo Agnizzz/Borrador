@@ -1,0 +1,28 @@
+# Correo Electronico
+# Nombre
+# Apellido Paterno
+# Apellido Materno
+# Usuario
+# DNI
+# Telefono
+# Contrasena
+
+adriangromero1880@gmail.com
+Adrian Rogers
+Gomez
+Romero
+Matador_Rojo
+75089033
+975752843
+Patitofeo123&
+
+
+vitito
+manuel
+alberca
+saavedra
+mix
+72969215
+987
+car
+

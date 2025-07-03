@@ -1,0 +1,2435 @@
+# producto.txt
+# idPrincipal,Secundaria,Terciaria,NombreProducto,PrecioUnitario,UnidadMedida
+# Abarrotes (idPrincipal = 1)
+# Desayunos (idPrincipal = 2)
+# Lácteos y Quesos (idPrincipal = 3)
+# Huevos y Fiambres (idPrincipal = 4)
+# Frutas y Verduras (idPrincipal = 5)
+# Carnes (idPrincipal = 6)
+# Pescados y Mariscos (idPrincipal = 7)
+# Congelados (idPrincipal = 8)
+# Panadería y Pastelería (idPrincipal = 9)
+# Dulces y Galletas (idPrincipal = 10)
+# Snack y Frutos Secos (idPrincipal = 11)
+# Cervezas (idPrincipal = 12)
+# Bebidas Alcohólicas (idPrincipal = 13)
+# Gaseosas, Aguas y Jugos (idPrincipal = 14)
+# Limpieza (idPrincipal = 15)
+# Cuidado Personal (idPrincipal = 16)
+# Belleza (idPrincipal = 17)
+# Bebés y Niños (idPrincipal = 18)
+# Mundo Mascotas (idPrincipal = 19)
+
+1,Arroz,Especial,Paisana Arroz Integral,7.90,1 Kg
+1,Arroz,Especial,Gran Chalan Arroz Integral,5.90,750 g
+1,Arroz,Especial,Costeño Arroz Parbolizado,5.60,750 g
+1,Arroz,Especial,Inverni Arroz Arborio,35.90,1 Kg
+
+1,Arroz,Extra,Paisana Arroz Extra,22.90,5 Kg
+1,Arroz,Extra,Faraón Arroz Extra,30.00,5 Kg
+1,Arroz,Extra,Costeño Arroz Extra,26.90,5 Kg
+1,Arroz,Extra,Tottus Arroz Extra,19.50,5 Kg
+1,Arroz,Extra,Gran Chalán Arroz Extra,26.30,5 Kg
+1,Arroz,Extra,Costeño Arroz Extra,4.90,750 g
+1,Arroz,Extra,Valle Norte Arroz Extra,28.50,5 Kg
+1,Arroz,Extra,Faraón Arroz Extra,4.90,750 g
+1,Arroz,Extra,Valle Norte Arroz Exlstra,4.80,750 g
+1,Arroz,Extra,Tottus Premium Arroz Extra Añejo,24.90,5 Kg
+1,Arroz,Extra,Paisana Arroz Extra,5.80,1 Kg
+1,Arroz,Extra,Costeño Arroz Extra Añejo,26.90,5 Kg
+1,Arroz,Extra,Tottus Arroz Extra,44.00,10 Kg
+1,Arroz,Extra,Tottus Premium Arroz Extra Añejo,4.10,750 g
+1,Arroz,Extra,Costeño Arroz Extra Añejo,4.70,750 g
+1,Arroz,Extra,Gran Chalán Arroz Extra Natural,5.00,750 g
+1,Arroz,Extra,Pacasmayo Arroz Extra,4.20,750 g
+1,Arroz,Extra,Gran Chalán Arroz Gourmet Extra Añejo,27.50,5 Kg
+1,Arroz,Extra,Pacasmayo Arroz Extra,25.90,5 Kg
+
+1,Arroz,Integral,Tottus Arroz Extra Integral,3.75,750 g
+1,Arroz,Integral,Tottus Arroz Integral,23.60,5 Kg
+
+1,Arroz,Superior,Tottus Arroz Superior,19.50,5 Kg
+1,Arroz,Superior,Paisana Arroz Superior,21.90,5 Kg
+1,Arroz,Superior,Tottus Arroz Superior,3.40,750 g
+1,Arroz,Superior,Faraón Arroz Superior,4.50,750 g
+1,Arroz,Superior,Tottus Arroz Superior,39.00,10 Kg
+1,Arroz,Superior,Gran Chalán Arroz Extra Añejo,44.50,10 Kg
+1,Arroz,Superior,Valle Norte Arroz Superior,23.50,5 Kg
+1,Arroz,Superior,Costeño Arroz Superior,4.50,750 g
+1,Arroz,Superior,Paisana Arroz Superior,5.50,1 Kg
+1,Arroz,Superior,Pacasmayo Arroz Añejo,4.40,750 g
+1,Arroz,Superior,Valle Norte Arroz Superior Añejo,25.90,5 Kg
+1,Arroz,Superior,Faraón Arroz Superior,27.30,5 Kg
+1,Arroz,Superior,Pacasmayo Arroz Extra,25.90,5 Kg
+1,Arroz,Superior,Gran Chalán Arroz Superior,4.60,750 g
+1,Arroz,Superior,Gran Chalán Arroz Superior,24.90,5 Kg
+1,Arroz,Superior,Valle Norte Arroz Superior Añejo,4.50,750 g
+1,Arroz,Superior,Costeño Arroz Añejo,49.90,10 Kg
+1,Arroz,Superior,Valle Norte Arroz Superior,4.00,750 g
+
+
+
+1,Conservas,Comidas Preparadas,Tottus Frijoles con Tocino,7.80,425 g
+1,Conservas,Comidas Preparadas,Casa Verde Quinua Bicolor,7.50,240 g
+1,Conservas,Comidas Preparadas,Casa Verde Lentejas Aderezadas,7.50,360 g
+1,Conservas,Comidas Preparadas,Casa Verde Frijoles Aderezados,8.20,360 g
+1,Conservas,Comidas Preparadas,Casa Verde Garbanzos,7.50,340 g
+1,Conservas,Comidas Preparadas,Valle Fértil Corazones de Palmito,10.60,190 g
+1,Conservas,Comidas Preparadas,Tottus Pallar con Tocino,7.80,425 g
+1,Conservas,Comidas Preparadas,Casa Verde Dip de Alcachofa-Espinaca y Queso,9.50,200 g
+1,Conservas,Comidas Preparadas,Olivos del Sur Chocolate Dulce Desgranado,8.90,425 g
+1,Conservas,Comidas Preparadas,Casa Verde Dip de Espárrago Verde,10.90,285 g
+1,Conservas,Comidas Preparadas,Casa Verde Salsa de Palta,9.90,225 g
+1,Conservas,Comidas Preparadas,Duw Jamon Endiablado,7.10,54 g
+1,Conservas,Comidas Preparadas,Duw Jamon Endiablado,10.30,115 g
+1,Conservas,Comidas Preparadas,Tottus Cazuela de Lentejas,7.10,425 g
+1,Conservas,Comidas Preparadas,Casa Verde Tamal de Maíz,8.00,230 g
+
+1,Conservas,Frutas,Tottus Duraznos en Mitades,9.90,820 g
+1,Conservas,Frutas,Bali Piña en Rodajas,8.90,567 g
+1,Conservas,Frutas,Aconcagua Duraznos en Almíbar,12.90,822 g
+1,Conservas,Frutas,Bali Piña en Trozos,8.90,567 g
+1,Conservas,Frutas,Compass Piña en Rodajas,8.30,560 g
+1,Conservas,Frutas,TottusDuraznos en Mitades,5.90,415 g
+1,Conservas,Frutas,Calor Aceituna Verde Rellena con Pimiento,8.00,240 g
+1,Conservas,Frutas,Pulpa Duraznos en Almíbar,9.90,820 g
+1,Conservas,Frutas,Arica Duraznos en Almíbar,11.90,820 g
+1,Conservas,Frutas,El Olivar Aceituna Verde con Castaña,10.80,240 g
+1,Conservas,Frutas,Tottus Aceituna Verde Rellena con Rocoto,9.80,240 g
+1,Conservas,Frutas,Cale Aceituna Verde Rellena con Castaña,8.00,240 g
+1,Conservas,Frutas,Olivos del Sur Aceituna Verde Deshuesada,9.50,250 g
+1,Conservas,Frutas,Bali Piña en Rodajas,4.35,227 g
+1,Conservas,Frutas,Cale Aceituna Verde Rellena con Rocoto,8.00,240 g
+1,Conservas,Frutas,Olivalle Aceituna Verde Deshuesada,16.52,350 g
+1,Conservas,Frutas,Olivalle Aceituna Verde Rellena con Rocoto,21.19,350 g
+1,Conservas,Frutas,Olivalle Aceituna Verde Rellena de Pimiento,20.65,350 g
+1,Conservas,Frutas,Olivalle Aceituna Negra Entera Baldecito,28.67,750 g
+1,Conservas,Frutas,Olivalle Aceituna Negra Deshuesada,17.71,350 g
+1,Conservas,Frutas,Olivalle Aceituna Botija Entera,3.10,180 g
+1,Conservas,Frutas,Olivos del Sur Aceituna Verde Rellena con Pimiento,22.90,380 g
+1,Conservas,Frutas,Dos Caballos Duraznos en Mitades,12.90,820 g
+1,Conservas,Frutas,Arica Piña en Mitades Santiago,9.90,565 g
+1,Conservas,Frutas,Tottus Aceituna Botija sin Pepa,11.30,240 g
+1,Conservas,Frutas,Cale Aceituna Botija Extra,8.50,240 g
+1,Conservas,Frutas,Tottus Aceituna Verde Rellena con Pimiento,9.80,240 g
+1,Conservas,Frutas,Tottus Aceituna Verde con Pepa,8.50,240 g
+1,Conservas,Frutas,Olivalle Aceituna Negra Entera,15.61,400 g
+
+1,Conservas,Pescados,Tottus Filete de Atún en Aceite,3.90,140 g
+1,Conservas,Pescados,Campomar Filete de Atún en Aceite,6.50,150 g
+1,Conservas,Pescados,Tottus Trozos de Atún,3.90,140 g
+1,Conservas,Pescados,Florida Filete de Atún en Aceite de Girasol,6.70,140 g
+1,Conservas,Pecsados,Primor Trozos de Atún,6.50,140 g
+1,Conservas,Pescados,Primor Filete de Atún,6.70,140 g
+1,Conservas,Pescados,Campomar Atún en Trozos en Aceite Vegetal,5.60,150 g
+1,Conservas,Pescados,Florida Filete de Atún en Agua y Sal,6.70,140 g
+1,Conservas,Pescados,Primor Filete de Atún en Agua y Sal,6.70,140 g
+1,Conservas,Pescados,Campomar Lomos de Atún en Aceite Vegetal,5.90,150 g
+1,Conservas,Pescados,D'Gussto Filete de Atún Aceite Girasol,5.90,140 g
+1,Conservas,Pescados,Campomar Lomo de Atún en Aceite Vegetal (Pack 2 Latas),4.90,150 g
+1,Conservas,Pescados,Florida Filete de Atún en Aceite Vegetal,6.70,140 g
+1,Conservas,Pescados,Santorini Filete de Anchoveta en Salsa de Tomate,3.20,200 g
+1,Conservas,Pescados,Compass Filete de Atún en Aceite Vegetal,5.90,140 g
+1,Conservas,Pescados,Santorini Anchoveta en Aceite Vegetal,3.50,125 g
+1,Conservas,Pescados,Campomar Filete de Atún en Agua y Sal,6.30,150 g
+1,Conservas,Pescados,Campomar Filete de Atún Artesanal,7.50,150 g
+1,Conservas,Pescados,D'Gussto Trozos de Atún en Aceite Vegetal,4.50,140 g
+1,Conservas,Pescados,Campomar Lomo Rallado en Aceite Vegetal,5.70,150 g
+1,Conservas,Pescados,Frescomar Trozos de Caballa,4.80,170 g
+1,Conservas,Pescados,Florida Filete de Atún en Aceite Vegetal,4.60,140 g
+1,Conservas,Pescados,Campomar Sólido Caballa 6 Pack,30.50,150 g
+1,Conservas,Pescados,Real Filete de Atún en Aceite Girasol,12.40,80 g 
+1,Conservas,Pescados,Compass Trozos de Atún Tripack en Aceite Vegetal,14.70,140 g
+1,Conservas,Pescados,Frescomar Filete de Bonito del Sur en Aceite Vegetal,4.90,170 g
+1,Conservas,Pescados,Real Filete de Bonito del Sur en Agua Light,12.40,80 g 
+1,Conservas,Pescados,Compass Trozos de Bonito del Sur en Aceite Vegetal,5.50,140 g
+1,Conservas,Pescados,Real Lomo de Bonito del Sur en Aceite de Oliva,14.90,80 g
+1,Conservas,Pescados,Real Sólido de Bonito del Sur en Agua Sin Sal,6.90,140 g
+1,Conservas,Pescados,Campomar Filete de Atún en Aceite (Pack 6 Latas),37.90,150 g 
+1,Conservas,Pescados,Real Filete de Atún en Aceite Girasol,6.40,140 g
+1,Conservas,Pescados,Frescomar Trozos de Atún en Aceite Vegetal,5.60,170 g
+1,Conservas,Pescados,Real Filete de Atún en Agua Sin Sal,6.40,140 g
+1,Conservas,Pescados,Campomar Lomo de Atún en Agua,6.30,150 g
+1,Conservas,Pescados,Campomar Filete de Bonito en Aceite Vegetal,5.10,150 g
+1,Conservas,Pescados,Campomar Filete de Bonito en Aceite Vegetal,4.90,150 g
+1,Conservas,Pescados,Campomar Sólido de Caballa en Aceite Vegetal,5.70,150 g
+1,Conservas,Pesacdos,Campomar Trozos de Caballa en Aceite Vegetal (6 Paquetes),36.50,150 g 
+1,Conservas,Pesacdos,Frescomar Trozos de Atún,4.70,170 g
+1,Conservas,Pescados,Frescomar Filete de Atún en Aceite Vegetal,5.80,170 g
+1,Conservas,Pescados,Real Sólido de Atún en Aceite de Girasol,6.90,140 g
+1,Conservas,Pescados,Compass Filete de Atún Tripack en Aceite Vegetal,15.50,140 g 
+1,Conservas,Pescados,Vigilante Calamares en Su Tinta,12.10,115 g
+1,Conservas,Pescados,Real Sólido de Atún en Aceite de Oliva,8.40,140 g
+1,Conservas,Pescados,Real Trozos de Atún en Aceite Girasol,6.20,140 g
+1,Conservas,Pescados,Tottus Sólido de Atún en Aceite,5.80,140 g
+
+1,Conservas,Vegetales,Valle Fértil Chocolate Dulce Desgranado,6.50,248 g
+1,Conservas,Vegetales,Olivar Pepinillos Encurtidos en Salmuera,8.96,250 g
+1,Conservas,Vegetales,Valle Fértil Jalapeños en Rodajas,8.90,290 g
+1,Conservas,Vegetales,Valle Fértil Chocolate Dulce Desgranado,8.80,432 g
+1,Conservas,Vegetales,Olivos del Sur Tapenade con Alcachofa,15.90,260 g
+1,Conservas,Vegetales,Valle Fértil Palmitos en Rodajas Gourmet,15.85,450 g
+1,Conservas,Vegetales,Olivos del Sur Pickles Rodajas,17.80,520 g
+1,Conservas,Vegetales,Valle Fértil Conservas Vegetales Mixtas,8.80,425 g
+1,Conservas,Vegetales,Olivos del Sur Hummus de Alcachofa,19.90,220 g
+1,Conservas,Vegetales,Olivos del Sur Hummus Tradicional,19.90,220 g
+1,Conservas,Vegetales,Valle Fértil Arvejitas Verdes en Conserva,8.80,425 g
+1,Conservas,Vegetales,Cale Tapenade Aceitunas Agridulces,7.90,109 g
+1,Conservas,Vegetales,Olivalle Aceituna Verde Deshuesada,4.20,160 g
+1,Conservas,Vegetales,Olivos del Sur Alcaparras,13.90,110 g
+1,Conservas,Vegetales,Valle Fértil Hummus con Ajo,19.10,240 g
+1,Conservas,Vegetales,Casa Verde Dip de Alcachofa a la Parmesana,8.90,200 g
+1,Conservas,Vegetales,Valle Fértil Bruschetta de Alcachofa,13.90,295 g
+1,Conservas,Vegetales,Casa Verde Tapenade de Pura Alcachofa,8.90,190 g
+1,Conservas,Vegetales,Cale Tapenade de Alcachofas a la Italiana,7.90,185 g
+1,Conservas,Vegetales,Olivos del Sur Pepinillos Enteros,13.90,550 g
+1,Conservas,Vegetales,El Olivar Aceituna Negra Sin Pepa,10.20,240 g
+1,Conservas,Vegetales,Casa Verde Salsa de Ají Amarillo con Queso,9.50,190 g
+1,Conservas,Vegetales,Tottus Tapenade Mix de Aceitunas,7.90,185 g
+1,Conservas,Vegetales,Olivos del Sur Corazón de Alcachofas en Salmuera,17.60,410 g
+1,Conservas,Vegetales,Olivos del Sur Tapenade Tradicional,14.70,260 g
+1,Conservas,Vegetales,Tottus Corazones de Alcachofa en Salmuera,14.90,415 g
+1,Conservas,Vegetales,Valle Fértil Tapenade Aceitunas Alcachofa,7.90,185 g
+1,Conservas,Vegetales,Valle Fértil Pimiento del Piquillo Gourmet,11.90,290 g
+1,Conservas,Vegetales,Olivos del Sur Tapenade Mix de Aceitunas,14.70,260 g
+1,Conservas,Vegetales,Valle Fértil Alcaparras,13.70,100 g
+1,Conservas,Vegetales,Tottus Aceitunas al Ají,7.90,185 g
+1,Conservas,Vegetales,Olivos del Sur Aceitunas al Ají,14.70,260 g
+1,Conservas,Vegetales,Valle Fértil Alcachofas al Ají,8.70,220 g
+1,Conservas,Vegetales,Valle Fértil Hummus Tradicional,19.00,240 g
+
+1,Aceite,Especial,Pam Aceite de Maíz Original en Spray,23.90,177 ml
+1,Aceite,Especial,Oleico Aceite Aerosol,23.90,170 g
+1,Aceite,Especial,Mi Tierra Aceite de Coco,34.50,350 ml
+1,Aceite,Especial,Spread Aceite de Coco,19.90,200 g
+1,Aceite,Especial,Olivos del Sur Aceite de Ajonjolí,38.60,500 ml
+1,Aceite,Especial,Wesson Aceite de Canola Botella,41.90,1.18 l
+1,Aceite,Especial,Pam Aceite en Spray Butter Envase,23.90,141 g
+1,Aceite,Especial,Olivos del Sur Aceite de Ajonjolí Tottus,20.50,200 ml
+1,Aceite,Especial,Oleico Aceite en Spray Jumbo,39.90,380 g
+1,Aceite,Especial,Spread Aceite de Coco,38.90,400 g
+1,Aceite,Especial,Oleico Aceite Aerosol Sabor Mantequilla,23.90,170 g
+1,Aceite,Especial,Pam Aceite de Oliva,23.90,141 g
+
+1,Aceite,Girasol,Mucho Gussto Aceite de Girasol,7.80,900 ml
+
+1,Aceite,Oliva,Tottus Aceite de Oliva Extra Virgen,36.90,500 ml
+1,Aceite,Oliva,El Olivar Aceite de Oliva Extra Virgen,18.90,200 ml
+1,Aceite,Oliva,El Olivar Aceite de Oliva Extra Virgen,38.90,500 ml
+1,Aceite,Oliva,Carbonell Aceite de Girasol y Oliva,26.90,1 l
+1,Aceite,Oliva,El Olivar Aceite de Oliva Puro,16.90,200 ml
+1,Aceite,Oliva,Tottus Aceite de Oliva Extra Virgen,102.90,2 l
+1,Aceite,Oliva,Olivos del Sur Aceite de Oliva Extra Virgen,82.50,1 l
+1,Aceite,Oliva,Tottus Aceite de Oliva Extra Virgen,65.90,1 l
+1,Aceite,Oliva,El Olivar Aceite de Oliva Puro,35.99,500 ml
+1,Aceite,Oliva,Carbonell Aceite de Girasol y Oliva,15.90,500 ml
+1,Aceite,Oliva,El Olivar Aceite de Oliva Extra Virgen,67.90,1 l
+1,Aceite,Oliva,Carbonell Aceite de Oliva Carbonel Extre Virgen,69.80,1 l
+1,Aceite,Oliva,Olivos del Sur Aceite de Oliva Extra Virgen,74.20,750 ml
+1,Aceite,Oliva,Tottus Life Aceite de Oliva Extra Virgen Orgánico Tottus,41.90,500 ml
+1,Aceite,Oliva,Olivos del Sur Aceite de Oliva Extra Virgen,24.60,200 ml
+1,Aceite,Oliva,Olivos del Sur Aceite de Oliva Extra Virgen,51.90,500 ml
+1,Aceite,Oliva,El Olivar Aceite de Oliva Extra Virgen,25.90,250 ml
+1,Aceite,Oliva,Tottus Premium Aceite de Oliva Extra Virgen,44.90,500 ml
+1,Aceite,Oliva,El Olivar Aceite de Oliva Sabor Intenso,42.90,500 ml
+1,Aceite,Oliva,El Olivar Aceite de Oliva 100% Puro,62.99,1 l
+1,Aceite,Oliva,El Olivar Aceite de Oliva Extra Virgen Sabor Intenso,26.50,250 ml
+1,Aceite,Oliva,Finca Rotondo Aceite de Oliva, 47.70,500 ml
+1,Aceite,Oliva,Carbonell Aceite de Oliva Extra Virgen,24.90,250 ml
+1,Aceite,Oliva,Olivos del Sur Aceite de Oliva 100% Puro,47.80,500 ml
+
+1,Aceite,Orgánico,Olivos del Sur Aceite de Coco,32.50,350 ml
+1,Aceite,Orgánico,Tottus Life Aceite Orgánico de Coco Extra Virgen Tottus,21.90,300 ml
+1,Aceite,Orgánico,Wesson Aceite de Canola,35.80,10 ml
+
+1,Aceite,Vegetal y Soya,Primor Aceite Vegetal Premium Botella,11,900 ml
+1,Aceite,Vegetal y Soya,Tottus Aceite Vegetal,5.90,900 ml
+1,Aceite,Vegetal y Soya,Primor Aceite Vegetal Clásico Botella,10,900 ml
+1,Aceite,Vegetal y Soya,Sao Aceite Vegetal Soya Botella,6.70,900 ml
+1,Aceite,Vegetal y Soya,Del Cielo Aceite Vegetal Botella,6.70,900 ml
+1,Aceite,Vegetal y Soya,Precio Uno Aceite de Soya,6.10,900 ml
+1,Aceite,Vegetal y Soya,Primor Aceite Vegetal Clásico Botella,16.50,1.8 l
+1,Aceite,Vegetal y Soya,Tottus Aceite Vegetal,19.90,3 l
+1,Aceite,Vegetal y Soya,Deleite Premium Aceite Botella,23.10,3 l
+1,Aceite,Vegetal y Soya,Del Cielo Aceite Vegetal Botella,14.30,2 l
+1,Aceite,Vegetal y Soya,Costeño Aceite Costeño,9,900 ml
+1,Aceite,Vegetal y Soya,Deleite Aceite Vegetal Premium,36.90,5 l
+1,Aceite,Vegetal y Soya,Oleico Aceite Botella,32.90,710 ml
+1,Aceite,Vegetal y Soya,Huerto Alamein Aceite Vegetal Olivado,13.40,900 ml
+
+1,Pasta,Pastas Cortas,Don Vittorio Tornillo Paquete,4,500 mg
+1,Pasta,Pastas Cortas,Molitalia Pasta Trigo Tricolor Bolsa,2.90,235 g
+1,Pasta,Pastas Cortas,Don Vittorio Rigatoni Paquete,4,500 g
+1,Pasta,Pastas Cortas,Grano de Oro Fideo Canuto,1.50,250 g
+1,Pasta,Pastas Cortas,Tottus Fideo Tornillo,1.70,250 g
+1,Pasta,Pastas Cortas,Molitalia Fideo Macarron,4,500 g
+1,Pasta,Pastas Cortas,Molitalia Pasta Trigo Letras Pastina Bolsa,1.90,235 g
+1,Pasta,Pastas Cortas,Tottus Fideo Canuto Rayado,1.70,250 g
+1,Pasta,Pastas Cortas,Don Vittorio Codo Rayado Paquete,4,500 g
+1,Pasta,Pastas Cortas,Grano de Oro Fideo Codito Rayado,1.50,250 g
+1,Pasta,Pastas Cortas,Grano de Oro Fideo Rigatoni, 1.50,250 g
+1,Pasta,Pastas Cortas,Molitalia Fideo Tipo Corbatita,1.90,225 g
+1,Pasta,Pastas Cortas,Grano de Oro Fideo Tornillo,1.50,250 g
+1,Pasta,Pastas Cortas,Grano de Oro Fideo Caracol,1.50,250 g
+1,Pasta,Pastas Cortas,Molitalia Fideo Macarron Bolsa,1.90,235 g
+1,Pasta,Pastas Cortas,Totus Fideo Caracol,1.70,250 g
+1,Pasta,Pastas Cortas,Molitalia Pasta Para Ensalada,3.10,235 g
+1,Pasta,Pastas Cortas,Grano de Oro Fideo Plumilla,1.50,250 g
+1,Pasta,Pastas Cortas,Tottus Premium Fideos Penne RigaTé Tottus,5.40,500 g
+1,Pasta,Pastas Cortas,Nicolini Codo Rayado Paquete,1.70,250 g
+1,Pasta,Pastas Cortas,Tottus Fideo Corbata,1.70,250 g
+1,Pasta,Pastas Cortas,Molitalia Fideo Codo Mediano Rayado Bolsa,1.90,235 g
+1,Pasta,Pastas Cortas,Molitalia Fideo Tornillo Pasta Corta,1.90,235 g
+1,Pasta,Pastas Cortas,Dgussto Fideo Canuto,2.10,250 g
+1,Pasta,Pastas Cortas,Tottus Premium Fideos Fusilli,5.40,500 g
+1,Pasta,Pastas Cortas,Tottus Codo Rayado,1.70,250 g
+1,Pasta,Pastas Cortas,Dgussto Fideo Tornillo,2.10,250 g
+1,Pasta,Pastas Cortas,Molinos del Mundo Fideo Mostacholi sin Gluten,20.50,400 g
+1,Pasta,Pastas Cortas,Tottus Premium Fideo Farfalle Bolsa,5.40,500 g
+1,Pasta,Pastas Cortas,Dgussto Fideo Codo,2.10,250 g
+1,Pasta,Pastas Cortas,Molitalia Fideo Rigatoni Bolsa,1.90,235 g
+1,Pasta,Pastas Cortas,Molitalia Fideo Tornillo Pasta,4,500 g
+1,Pasta,Pastas Cortas,América Orgánica Pasta Andida Animalitos,15.50,227 g
+1,Pasta,Pastas Cortas,Agnesi Fideo Eliche Tricolor,14.90,500 g
+1,Pasta,Pastas Cortas,Agnesi Fideo Pennette Rigate,14.90,500 g
+1,Pasta,Pastas Cortas,Agnesi Fideo Tortiglioni N° 46,14.90,500 g
+1,Pasta,Pastas Cortas,Molitalia Fideo Linguine Bolsa,3.30,450 g
+1,Pasta,Pastas Cortas,Don Vittorio Codito Rayado Paquete,2,250 g
+1,Pasta,Pastas Cortas,Don Vittorio Codo Chico Paquete,2,250 g
+1,Pasta,Pastas Cortas,Nicolini Pasta Trigo Codo Chino,1.90,235 g
+1,Pasta,Pastas Cortas,Don Vittorio Corbata Grande Paquete,2,250 g
+1,Pasta,Pastas Cortas,Don Vittorio Caracol Chico Paquete,2,250 g
+1,Pasta,Pastas Cortas,Don Vittorio Tornillo Bolsa Paquete,2,250 g
+1,Pasta,Pastas Cortas,Don Vittorio Rigatoni Paquete,2,250 g
+1,Pasta,Pastas Cortas,Don Vittorio Canuto Chico Paquete,2,250 g
+
+
+1,Pasta,Pastas Especiales,Tottus Sémola,1.10,200 g
+1,Pasta,Pastas Especiales,Montanara Fideo Fussilli de Verduras,7.80,500 g
+1,Pasta,Pastas Especiales,Montanara Fideo Fetuccini con Espinaca,7.80,600 g
+1,Pasta,Pastas Especiales,Montanara Fideo Pastinas de Verduras,4,250 g
+1,Pasta,Pastas Especiales,Kraft Macaroni y Cheese Original,7.10,206 g
+1,Pasta,Pastas Especiales,Choung Lee Fideo a Vapor Seco,5.90,250 g
+1,Pasta,Pastas Especiales,Grano de Oro Spaghetti Multicereal,3.20,450 g
+1,Pasta,Pastas Especiales,Grano de Oro Fideo Caracol Multicereal,1.50,225 g
+1,Pasta,Pastas Especiales,Grano de Oro Fideo Canuto Multicereal,1.50,225 g
+1,Pasta,Pastas Especiales,Tottus Macaroni & Cheese,4.90,226 g
+1,Pasta,Pastas Especiales,Age Fideo Spaguetti Integral,14.50,500 g
+1,Pasta,Pastas Especiales,Molitalia Sémola,1.50,200 g
+1,Pasta,Pastas Especiales,El Dorado Pasta Codito de Lentejas Rojas,28.90,250 g
+1,Pasta,Pastas Especiales,Agnesi Lasagne Gialle,29.90,500 g
+1,Pasta,Pastas Especiales,Misura Pasta Pennette Integral,18.90,500 g
+1,Pasta,Pastas Especiales,Misura Fusilli Integral,18.90,500 g
+1,Pasta,Pastas Especiales,América Orgánica Pasta Andina Animalitos,15.50,227 g
+1,Pasta,Pastas Especiales,Age Fideo Fetuccini Integral,14.50,500 g
+1,Pasta,Pastas Especiales,Grano de Oro Fideo Codito Rayado,1.50,250 g
+1,Pasta,Pastas Especiales,América Orgánica Tallarines Spaguetti,15.20,227 g
+1,Pasta,Pastas Especiales,América Orgánica Fideos TriGrano Espaguetti con Vegetales,19.10,227 g
+1,Pasta,Pastas Especiales,América Orgánica Fideos TriGrano Fusilli,15.80,227 g
+1,Pasta,Pastas Especiales,Agnesi Tagliatelle Agnesi Si,19.90,250 g
+1,Pasta,Pastas Especiales,Agnesi Fideo Spaguetti Integral,18.50,500 g
+1,Pasta,Pastas Especiales,América Orgánica TriGrano Penne,18.50,227 g
+1,Pasta,Pastas Especiales,Molinos del Mundo Fetuccini Arroz y Yuca sin Gluten.21.50,400 g
+1,Pasta,Pastas Especiales,Grano de Oro Fideo Tornillo Multicereal,1.50,225 g
+1,Pasta,Pastas Especiales,Barilla Fideo Pennete Rigatte Integral,16.90,500 g
+1,Pasta,Pastas Especiales,Agnesi Fettuccine al Huevo,19.90,250 g
+1,Pasta,Pastas Especiales,América Orgánica Anelli,13.80,220 g
+1,Pasta,Pastas Especiales,Grano  de ORo Tallarín Multicereal,3.20,450 g
+1,Pasta,Pastas Especiales,Dr Schar Fideo Fusilli Schar sin Gluten,15.50,250 g
+1,Pasta,Pastas Especiales,El Dorado Pasta de Quinua Spaghetti,19.90,250 g
+1,Pasta,Pastas Especiales,El Dorado Pasta de Arroz Spaguetti,15.90,250 g
+1,Pasta,Pastas Especiales,El Dorado Pasta de Maíz Amarillo Spaguetti,15.90,250 g
+1,Pasta,Pastas Especiales,El Dorado Pasta de Maíz Amarillo Penne,14.90,250 g
+1,Pasta,Pastas Especiales,El Dorado Pasta de Chia Spaghetti,19.90,250 g
+1,Pasta,Pastas Especiales,El Dorado Pasta de Arroz Penne,14.90,250 g
+1,Pasta,Pastas Especiales,Nong Shim Fideos Ghajang Myun con Salsa de Soya,9.50,140 g
+1,Pasta,Pastas Especiales,Barilla Fideos Spaghetti Libre de Gluten,18.70,400 g
+1,Pasta,Pastas Especiales,Molitalia Lasagna Lista Para Rellenar y Hornear,10.20,350 g
+1,Pasta,Pastas Especiales,Barilla Fideo Lasagne,19.60,500 g
+1,Pasta,Pastas Especiales,América Orgánica Fideos Andina Fusilli de Arroz y Quinua,15.20,227 g
+
+1,Pasta,Pastas Largas,Don Vittorio Spaguetti Paquete,7,950 g
+1,Pasta,Pastas Largas,Don Vittorio Cabello de Ángel Paquete,2,250 g
+1,Pasta,Pastas Largas,Molitalia Fideos Spaghetti,5.50,950 g
+1,Pasta,Pastas Largas,Don Vittorio Fetuccini Paquete,7,950 g
+1,Pasta,Pastas Largas,Tottus Pasta Spaguetti,4.90,950 g
+1,Pasta,Pastas Largas,Don Victorio Linguini Grosso Paquete,7,950 g
+1,Pasta,Pastas Largas,Nicolini Spaguetti Paquete,4.80,1 kg
+1,Pasta,Pastas Largas,Tottus Fideo Cabello de Ángel,1.70,250 g
+1,Pasta,Pastas Largas,Nicolini Tallarin Grueso Paquete,4.80,1 kg
+1,Pasta,Pastas Largas,Nicolini Spaguetti Paquete,3.30,500 g
+1,Pasta,Pastas Largas,Nicolini Tallarín Delgado Paquete,3.30,500 g
+1,Pasta,Pastas Largas,Molitalia Fideos Spaghetti,4,450 g
+1,Pasta,Pastas Largas,Tottus Fideos Linguini,3,500 g
+1,Pasta,Pastas Largas,Tottus Pasta Linguini Bolsa,5.40,950 g
+1,Pasta,Pastas Largas,Molitalia Fideos Cabello de Ángel,2.30,250 g
+1,Pasta,Pastas Largas,Molitalia Fideos Canuto Pasta Corta,1.90,235 g
+1,Pasta,Pastas Largas,Dgussto Fideos Spaghetti,3.90,500 g
+1,Pasta,Pastas Largas,Grano de Oro Fideo Tallarín,2.80,500 g
+1,Pasta,Pastas Largas,Don Vittorio Spaguetti Paquete,4,500 g
+1,Pasta,Pastas Largas,Tottus Premium Fetticcine Tottus,5.40,500 g
+1,Pasta,Pastas Largas,Montanara Fideo Tagliatelle Huevo,7.80,500 g
+1,Pasta,Pastas Largas,Molitala Fideo Tallarín,3.30,450 g
+1,Pasta,Pastas Largas,Grano de Oro Fideos Spaghetti,2.80,500 g
+1,Pasta,Pastas Largas,Nicolini Tallarín Grueso Paquete,3.30,500 g
+1,Pasta,Pastas Largas,Tottus Pasta Spaguetti Bolsa,3,450 g
+1,Pasta,Pastas Largas,Montanara Fideo Spaghetti al Huevo,7.80,500 g
+1,Pasta,Pastas Largas,Don Vittorio Linguini Grosso Paquete,4,500 g
+1,Pasta,Pastas Largas,Montanara Fideo Fetuccini de Huevo,7.80,500 g
+1,Pasta,Pastas Largas,Don Vittorio Linguini Grosso Paquete,4,500 g
+1,Pasta,Pastas Largas,Ajinomen Tallarín Rojo,2.30,100 g
+1,Pasta,Pastas Largas,Nicolini Cabello de Ángel Paquete,1.70,250 g
+1,Pasta,Pastas Largas,Montanara Fideo Cabello de Ángel,4,250 g
+1,Pasta,Pastas Largas,Gn Fideo Spaguetti Largo,3.60,500 g
+1,Pasta,Pastas Largas,Don Vittorio Linguini Paquete,4,500 g
+1,Pasta,Pastas Largas,Barilla Fideo Spaguettoni ,11.50,500 g
+1,Pasta,Pastas Largas,Agnesi Fideo Tagliatelle Mezzane,19.70,500 g
+1,Pasta,Pastas Largas,Gn Fideo Tallarín Largo,3.60,500 g
+1,Pasta,Pastas Largas,Dgussto Fideo Spaghetti,6,1 l
+1,Pasta,Pastas Largas,Totuss Premium Fideos Spaghetti Tottus,5.40,500 g
+1,Pasta,Pastas Largas,Agnesi Fideos Spaguetti,22.50,1 kg
+1,Pasta,Pastas Largas,Agnesi Fideos Linguini N°10,13.50,500 g
+1,Pasta,Pastas Largas,Molinos del Mundo Spaghetti sin Gluten,21,400 g
+1,Pasta,Pastas Largas,Agnesi Fideo Spaguetti N°3,13.50,500 g
+1,Pasta,Pastas Largas,Chong Lee Fideo Delgado al Huevo,10.30,500 g
+1,Pasta,Pastas Largas,Dr Schar Fideos Spaghetti sin Gluten,15.50,250 g
+1,Pasta,Pastas Largas,Agnesi Fideo Spaguetti N°2,13.50,500 g
+1,Pasta,Pastas Largas,Barilla Fideos Spaguettini,12.10,500 g
+1,Pasta,Pastas Largas,Barilla Fideo Fusilli,13.50,500 g
+
+1,Menestras,Arvejas,Tottus Arveja Partida Menestra,4,500 g
+1,Menestras,Arvejas,Tesoro del Campo Arveja Partida Menestra,4.20,500 g
+1,Menestras,Arvejas,Costeno Arveja Partida Costeño Menestra,4.40,500 g
+1,Menestras,Arvejas,Tottus Arveja Menestra,7.70,1 kg
+
+1,Menestras,Frijoles,Tottus Frijol Canario Menestra,7.10,500 g
+1,Menestras,Frijoles,Tottus Frijol Panamito Menestra,5.70,500 g
+1,Menestras,Frijoles,Tottus Frijol Red Kidney Menestra,5.60,500 g
+1,Menestras,Frijoles,Tesoro del Campo Frijol Canario Menestra,9.20,500 g
+1,Menestras,Frijoles,Tesoro del Campo Frijol Panamito Menestra,6.30,500 g
+1,Menestras,Frijoles,Costeno Frijol Canario Costeño Menestra,10.40,500 g
+
+1,Menestras,Garbanzos,Tesoro del Campo Garbanzo Menestra,6.90,500 g
+1,Menestras,Garbanzos,Tottus Garbanzo Menestra,7.20,500 g
+1,Menestras,Garbanzos,Costeno Garbanzo Costeño Menestra,7.40,500 g
+
+1,Menestras,Lentejas,Tottus Lenteja Bebé Menestra,5.70,500 g
+1,Menestras,Lentejas,Costeno Lenteja Costeño Menestra,7.30,500 g
+1,Menestras,Lentejas,Tottus Lenteja Bebé Menestra,10.50,1 kg
+1,Menestras,Lentejas,Tottus Lenteja Menestra,10.50,1 kg
+1,Menestras,Lentejas,Tesoro del Campo Lenteja Bebé Menestra,6.40,500 g
+1,Menestras,Lentejas,Costeno Lentejón Costeño Menestra,6.90,500 g
+1,Menestras,Lentejas,Tesoro del Campo Lenteja Menestra,6.20,500 g
+
+1,Menestras,Otras Legumbres,Tesoro del Campo Trigo Mote Menestra,3.80,500 g
+1,Menestras,Otras Legumbres,Tottus Trigo Mote Menestra,4.60,500 g
+1,Menestras,Otras Legumbres,Tottus Papa Seca Menestra,5.70,400 g
+1,Menestras,Otras Legumbres,Tottus Maíz Chulpi Menestra,6.30,400 g
+1,Menestras,Otras Legumbres,Tottus Life Quinua Blanca Orgánica Menestra,15.90,500 g
+1,Menestras,Otras Legumbres,Tesoro del Campo Papa Seca Menestra,7.30,500 g
+1,Menestras,Otras Legumbres,Costeno Papa Seca Costeño Menestra,8.40,500 g
+
+1,Menestras,Pallares,Tottus Pallar Menestra,5.70,500 g
+1,Menestras,Pallares,Tesoro del Campo Pallar Seleccionado Menestra,7.80,500 g
+1,Menestras,Pallares,Costeno Pallar Costeño Menestra,7.70,500 g
+
+1,Menestras,PopCorn,Tottus Maíz Pop Corn Menestra,4.60,500 g
+1,Menestras,PopCorn,Tottus Maíz Pop Corn Menestra,7.40,1 kg
+1,Menestras,PopCorn,Costeno Maíz Pop Corn Costeño Menestra,4.80,500 g
+1,Menestras,PopCorn,Tesoro del Campo Maíz Pop Corn Menestra,5,500,
+1,Menestras,PopCorn,Tesoro del Campo Maíz Pop Corn,3.70,350 g
+
+1,Menestras,Quinua,Tottus Quinua Menestras,9.20,500 g
+1,Menestras,Quinua,Tottus Orígenes Quinua Blanca Tottus Orígenes Menestra,11.90,500 g
+1,Menestras,Quinua,Costeno Quinua Costeño Menestras,9.90,500 g
+1,Menestras,Quinua,Tottus Quinua Menestra,17.80,1 kg
+1,Menestras,Quinua,Tottus Life Quinua Blanca Orgánica Menestra,15.90,500 g
+1,Menestras,Quinua,Moliscusco Hojuelas de Quinua,8.78,200 g
+1,Menestras,Quinua,Tottus Orígenes Quinua Roja Tottus Orígenes Menestra,11.90,500 g
+
+1,Sal,Con Especias,Biosal Sal,16.10,850 g
+1,Sal,Con Especias,Biosal Sal Light,4.10,125 g
+
+1,Sal,De Cocina,Tottus Sal de Cocina Tottus,2.10,1 kg
+
+1,Sal,De Maras,Tottus Orígenes Sal de Maras Fina Tottus Orígenes Doypack,9.90,600 g
+1,Sal,De Maras,Marina Sal de Mar para Cocina,2.50,1 kg
+1,Sal,De Maras,Tottus Orígenes Sal de Maras Guesa Tottus Orígenes Doypack,9.90,600 g
+1,Sal,De Maras,Tottus Orígenes Sal de Maras Gruesa Molinillo Tottus,15.20,100 g
+1,Sal,De Maras,Tottus Orígenes Sal de Maras Gruesa con Ají Panca Tottus Orígenes,15.20,100 g
+1,Sal,De Maras,Tottus Orígenes Sal de Maras Gruesa con Hierbas Mediterráneas Tottus,15.20,100 g
+1,Sal,De Maras,Tottus Orígenes Sal de Maras Gruesa con Hiervas Mediterraneas Tottus,9.90,90 g
+
+1,Sal,De Mesa,Marina Sal de Mar de Mesa Emsal,2.50,1 kg
+1,Sal,De Mesa,Marina Salero Emsal Fina de Mesa,5,125 g
+1,Sal,De Mesa,Marina Salero Emsal Fina de Mesa,6.70,500 g
+1,Sal,De Mesa,Tottus Sal de Mesa,2.10,1 kg
+
+1,Sal,Parrillera,Marina Sal Parrillera Emsal,10,500 g
+1,Sal,Parrillera,Tottus Sal Parrillera,8.50,750 g
+
+1,Salsas para Pasta,Otras Salsas,Tottus Crema de Esparragos,2.90,68 g
+1,Salsas para Pasta,Otras Salsas,Casa Verde Salsa Roja Peruana Casa Verde,6.60,200 g
+1,Salsas para Pasta,Otras Salsas,Provenzal Salsa Alfredo,8.90,65 g
+1,Salsas para Pasta,Otras Salsas,Casa Verde Salsa Blanca Pouch,4.60,150 g
+1,Salsas para Pasta,Otras Salsas,Casa Verde Puré con Manzana Frasco,10,370 g
+1,Salsas para Pasta,Otras Salsas,Barilla Sugo Basilico,18.50,400 g
+1,Salsas para Pasta,Otras Salsas,Barilla Salsa Sugo Ricotta,18.20,400 g
+
+1,Salsas para Pasta,Salsa Pesto,Barilla Salsa Pesto Genovese,19.20,190 g
+1,Salsas para Pasta,Salsa Pesto,Tottus Salsa Pesto en Polvo,2,30 g
+1,Salsas para Pasta,Salsa Pesto,Casa Verde Salsa Verde Pouch,5.60,160 g
+1,Salsas para Pasta,Salsa Pesto,Casa Verde Salsa Verde Peruana,14.10,330 g
+1,Salsas para Pasta,Salsa Pesto,Casa Verde Salsa Peruano,8.70,190 g
+
+1,Salsas para Pasta,Salsa Tomate,Molitalia Salsa Tomate Pomarola Clásica,1.90,145 g
+1,Salsas para Pasta,Salsa Tomate,Don Vittorio Salsa Roja Completa Doypack,7,400 g
+1,Salsas para Pasta,Salsa Tomate,Molitalia Pure Tomate Pomarola Concetrado,1.60,110 g
+1,Salsas para Pasta,Salsa Tomate,Molitalia Salsa Tomate Pomarola Clásica,3.50 290 g
+1,Salsas para Pasta,Salsa Tomate,Molitalia Salsa Tomate Pomarola Clásica Molitalia,11.10,6 UN
+1,Salsas para Pasta,Salsa Tomate,Don Vittorio Salsa Roja Completa Doypack,4.40,200 g
+1,Salsas para Pasta,Salsa Tomate,Pomarola Concentrado de Tomate,13.90,1 kg
+
+1,Salsas/Cremas,Ají y Rocoto,Alacena Crema de Ají Tari Doypack,12.90,400 g
+1,Salsas/Cremas,Ají y Rocoto,Sibarita Salsa de Ají Amarillo,3.60,100 g
+1,Salsas/Cremas,Ají y Rocoto,Tottus Crema de Rocoto,12.20,400 g
+1,Salsas/Cremas,Ají y Rocoto,Tottus Origenes Rocota Criollo Tottus,8.70,250 g
+1,Salsas/Cremas,Ají y Rocoto,Alacena Crema de Ají Tari Doypack,4.50,85 g
+1,Salsas/Cremas,Ají y Rocoto,Tottus Ají de la Casa,8.70,250 g
+1,Salsas/Cremas,Ají y Rocoto,Alacena Crema de Rocoto Uchucuta Doypack,12.90,400 g
+
+1,Salsas/Cremas,Aliños y Vinagretas,El Olivar Vinagreta Finas Hierbas,9.90,200 ml
+1,Salsas/Cremas,Aliños y Vinagretas,Walibi Salsa Vinagre,6.90,200 g
+1,Salsas/Cremas,Aliños y Vinagretas,Valle Fértil Salsa Finas Hierbas Valle Fértil,9.80,370 g
+1,Salsas/Cremas,Aliños y Vinagretas,El Olivar Vinagreta Light,12.70,340 g
+1,Salsas/Cremas,Aliños y Vinagretas,El Olivar Vinagreta a la Mostaza,9.90,200 ml
+1,Salsas/Cremas,Aliños y Vinagretas,El Olivar Salsa Casera al Olivo,9.50,200 ml
+1,Salsas/Cremas,Aliños y Vinagretas,Acaville Aliño Mediterráneo,14.90,200 ml
+
+1,Salsas/Cremas,BBQ,Valle Fértil Salsa Bbq Ahumada Valle Fértil,10.30,370 g
+1,Salsas/Cremas,BBQ,Sweet Baby Rays Salsa Bbq Nuez o Azúcar,30.90,510 g
+1,Salsas/Cremas,BBQ,Hunts Salsa Bbq Original,9.70,360 g
+1,Salsas/Cremas,BBQ,Valle Fértil Salsa Bbq Picante Valle Fértil,10.30,370 g
+1,Salsas/Cremas,BBQ,Hunts Salsa Bbq con Miel,15.90,620 g
+1,Salsas/Cremas,BBQ,Tottus Salsa Bbq Original,9.90,510 g
+1,Salsas/Cremas,BBQ,Hunts Salsa Bbq Original Hunt's,15.90,620 g
+
+1,Salsas/Cremas,Huancaína,Alacena Crema de Ají y Queso Huacaína Doypack,12.90,400 g
+1,Salsas/Cremas,Huancaína,Tottus Huancaína,2.90,85 mg
+1,Salsas/Cremas,Huancaína,Alacena Crema de Ají y Queso Huancaína Doypack,4.50,85 g
+1,Salsas/Cremas,Huancaína,Casa Verde Salsa Huancaína,5.10,75 g
+1,Salsas/Cremas,Huancaína,Nicolini Crema Huancaína Al Plato Doypack,7.60,190 g
+1,Salsas/Cremas,Huancaína,Tottus Origenes Salsa Huancaína Tottus,8.70,250 g
+
+1,Salsas/Cremas,Ketchup,Alacena Kétchup Doypack,7.80,380 g
+1,Salsas/Cremas,Ketchup,Heinz Kétchup,14,397 g
+1,Salsas/Cremas,Ketchup,Tottus Kétchup,3.70,220 g
+1,Salsas/Cremas,Ketchup,Alacena Kétchup Doypack,13.800 g
+1,Salsas/Cremas,Ketchup,Tottus Kétchup Americano,7.90,425 g
+1,Salsas/Cremas,Ketchup,B&D Kétchup Doypack,11.90,1 k
+
+1,Salsas/Cremas,Mayonesa,Alacena Mayonesa Doypack,14,475 g
+1,Salsas/Cremas,Mayonesa,Alacena Mayonesa DoyPack,19.60,850 g
+1,Salsas/Cremas,Mayonesa,Alacena Mayonesa Light Doypack,14.90,400 g
+1,Salsas/Cremas,Mayonesa,Alacena Mayonesa Doypack,8.60,190 g
+1,Salsas/Cremas,Mayonesa,Hellmanns Mayonesa Ligera Doypack,14.90,475 g
+1,Salsas/Cremas,Mayonesa,Dgussto Mayonesa Doypack,11.50,475 g
+1,Salsas/Cremas,Mayonesa,Hellmanns Mayonesa Light,18.90,443 ml
+
+1,Salsas/Cremas,Mostaza,Libbys Mostaza,5.30,200 g
+1,Salsas/Cremas,Mostaza,Alacena Mostaza Doypack,8.80,400 g
+1,Salsas/Cremas,Mostaza,Alacena Mostaza Doypack,5.50,220 g
+1,Salsas/Cremas,Mostaza,Tottus Mostaza,3.60,220 g
+1,Salsas/Cremas,Mostaza,Tottus Mostaza Dulce y Picante,9.90,280 g
+1,Salsas/Cremas,Mostaza,Heinz Mostaza Envase,11.80,255 g
+
+1,Salsas/Cremas,Otras Salsas,Mexi Salsa Salsa de Tomate Picante con Ajíes Peruanos Envase,12.80,430 g
+1,Salsas/Cremas,Otras Salsas,Tottus Vinagre Ranch,4.90,237 g
+1,Salsas/Cremas,Otras Salsas,Herdez Salsa Casera con Chile Habanera,16.90,453 g
+1,Salsas/Cremas,Otras Salsas,Tottus Salsa Bbp Picante,9.90,510 g
+1,Salsas/Cremas,Otras Salsas,B&D Salsa Barbecue Doypack,5.10,200 g
+1,Salsas/Cremas,Otras Salsas,Tabasco Salsa Picante,13.90,60 ml
+1,Salsas/Cremas,Otras Salsas,Tabasco Salsa Geen Pepper,30.90,150 ml
+
+1,Condimentos,Aderezos,Piki Ajo Molido,10.20,350 g
+1,Condimentos,Aderezos,Sibarita Salsa de Culantro,4,3 UN
+1,Condimentos,Aderezos,El Olivar Aderezo Casero,7.20,200 g
+1,Condimentos,Aderezos,Barcidda Salsa de Ostion,10.50,280 g
+1,Condimentos,Aderezos,Piki Aderezo para Pollo,3.10,100 g
+1,Condimentos,Aderezos,Piki Aderezo para Pollo,9.70,200 g
+1,Condimentos,Aderezos,Provenzal Mezcla para Cebiche CauCau,8.50,60 g
+1,Condimentos,Aderezos,2 Banderas Aderezo para Pavo,8.90,300 g
+
+1,Condimentos,Salsas Orientales,Olisur Salsa Hoisin OS Envase,11.80,250 g
+1,Condimentos,Salsas Orientales,Lee Kum Kee Salsa Hoisin,27.90,397 g
+1,Condimentos,Salsas Orientales,Olisur Salsa de Ostion Os,10,280 g
+1,Condimentos,Salsas Orientales,Adelmi Salsa Tare 7.70,330 g
+1,Condimentos,Salsas Orientales,Lee Kum Kee Salsa Agridulce,29.60,240 g
+1,Condimentos,Salsas Orientales,Barcidda Salsa de Soya Oscura,13.90,500 ml
+1,Condimentos,Salsas Orientales,Lee Kum Kee Salsa de Ostión,36.20,510 g
+
+1,Condimentos,Sazonadores,Ajinomoto Caldo de Gallina Doña Gusta,2.20,6 UN
+1,Condimentos,Sazonadores,Sibarita Sazonador,2.60,6 UN
+1,Condimentos,Sazonadores,Ajinomoto Sazonador Bolsa,2.90,100 g
+1,Condimentos,Sazonadores,Ajinomoto Caldo Sabor Costilla de Res Doña Gusta,2.20,6 UN
+1,Condimentos,Sazonadores,Maggi Cubito Carne,5.50,100 g
+1,Condimentos,Sazonadores,Ajinomix Sazonador Chifa,2.20,4 UN
+1,Condimentos,Sazonadores,Maggi Cubo Sabor Carne Caja,4.50,8 UN
+
+1,Condimentos,Sillao,Ajinosillao Ajino Sillao,4.70,500 ml
+1,Condimentos,Sillao,Kikko Salsa de Soya Siyau Frasco,4.80,500 ml
+1,Condimentos,Sillao,Barcidda Salsa de Soya Clara,12.90,500 ml
+1,Condimentos,Sillao,Kikko Salsa de Soya Ajoikion Frasco,5.40,350 ml
+1,Condimentos,Sillao,Kikko Salsa de Soya Siyau Frasco,2.10,160 ml
+1,Condimentos,Sillao,Ajinosillao Ajino Sillao,2.50,150 ml
+1,Condimentos,Sillao,Kikko Salsa de Soya Siyau Frasco,3.70,350 ml
+
+1,Condimentos,Vinagre,Tottus Vinagre Blanco,3.90,1 L
+1,Condimentos,Vinagre,Florida Vinagre Tinto,3.40,625 ml
+1,Condimentos,Vinagre,Venturo Vinagre de Vino Tinto,5.20,600 ml
+1,Condimentos,Vinagre,Venturo Vinagre de Vino Blanco,5.20,600 ml
+1,Condimentos,Vinagre,Tottus Vinagre Tinto Botella,2.10,250 ml
+1,Condimentos,Vinagre,Florida Vinagre Blanco Botella,4.60,1 l
+1,Condimentos,Vinagre,Florida Vinagre Blanco Botella,3.40,625 ml
+
+1,Especias,Ajo,Sibarita Ajos en Pasta Ajo Sibarita Doypack,31.90,550 g
+
+1,Especias,Canela,Tottus Canela Entera,2.10,5 g
+1,Especias,Canela,Cuatro Estaciones Canela Entera,5.40,20 g
+1,Especias,Canela,Sibarita Canela Molida,2.60,10 g
+1,Especias,Canela,Tottus Canela Molida,2.50,20 g
+1,Especias,Canela,Karino Canela Molida Kariño,4.20,15 g
+1,Especias,Canela,Badia Canela en Polvo Envase,10.40,56.7 g
+1,Especias,Canela,Tottus Canela Molida,8,50 g
+
+1,Especias,Orégano,Tottus Orégano Entero,1.40,10 g
+1,Especias,Orégano,Sibarita Orégano Pack,2.20,6 UN
+1,Especias,Orégano,Karino Orégano Molido Kariño,3.30,15 g
+1,Especias,Orégano,Karino Orégano Entero Kariño,3.30,18 g 
+1,Especias,Orégano,Tottus Orégano Entero,5.30,10 g
+1,Especias,Orégano,Tottus Orégano Molido,5.20,35 g
+
+1,Especias,Otras Especias,Badia Perejil,4.50,7 g
+1,Especias,Otras Especias,Sibarita Palillo Amarillo,2.40,57 g
+1,Especias,Otras Especias,Sibarita Tuco Tallarines,5.20,50.4 g
+1,Especias,Otras Especias,Ajinomix Sazonador PopCorn Mantequilla,3.50,36 g
+1,Especias,Otras Especias,Badia Kión Molido Frasco,9.40,42.5 g
+1,Especias,Otras Especias,Tottus Ajos en Polvo,7,50 g
+
+1,Especias,Pimienta,Tottus Pimienta Negra Molida,2.50,20 g
+1,Especias,Pimienta,Sibarita Pimienta 100% Pura,4.10,21.6 g
+1,Especias,Pimienta,Tottus Pimienta Negra Molida,8.40,60 g
+1,Especias,Pimienta,Badia Pimienta Negra Molida,10.60,56.7 g
+1,Especias,Pimienta,Tottus Pimienta Blanca Molida,8,60 g
+1,Especias,Pimienta,Karino Pimienta Negra Molida Kariño,5.10,18 g
+
+1,Puré Sopas y Bases,Bases,Provenzal Mezcla para Arroz con Pollo Seco y Aguadito Provenzal,9,58 g
+
+1,Puré Sopas y Bases,Cremas,Maggi Crema de Hongos Maggi,3.80,65 g
+
+1,Puré Sopas y Bases,Mezclas para Apanar,Ajinomix Mezcla para Apanar Receta Apanado,2.70,96 g
+1,Puré Sopas y Bases,Mezclas para Apanar,Ajinomix Mezcla para Apanar Receta Crocante,2.70,96 g
+1,Puré Sopas y Bases,Mezclas para Apanar,Tottus Mezcla para Apanar,2.30,90 g
+1,Puré Sopas y Bases,Mezclas para Apanar,Maggi Mezcla Apanar Semola Harina Condimentado,2.50,80 g
+1,Puré Sopas y Bases,Mezclas para Apanar,Tottus Mezcla para Apanar Crocante,2.10,90 g
+1,Puré Sopas y Bases,Mezclas para Apanar,Ajinomix Mezcla Lista para Apanar Picante,2.70,80 g
+
+1,Puré Sopas y Bases,Purés,Knorr Puré de Papa,4.90,125 g
+1,Puré Sopas y Bases,Purés,Tottus Puré de Papas,4.20,125 g
+1,Puré Sopas y Bases,Purés,Tottus Puré de Papas Instantáneo,8.20,250 g
+
+1,Puré Sopas y Bases,Salsas Tottus Salsa Peto en Polvo Tottus,2,30 g
+
+1,Puré Sopas y Bases,Sopas,Ajinomen Sopa Instantánea Sabor Pollo Verduras,2,80 g
+1,Puré Sopas y Bases,Sopas,Ajinomen Sopa Instantánea Sabor Gallina Picante,2,80 g
+1,Puré Sopas y Bases,Sopas,Ajinomen Sopa Instantánea Sabor Gallina,2,80 g
+1,Puré Sopas y Bases,Sopas,Ajinomen Sopa Instantánea Sabor Pollo,2,80 g,
+1,Puré Sopas y Bases,Sopas,Ajinomen Sopa Instantánea Sabor Carne Oriental,2,80 g
+1,Puré Sopas y Bases,Sopas,Ajinomen Sopa Instantánea Sabor Gallina Criolla,2,80 g
+
+1,Harina,Especiales,Tottus Harina Integral,8.20,1 kg
+1,Harina,Especiales,Nuestra Salud Harina Maca y Lúcuma,20.90,200 g
+1,Harina,Especiales,Pan Harina Maíz Amarillo Precocida Empaque,7.50,1 kg
+1,Harina,Especiales,Mi Tierra Harina de Coco,15.50,400 g
+1,Harina,Especiales,Nuestra Salud Harina de Maca Amarilla,19.60,200 g
+1,Harina,Especiales,Nuestra Salud Harina de Maca Negra,29.50,200 g
+
+1,Harina,Sin Preparar,Molitalia Harina sin Preparar,6.50,1 kg
+1,Harina,Sin Preparar,Blanca Flor Harina de Trigo Preparada Bolsa,9,1 kg
+1,Harina,Sin Preparar,Tottus Harina de Trigo Preparada,7.10,1 kg
+1,Harina,Sin Preparar,Tottus Harina sin Preparar,6.90,1 kg
+1,Harina,Sin Preparar,Pan Harina de Maíz Blanco Precocida,7.50,1 kg
+1,Harina,Sin Preparar,Gatti Harina de Ajonjolí,10,250 g
+1,Harina,Sin Preparar,Renacer Harina de Quinua,33.90,500 g
+
+2,Panadería,Kekes Turrones y King Kongs,Tottus Keke de Plátano Rectangular,9.90,430 g
+2,Panadería,Kekes Turrones y King Kongs,Tottus Keke de Naranja Rectangular,9.90,430 g
+2,Panadería,Kekes Turrones y King Kongs,Tottus Keke Marmoleado Rectangular,9.90,430 g 
+2,Panadería,Kekes Turrones y King Kongs,Bimbo Keke Familiar Naranja,9.90,380 g
+2,Panadería,Kekes Turrones y King Kongs,Tottus Keke de Plátano Redondo, 16.90,900 g 
+2,Panadería,Kekes Turrones y King Kongs,Marinela Pingüinos Cookies and Cream,3.50,80 g
+2,Panadería,Kekes Turrones y King Kongs,Marinela Pingüinos Triple Chocolate 2P,3.50,80 g  
+2,Panadería,Kekes Turrones y King Kongs,Bimbo Little Bites Blueberry Cj 10P,8.90,130 g
+2,Panadería,Kekes Turrones y King Kongs,Bimbo Little Bites Brownie Cj 10P,8.90,130 g 
+2,Panadería,Kekes Turrones y King Kongs,Bimbo Bimboletes Marmoleado Bolsa 3P,3.30,105 g 
+2,Panadería,Kekes Turrones y King Kongs,Bimbo Bimboletes Vainilla Bolsa 3P,3.30,105 g
+2,Panadería,Kekes Turrones y King Kongs,Tottus Keke Marmoleado Redondo,16.90,850 g 
+2,Panadería,Kekes Turrones y King Kongs,Tottus Keke con Zanahoria y Frosting,15.90,470 g 
+2,Panadería,Kekes Turrones y King Kongs,Tottus Keke de Naranja Redondo,16.90,850 g
+2,Panadería,Kekes Turrones y King Kongs,Bimbo Mini Pingüino Marinela 10 Unidades,10.90,200 g 
+2,Panadería,Kekes Turrones y King Kongs,Bimbo Bites Chipa Choco Cj 10P,8.90,130 g 
+2,Panadería,Kekes Turrones y King Kongs,Tottus Chifon Sabor a Naranja,21.90,850 g 
+2,Panadería,Kekes Turrones y King Kongs,Tottus Keke Marmoleado,8.90,380 g
+2,Panadería,Kekes Turrones y King Kongs,Tottus Turrón Doña Pepa,21.90,1 kg
+2,Panadería,Kekes Turrones y King Kongs,Marinela Minix Gansito 8P,10.90,240 g
+2,Panadería,Kekes Turrones y King Kongs,Marinela Minix Pingüino Triple Chocolate 10P,10.90,200 g
+2,Panadería,Kekes Turrones y King Kongs,Tottus Turrón Doña Pepa,11.90,500 g
+2,Panadería,Kekes Turrones y King Kongs,Tottus Turrón de Doña Pepa,11.90,500 g
+2,Panadería,Kekes Turrones y King Kongs,San Roque King Kong Manjar,6.00,75 g
+2,Panadería,Kekes Turrones y King Kongs,Marinela Minix Pingüino Cookies and Cream,10.90,200 g 
+2,Panadería,Kekes Turrones y King Kongs,San Roque Barra King Kong Manjar Blanco,21.00,230 g
+2,Panadería,Kekes Turrones y King Kongs,San Jose Turrón San José Empaque,33.90,1 Kg 
+2,Panadería,Kekes Turrones y King Kongs,
+2,Panadería,Kekes Turrones y King Kongs,Marinela Pingüino,3.50,80 g
+2,Panadería,Kekes Turrones y King Kongs,San Roque King Kong Manjarblanco,28.50,450 g
+2,Panadería,Kekes Turrones y King Kongs,Tottus Keke de Vainilla,9.90,430 g
+2,Panadería,Kekes Turrones y King Kongs,Bimbo Kekitos Sabor Vainilla Pyc,3.00,90 g
+
+2,Panadería,Pan Árabe y Pita,Bimbo Pan Pita Integral 10 unidades,6.00,300 g
+2,Panadería,Pan Árabe y Pita,Bimbo Pan Pita Blanco,7.50,300 g 
+2,Panadería,Pan Árabe y Pita,El Cedro Pan Árabe Integral,7.40,10 UN
+2,Panadería,Pan Árabe y Pita,Bimbo Pan Pita Linaza 10 Unidades,6.00,300 g
+2,Panadería,Pan Árabe y Pita,El Cedro Pan Árabe Blanco ,7.40,10 UN
+2,Panadería,Pan Árabe y Pita,Pan Árabe con Salvado de Trigo,4.00,5 UN 
+2,Panadería,Pan Árabe y Pita,El Cedro Tortilla Artesanal Clásica,8.50,12 Unidades
+2,Panadería,Pan Árabe y Pita,El Cedro Pan Árabe Sash,5.30,200 g
+2,Panadería,Pan Árabe y Pita,El Cedro Pan Árabe Sash con Salvado de Trigo,5.30,200 g
+2,Panadería,Pan Árabe y Pita,Don Paulino Pan Dulce Día de la Madre,8.50,1 UN
+2,Panadería,Pan Árabe y Pita,El Cedro Arabe Blanco,4.00,5 UN
+
+2,Panadería,Pan de Molde Blanco,Bimbo Pan de Molde Blanco XL,12.90,770 g
+2,Panadería,Pan de Molde Blanco,Bimbo Pan de Molde Artesano Blanco,11.90,560 g
+2,Panadería,Pan de Molde Blanco,Bimbo Pan de Molde Pan de Molde Blanco Sin Bordes,16.00,650 g
+2,Panadería,Pan de Molde Blanco,Tottus Pan Molde Blanco Sin Corteza,12.90,560 g
+2,Panadería,Pan de Molde Blanco,Don Mamino Pan de Molde Blanco sin Corteza,13.50,560 g 
+2,Panadería,Pan de Molde Blanco,Tottus Pan Molde Blanco,7.60,480 g
+2,Panadería,Pan de Molde Blanco,Bibo Pan de Molde Blanco Familiar,10.50,590 g
+2,Panadería,Pan de Molde Blanco,Tottus Pan Molde Blanco,10.90,750 g
+2,Panadería,Pan de Molde Blanco,Union America Sandwich Unión,9.50,400 g
+2,Panadería,Pan de Molde Blanco,Bimbo Pan de Molde Vital con Semillas,14.90,600 g
+
+
+2,Panadería,Pan de Molde Integral,Bimbo Pan de Molde Multicereal Vital con Chía y Linaza,8,90,360 g
+2,Panadería,Pan de Molde Integral,Union Pan Multisemillas Avena Unión,11.40,540 g
+2,Panadería,Pan de Molde Integral,Bimbo Pan de Molde Vital Integral Multicereal con Chía y Linaza,14.90,600 g
+2,Panadería,Pan de Molde Integral,Bimbo Pan de Molde Semillas Vital,10.50,360 g
+2,Panadería,Pan de Molde Integral,Bimbo Pan de Molde Artesano Integral,11.90,560 g
+2,Panadería,Pan de Molde Integral,Bimbo Pan de Molde Integral Cerocero,12.00,650 g
+2,Panadería,Pan de Molde Integral,Union Pan con Granos Integrales Unión,11.40,540 g
+2,Panadería,Pan de Molde Integral,Bimbo Pan de Molde Integral XL,12.90,810 g
+2,Panadería,Pan de Molde Integral,Don Mamino Pan de Molde Salvado de Trigo,13.50,560 g 
+
+2,Panadería,Pan Hamburguesa y HotDog,Bimbo Pan Hamburguesa Brioche Artesano 4P,9.00,360 g
+2,Panadería,Pan Hamburguesa y HotDog,Don Mamino Cachito de Mantequilla,9.50,6 Unidades
+2,Panadería,Pan Hamburguesa y HotDog,Don Mamino Pan Hamburguesa Brioche,11.90,600 g
+2,Panadería,Pan Hamburguesa y HotDog,Tottus Enrollado Hot Dog,2.90,1 Unidad
+2,Panadería,Pan Hamburguesa y HotDog,Don Mamino Pan de Yema,7.90,6 Unidades
+2,Panadería,Pan Hamburguesa y HotDog,Tottus Pan Brioche la Panaderia,10.50,400 g
+
+2,Panadería,Panetón,Tottus Panetoncito Chispas Chocolate,3.10,90 g
+2,Panadería,Panetón,Donofrio Bizcocho Chocotón Gota Chocol Bolsa,21.90,450 g
+2,Panadería,Panetón,Donofrio Bizcocho Chocotoncito Bolsa,3.90,80 g
+2,Panadería,Panetón,Tottus Panetón Chispas Chocolate,16.90,500 g
+2,Panadería,Panetón,Gloria Panetón Mini en Bolsa,3.90,80 g
+2,Panadería,Panetón,Tottus Panetoncito Tradicional,3.10,90 g
+2,Panadería,Panetón, Todino Panetón Cioccolato con Gota de Chocolate Caja,4.60,80 g
+2,Panadería,Panetón,Gloria Panetón Algarrobina,22.90,500 g
+
+2,Panadería,Panqueques,Hungry Jack Pancake y Waffle Mix Buttermilk,23.90,907 g
+2,Panadería,Panqueques,Tottus Premezcla Torta Chocolate,9.90,500 g
+
+2,Panadería,Tostadas Crissines y Tortillas,Bimbo Tostadas Integrales,7.90,10 Unidades 
+2,Panadería,Tostadas Crissines y Tortillas,Bimbo Rapiditas Cero Cero,7.90,270 g
+2,Panadería,Tostadas Crissines y Tortillas,Bimbo Tostadas Clasicas,7.9,160 g
+2,Panadería,Tostadas Crissines y Tortillas,Bimbo Tortillas Rapiditas Clasicas,7.90,310 g
+2,Panadería,Tostadas Crissines y Tortillas,Bimbo Rapiditas Tortillas de Harina de Trigo Integral,7.90,12 Unidades
+2,Panadería,Tostadas Crissines y Tortillas,Pyc Tostadas Clásicas,6.70,118 g 
+2,Panadería,Tostadas Crissines y Tortillas,Bimbo Tostadas Cero Cero,7.90,140 g
+2,Panadería,Tostadas Crissines y Tortillas,Bimbo Rapiditas Tortilla de Harina de Trigo Wrap,7.90,6 Unidades
+2,Panadería,Tostadas Crissines y Tortillas,Tottus Tortillas de Trigo Medianas,4.80,8 Unidades
+2,Panadería,Tostadas Crissines y Tortillas,Bauducco Tostada Integral,7.90,142 g
+2,Panadería,Tostadas Crissines y Tortillas,Sanis Simo Galleta Saludable Salmas,10.40,144 g
+2,Panadería,Tostadas Crissines y Tortillas,Bimbo Pan Pita Integral Cero Cero,6.80,240 g
+2,Panadería,Tostadas Crissines y Tortillas,Bimbo Pan Molido,3.70,250 g
+2,Panadería,Tostadas Crissines y Tortillas,Union Tostadas Integrales Unión,10 Unidades,150 g
+
+
+3,Leches,Crema de Leche,Laive Crema de Leche,6.70,236 ml
+3,Leches,Crema de Leche,Nestlé Crema de Leche Nestlé,10.90,300 g
+3,Leches,Crema de Leche,Gloria Crema de Leche UHT,8.95,200 ml
+3,Leches,Crema de Leche,Gloria Crema de Leche,28.95,1 UN
+3,Leches,Crema de Leche,Nestlé Crema de Leche,7.70,160 g
+
+3,Leches,Leches en Bolsa,Vigor Leche Semidescremada,3.90,800 ml
+3,Leches,Leches en Bolsa,Laive Leche Fresca,3.90,900 ml
+3,Leches,Leches en Bolsa,Gloria Tri Pack Leche,12.90,900ml
+3,Leches,Leches en Bolsa,La Preferida Bebida con Leche Sabor a Chocolate,3.45,800 ml
+3,Leches,Leches en Bolsa,Laive Leche sin Lactosa Bolsa,4.80,900 ml
+3,Leches,Leches en Bolsa,Laive Leche Semidescremada,4.90,900 ml
+
+3,Leches,Leche en Polvo,Gloria Leche Entera en Polvo,4.50,96 g
+3,Leches,Leche en Polvo,Anchor Mezcla Láctea Polvo Bolsa,4.40,96 g
+3,Leches,Leche en Polvo,Gloria Leche en Polvo,36,800 g
+
+3,Leches,Leche Entera,Laive Fourpack Leche Entera,22.50,946 ml
+3,Leches,Leche Entera,Gloria Sixpack Leche Reconstituida,12.90,170 g
+3,Leches,Leche Entera,Gloria Leche Fresca Uht Entera,6.10,1 l
+3,Leches,Leche Entera,Tottus Leche Evaporada,3.60,410 g
+3,Leches,Leche Entera,Bonle Sixpack Mezcla Bonlé Familiar,20.50,480 g
+3,Leches,Leche Entera,Ideal Sixpack Mezcla Láctea Cremosita Lata,22.90,390 g
+3,Leches,Leche Entera,Ideal Mezcla Láctea Cremosita Lata,4,390 g
+
+3,Leches,Leche Evaporada,Gloria Sixpack Leche Reconstructiva Entera,24.60,390 g
+3,Leches,Leche Evaporada,Gloria Sixpack Leche Zero Lacto,22.90,390 g
+3,Leches,Leche Evaporada,Ideal Sixpack Mezcla Láctea Cremosita Lata,22.90,390 g
+3,Leches,Leche Evaporada,Laive Mezcla Láctea sin Lactosa 6 unidades,23.40,480g
+3,Leches,Leche Evaporada,Laive Sixpack Leche sin Lactosa Practitarro,23.90,390 g
+3,Leches,Leche Evaporada,Laive Sixpack Mezcla Láctea Light,21.90,6 UN
+
+3,Leches,Leche Fresca,Danlac Leche Fresca Pasteurizada,7.80,900 ml
+3,Leches,Leche Fresca,Danlac Leche Pasteurizada Sabor Chocolate,8.60,900 g
+
+3,Leches,Leche Light,Gloria Leche Semidescremada UHT Light Pack 3 unidades,15.90,3 UN
+3,Leches,Leche Light,Laive Sixpack Mezcla Láctea Light,21.90,6 UN
+3,Leches,Leche Light,Gloria Leche Light Uht,6.20,1 l
+3,Leches,Leche Light,Laive Fourpack Leche Light sin Lactosa,19.90,946 ml
+3,Leches,Leche Light,Laive Fourpack Leche Light,23.10,946 ml
+3,Leches,Leche Light,Laive Leche Light sin Lactosa Botella,4.40,390 g
+
+3,Leches,Leche para Niños,Gloria Leche Uht Niños,6.20,1 l
+3,Leches,Leche para Niños,Gloria Sixpack Leche Niños,14.90,170 g
+3,Leches,Leche para Niños,Gloria Leche para Niños DHA UHT Pack 3 Unidades,15.90,1 l
+
+3,Leches,Leche Saborizada,Laive Sixpack Leche Sabor Chocolate Caja,10.20,170 ml
+3,Leches,Leche Saborizada,Gloria Sixpack Bonlé Uht Chocolatada,9,180 ml
+3,Leches,Leche Saborizada,La Preferida Bebida con Leche Sabor a Chocolate,3.45,800 ml
+3,Leches,Leche Saborizada,Gloria Leche Uht Chocolatada,6.20,1 l
+3,Leches,Leche Saborizada,Shake Bebida Láctea Uht Mocaccino,3.50,320 ml
+3,Leches,Leche Saborizada,Gloria Shake Coojies & Cream,3.70,320 ml
+
+3,Leches,Leche sin Lactosa,Gloria 3Pack Zerolacto Uht Envase,15.90,1 l
+3,Leches,Leche sin Lactosa,Laive Mezcla Láctea sin Lactosa,23.40,6 UN
+3,Leches,Leche sin Lactosa,Gloria Sixpack Leche Zero Lacto,22.90,390 g
+3,Leches,Leche sin Lactosa,Laive Sixpack Leche sin Lactosa Practitarro,23.90,390 g
+3,Leches,Leche sin Lactosa,Laive Fourpack Leche sin Lactosa,19.90,946 ml
+3,Leches,Leche sin Lactosa,Laive Leche sin Lactosa Practitarro,4.40,390 g
+
+3,Leches,Leche UHT,Gloria Tripack Leche Uht Slim Triple Zero,15.90,1 l
+3,Leches,Leche UHT,Gloria 3Pack Zerolacto Uht Envase,15.90,1 l
+3,Leches,Leche UHT,Gloria Leche Semidescremada UHT Light Pack 3 Unidades,15.90,1 l
+3,Leches,Leche UHT,Gloria Leche Uht Slim Triple Zero,6.20,1 l
+3,Leches,Leche UHT,Gloria Leche Light Uht,6.20,1 l
+3,Leches,Leche UHT,Gloria Uht Niños Chocolate 6 Unidades,10.80,180 ml
+
+3,Leches,Leches Vegetales,Laive Twhopack Bebida de Almendra Caja,18.90,946 ml 
+3,Leches,Leches Vegetales,Laive Bebida de Coco Caja,10.90,946 ml
+3,Leches,Leches Vegetales,Natures Heart Bebida de Almendra sin Azúcar Terrafértil,12.50,946 ml
+3,Leches,Leches Vegetales,Laive Bebida de Almendra Caja,10.90,946 ml
+3,Leches,Leches Vegetales,Natures Heart Bebida de Coco Terrafértil,12.50,946 ml
+3,Leches,Leches Vegetales,Laive Bebida de Coco sin Endulzar Caja 2 Pack,18.90,946 ml
+
+3,Leches,Mezclas Lácteas,Bonle Sixpack Mezcla Láctea sin Lactosa,19.90,480 g
+3,Leches,Mezclas Lácteas, Laive Sixpack Mezcla Láctea Light,21.90,6 UN
+3,Leches,Mezclas Lácteas,Bonlé Sixpack Mezcla Láctea Bonlé Familiar,20.50,480 g
+3,Leches,Mezclas Lácteas,Ideal Six Pack Mezcla Láctea Amanecer Lata,18.50,390 g
+3,Leches,Mezclas Lácteas,Nan Pack Fórmula Láctea 3 Crecmiento 8 Unidades,40.40,390 g
+3,Leches,Mezclas Lácteas,Ideal Six Pack Meszcla Láctea Cremosita Lata,22.90,390 g
+
+3,Yogurt,yogurt Batido y Frutado,Gloria Bebida Láctea Yofresh Sabor Lúcuma,3.20,320 g
+3,Yogurt,yogurt Batido y Frutado,Danlac Yogurt Frutado con Chirimoya Envase,11.90,900 g
+3,Yogurt,yogurt Batido y Frutado,Gloria Bebida Láctea Yofresh Sabor Fresa,3.20,320 g
+3,Yogurt,yogurt Batido y Frutado,Danlac Yogurt Frutado con Chirimoya Envase,4.90,160 g
+3,Yogurt,yogurt Batido y Frutado,Yoleit Yogurt Bebible Sabot Chirimoya Botella,6.90,950 g
+3,Yogurt,yogurt Batido y Frutado,Yoleit Yogurt Frutado con Chirimoya Botella,9.90,1.6 kg
+
+3,Yogurt,Yogurt Familiar,Gloria Yogurt Parcialmente Descremado Sabor Fresa Botella,8.90,1.7 kg
+3,Yogurt,Yogurt Familiar,Gloria Yogurt Parcialmente Descremado Sabor Vainilla Botella,8.90,1.7 kg
+3,Yogurt,Yogurt Familiar,Gloria Yogurt Parcialmente Descremado Sabor Durazno Botella,8.90,1.7 kg
+3,Yogurt,Yogurt Familiar,Yoleit Yog Desla Frut del Bosque,9.90,1.6 kg
+3,Yogurt,Yogurt Familiar,Gloria Yogurt Parcialmente Descremado Sabor Lúcuma Botella,8.90,1.7 kg
+3,Yogurt,Yogurt Familiar,Gloria Yogurt Parcialmente Descremado Sabor Fresa C Platano,8.90,1.7 kg
+
+3,Yogurt,Yogurt Griego,Gloria Yogurt Griego Frutos Rojos,6.70,800 g
+3,Yogurt,Yogurt Griego,Vakimu Yogurt Griego Original,15.90,1 kg
+3,Yogurt,Yogurt Griego,Gloria Yogurt Griego Frutos Rojos,2.20,120 g
+3,Yogurt,Yogurt Griego,Gloria Yogurt Griego Natural Descremado,6.70,800 g
+3,Yogurt,Yogurt Griego,Tottus Yogurt Griego Natural,14.50,1 kg
+3,Yogurt,Yogurt Griego,Plusa Yogurt Estilo Islandes Skyr,17.70,500 g
+
+3,Yogurt,Yogurt Light Familiar,Gloria Yogurt Yoleit Slim Bebible Vainilla Envase,10.20,1.7 kg
+3,Yogurt,Yogurt Light Familiar,Gloria Yogurt Yoleit Slim Bebible Fresa Envase,10.20,1.7 kg
+3,Yogurt,Yogurt Light Familiar,Laive Yogurt Descremado Vainilla Francesa Sbelt,11.80,1.7 kg
+3,Yogurt,Yogurt Light Familiar,Laive Yogurt Descremado Mora Sbelt,6.70,946 g
+3,Yogurt,Yogurt Light Familiar,Laive Yogurt Descremado Vainilla Sbelt,6.70,946 g
+3,Yogurt,Yogurt Light Familiar,Gloria Triple Zero Yogurt Frutos Rojos,6.10,1 kg
+
+3,Yogurt,Yogurt Mix,Gloria Battimix Yogurt Vainilla Chocolate,3.50,146 g
+3,Yogurt,Yogurt Mix,Gloria Battimix Yogurt Vainilla con Hojuelas,3.50,144 g
+3,Yogurt,Yogurt Mix,Laive Yopimix Vainilla Chocolate Colores,3,100 g
+3,Yogurt,Yogurt Mix,Laive Yopimix Vainilla Hojuelas,3,100 g
+3,Yogurt,Yogurt Mix,Tigo Yogurt Tigomix con Bolitas Chocolate,3.20,125 g
+3,Yogurt,Yogurt Mix,Gloria Yogurt Battimix Fresa,3.50,146 g
+
+3,Yogurt,Yogurt Personal,Gloria Sixpack Yogurt Parcialmente Descremado Vainilla,10.50,6 UN
+3,Yogurt,Yogurt Personal,Gloria Battimix Yogurt Vainilla Chocolate,3.50,146 g
+3,Yogurt,Yogurt Personal,Gloria Sixpack Yogurt Yoguito con Probióticos Fresa,5.90,6 UN
+3,Yogurt,Yogurt Personal,Laive Biodefensa Fresa/Frambuesa Zero,6.20,4 UN
+3,Yogurt,Yogurt Personal,Gloria Slim Yogurt Maracuya X,2.10,120 g
+3,Yogurt,Yogurt Personal,Yoleit Yogurt Bebible Fresa Envase,2.20,160 g
+
+3,Quesos,Cremas Untables,Tottus Queso Crema,10.90,227 g
+3,Quesos,Cremas Untables,Philadelphia Queso Crema Brick,12.50,180 g
+3,Quesos,Cremas Untables,Laive Queso Crema Natural,8.90,227 g
+3,Quesos,Cremas Untables,Tottus Queso Crema,20.50,455 g
+3,Quesos,Cremas Untables,Tottus Queso Crema Barra,10.90,227 g
+3,Quesos,Cremas Untables,Bonlé Queso Fundido Sabor Jamón Empaque,3.50,80 g
+
+3,Quesos,Edam Gouda y Danbo,Tottus Queso Edam Familiar,18.90,400 g
+3,Quesos,Edam Gouda y Danbo,Braedt Queso Gouda,10.95,180 g
+3,Quesos,Edam Gouda y Danbo,Braedt Queso Edam,10.95,180 g
+3,Quesos,Edam Gouda y Danbo,Laive Queso Edam Paquete,23.90,440 g
+3,Quesos,Edam Gouda y Danbo,Bonlé Queso Fundido Bonlé Tajada,7.20,136 g
+3,Quesos,Edam Gouda y Danbo,Braedt Queso Edam,23.50,440 g
+
+3,Quesos,Queso Andino y Paria,Tottus Orígenes Queso Laminado,9.90,150 g
+3,Quesos,Queso Andino y Paria,Tottus Orígenes Queso Andino Laminado,9.90,150 g
+3,Quesos,Queso Andino y Paria,Del Establo Queso Andino Empaque,15.90,250 g
+3,Quesos,Queso Andino y Paria,Plusa Queso Cabana,11.50,225 g
+3,Quesos,Queso Andino y Paria,Del Establo Queso Paria Tipo Puno Empaque,15.90,250 g
+3,Quesos,Queso Andino y Paria,Lait's Queso Paria con Orégano,53,1 kg
+
+3,Quesos,Queso Fresco y Mozzarella,Laive Queso Fresco Sbelt,33.51,1 kg
+3,Quesos,Queso Fresco y Mozzarella,Laive Queso Fresco sin Lactosa Poción,35.90,1 kg
+3,Quesos,Queso Fresco y Mozzarella,Gloria Queso Fresco Gloria Molde,35,1 kg
+3,Quesos,Queso Fresco y Mozzarella,Tottus Queso Mozzarella Light,8.90,180 g
+3,Quesos,Queso Fresco y Mozzarella,Bonlé Mozarella Bonlé,13.50,250 g
+3,Quesos,Queso Fresco y Mozzarella,Tottus Premium Queso Mozarella Rallado Premium,15.90,250 g
+
+3,Quesos,Queso Parmesano,Tottus Queso Parmesano Granulado,28.90,16 oz
+3,Quesos,Queso Parmesano,Zanetti Queso Parmesano Grana Padano,29.90,150 g
+
+3,Quesos del Mundo,Francia,Zanetti Queso Parmesano Grana Padano Zanetti,29.90,150 g
+
+3,Quesos del Mundo,Italia,Zanetti Queso Parmesano Grana Padano Zanetti,29.90,150 g
+
+3,Quesos del Mundo,Otros,Vonk Queso Madurado Gouda,99.90,200 g
+3,Quesos del Mundo,Otros,Vonk Queso Maasdam,99.90,1 kg
+3,Quesos del Mundo,Otros,Vonk Queso Edam Bolsa,119,1 kg
+
+3,Quesos del Mundo,Paises Bajos,Vonk Queso Madurado Gouda,99.90,200 g
+3,Quesos del Mundo,Paises Bajos,Vonk Queso Maasdam,99.90,1 kg
+3,Quesos del Mundo,Paises Bajos,Vonk Queso Edam Bolsa,119,1 kg
+
+3,Quesos del Mundo,Suiza,Milkunz Queso Azul NZ,81.95,1 kg
+3,Quesos del Mundo,Suiza,Emmi Queso Suizo Guyere,290,1 kg
+3,Quesos del Mundo,Suiza,Emmi Queso Appenzell,280,1 kg
+
+3,Mantequilla y Margarinas,Mantequilla,Gloria Mantequilla Pote,17.50,390 g
+3,Mantequilla y Margarinas,Mantequilla,Gloria Mantequilla con Sal Barra,9.90,180 g
+3,Mantequilla y Margarinas,Mantequilla,Gloria Mantequilla Empaque,6.89,90g
+3,Mantequilla y Margarinas,Mantequilla,Laive Mantequilla con Sal Barra,11.40,180 g
+3,Mantequilla y Margarinas,Mantequilla,Laive Mantequilla con Sal,13.90,180 g
+3,Mantequilla y Margarinas,Mantequilla,Plusa Mantequilla con Sal,15.30,200 g
+
+3,Mantequilla y Margarinas,Margarinas,Sello de Oro Margarina Barra Empaque,4.50,200 g
+3,Mantequilla y Margarinas,Margarinas,Manty Mangarina Clásica Envase,5.60,300 g
+3,Mantequilla y Margarinas,Margarinas,Sello de Oro Margarina Pote Envase,9,400 g
+3,Mantequilla y Margarinas,Margarinas,Dorina Mantequilla Esparcible Light,8.90,450 g
+3,Mantequilla y Margarinas,Margarinas,Dorina Esparcible Clásica,17.50,900 g
+3,Mantequilla y Margarinas,Margarinas,Sello de Oro Margarina Barra Empaque,3.30,90 g
+
+4,Huevos,Huevo de Codorniz,Tottus Huevos de Codorniz,8.90,24 UN
+4,Huevos,Huevo de Codorniz,Tottus Huevos de Codorniz,6.90,18 UN
+
+4,Huevos,Huevo de Gallina,Tottus Huevos Pardos,17.90,30 UN
+4,Huevos,Huevo de Gallina,Tottus Huevos Pardos,10.50,15 UN
+4,Huevos,Huevo de Gallina,La Calera Huevo Pardo,22.90,30 UN
+4,Huevos,Huevo de Gallina,La Calera Huevos de Corral,14.50,12 UN
+4,Huevos,Huevo de Gallina,San Fernando Huevos de Gallina,19.90,30 UN
+4,Huevos,Huevo de Gallina,Gallinas Libres Pack Huevos,15.50,12 UN
+
+4,Jamones,Jamón de Pavo y Pavita,Braedt Jamón de Pavita Balance,10.50,200 g
+4,Jamones,Jamón de Pavo y Pavita,San Fernando Jamón de Pavita,10.20,200 g
+4,Jamones,Jamón de Pavo y Pavita,Salchicheria Alemana Jamón de Peerna Ahumada,10.50,150 g
+4,Jamones,Jamón de Pavo y Pavita,Braedt Jamón de Pavo,12.90,200 g
+4,Jamones,Jamón de Pavo y Pavita,San Fernando Jamón Pecho Pavita,13.90,200 g
+4,Jamones,Jamón de Pavo y Pavita,Tottus Jamón Braseado,12.90,150 g
+
+4,Jamones,Jamón del País y Ahumado,Salchicheria Alemana Jamón del País Gourmet,10.90,150 g
+4,Jamones,Jamón del País y Ahumado,Casa Europa Jamón del País Empaque,12.90,150 g
+4,Jamones,Jamón del País y Ahumado,Casa Europa Jamón Crocante,18.10,200 g
+4,Jamones,Jamón del País y Ahumado,Otto Kunz Jamón del País Empaque,11.90,150 g
+4,Jamones,Jamón del País y Ahumado,Tottus Jamón York,10.90,150 g
+4,Jamones,Jamón del País y Ahumado,Casa Europa Jamón del País,75,1 kg
+
+4,Jamones,Jamón Pizzero e Inglés,Braedt Jamón Pizzero,12.90,480 g
+4,Jamones,Jamón Pizzero e Inglés,Salchicheria Alemana Jamón Inglés,11.90,200 g
+4,Jamones,Jamón Pizzero e Inglés,Suiza Jamón Americano Empaque,6.70,480 g
+4,Jamones,Jamón Pizzero e Inglés,Casa Europa Jamón Inglés,16,200 g
+4,Jamones,Jamón Pizzero e Inglés,Otto Kunz Jamón Inglés,14.90,200 g
+4,Jamones,Jamón Pizzero e Inglés,Braedt Jamón Inglés,11.90,200 g
+
+4,Jamones,Pack Jamón y Queso,Braedt Pack Jamón y Queso,14.20,370 g
+4,Jamones,Pack Jamón y Queso,Salchichera Alemana Pack Jamón Pizzero + Queso Edam Sa,14.50,340 g
+4,Jamones,Pack Jamón y Queso,Suiza Pack Jamonada Especial,10.90,400 g
+
+4,Jamonadas,Cerdo,Otto Kunz Chicharrón de Prensa Empaque,4.90,100 g
+4,Jamonadas,Cerdo,Suiza Jamonada Especial Salchicheria,6.20,200 g
+4,Jamonadas,Cerdo,Otto Kunz Jamonada Bologna,3.90,100 g
+4,Jamonadas,Cerdo,Casa Europa Jamonada Polaca,8.90,200 g
+4,Jamonadas,Cerdo,Otto Kunz Jamonada Polaca,5.50,100 g
+4,Jamonadas,Cerdo,Otto Pastel de Jamón,5.90,150 g
+
+4,Salchichas y Hot Dogs,Cerdo,Suiza Hot Dog,6.30,200 g
+4,Salchichas y Hot Dogs,Cerdo,Suiza Pack Hotdog,12.90,600 g
+4,Salchichas y Hot Dogs,Cerdo,Otto Kunz Pack Vienesa,14.90,750 g
+4,Salchichas y Hot Dogs,Cerdo,Braedt Pack Hot Dog,12.90,600 g
+4,Salchichas y Hot Dogs,Cerdo,Salchicheria Alemana Pack Hot Dog Vienessa Ahumano,13.50,750 g
+4,Salchichas y Hot Dogs,Cerdo,Braedt Hot Dog,5.50,200 g
+
+4,Salchichas y Hot Dogs,Frankfurter y Otras Salchichas,Casa Europa Frankfurter Cocktail,13.50,250 g
+4,Salchichas y Hot Dogs,Frankfurter y Otras Salchichas,Casa Europa Salchicha de Huacho,7.40,150 g
+4,Salchichas y Hot Dogs,Frankfurter y Otras Salchichas,Casa Europa Frankfurter,17.50,240 g
+4,Salchichas y Hot Dogs,Frankfurter y Otras Salchichas,San Fernando Salchicha Huachana,5.50,150 g
+4,Salchichas y Hot Dogs,Frankfurter y Otras Salchichas,Braedt Frankfurter Coctel,11.90,250 g
+4,Salchichas y Hot Dogs,Frankfurter y Otras Salchichas,Otto Kunz Salchicha Frankfurter Alemana Empaque,16.90,280 g
+4,Salchichas y Hot Dogs,Frankfurter y Otras Salchichas,Tottus
+
+4,Salchichas y Hot Dogs,Pavo,San Fernando Hot Dog de Pavita,7.20,250 g
+
+4,Salchichas y Hot Dogs,Pollo,San Fernando Hot Dog de Pollo Ahumado Empaque,8.50,440 g
+4,Salchichas y Hot Dogs,Pollo,San Fernando Salchicha de Pollo Empaque,4.70,200 g
+4,Salchichas y Hot Dogs,Pollo,San Fernando Pack Hot Dog Ahumado de Pollo,5.20,5 UN
+4,Salchichas y Hot Dogs,Pollo,San Fernando Salchicha de Pollo,9.90,500 g
+4,Salchichas y Hot Dogs,Pollo,Braedt Hot Dog de Pollo,5.50,250 g
+4,Salchichas y Hot Dogs,Pollo,San Fernando Salchicha de Pollo,5.50,250 g
+
+4,Chorizos,Especiales,Casa Europa Pack Mix Parrillero Coctel,24.40,450 g
+4,Chorizos,Especiales,Salchichería Alemana Chorizo Ahumado,17.90,400 g
+4,Chorizos,Especiales,Tottus Chorizo Finas Hierbas,16.50,400 g
+4,Chorizos,Especiales,Braedt Chorizo Finas Hierbas Coctel,11.90,250 g
+4,Chorizos,Especiales,Otto Kunz Chorizo a las Finas Hierbas,18.50,400 g
+4,Chorizos,Especiales,Casa Europa Chorizo Parrillero Cocktail,24,500 g
+
+4,Chorizos,Parrilleros,Braedt Chorizo Premium Parrillero,14.90,500 g
+4,Chorizos,Parrilleros,Otto Kunz Chorizo Parrillero,14.90,400 g
+4,Chorizos,Parrilleros,San Fernando Chorizo Cocido Parrillero,12.50,480 g
+4,Chorizos,Parrilleros,Tottus Chorizo Precocido,12.90,500 g
+4,Chorizos,Parrilleros,Casa Europa Chorizo Parrillero,21.30,500 g
+4,Chorizos,Parrilleros,Salchichería Alemana Chorizo Parrillero,14.50,500 g
+
+4,Fiambres Gourmet,España,Tottus Jamón Bodega España e Hijos,12.90,100 g
+4,Fiambres Gourmet,España,Tottus Salchicha Ibérico Loncheado,9.90,50 g
+4,Fiambres Gourmet,España,Espana e Hijos Salchichón Velita Ibérica,21.90,1 UN
+4,Fiambres Gourmet,España,Tottus Jamón Cebo Ibérico Loncheado,19.90,50 g
+4,Fiambres Gourmet,España,Espana e Hijos Chorizo Sarta Extra Picante,14.90,1 UN
+4,Fiambres Gourmet,España,Tottus Jamon Cebo 50% Raza Ibérica y Salchichón,39.90,100 g
+
+4,Fiambres Gourmet,Italia,Casa Europa Prosciutto de Lomo,18.10,100 g
+4,Fiambres Gourmet,Italia,Casa Europa Pepperoni,17.60,150 g
+
+4,Otros Fiambres,Morcillas,Cara Europa Morcilla Cocktail,13.90,250 g
+4,Otros Fiambres,Morcillas,Otto Kunz Morcilla Cocktail,11.90,220 g
+
+4,Otros Fiambres,Paté y Mortadela,San Fernando Paté,3.50,100 g
+4,Otros Fiambres,Paté y Mortadela,Braedt Paté,3.90,100 g
+4,Otros Fiambres,Paté y Mortadela,Casa Europa Paté de Cerdo Finas Hierbas,8.90,150 g
+4,Otros Fiambres,Paté y Mortadela,Otto Kunz Paté Gourmet,7.90,150 g
+
+4,Otros Fiambres,Tocino Cabanossi y Salame,Braedt Tocino Ahumado,15.50,200 g
+4,Otros Fiambres,Tocino Cabanossi y Salame,Salchichería Alemana Tocino Natural Ahumado,17.50,200 g
+4,Otros Fiambres,Tocino Cabanossi y Salame,Casa Europa Tocino Ahumado Empaque,19.50,200 g
+4,Otros Fiambres,Tocino Cabanossi y Salame,Tottus Tocino Ahumado Empaque,14.90,200 g
+4,Otros Fiambres,Tocino Cabanossi y Salame,Tottus Tocino Ahumado,11.90,150 g
+4,Otros Fiambres,Tocino Cabanossi y Salame,Tottus Cabanossi,2.90,1 UN
+
+4,Salsas y Cocktail,Aceitunas y Encurtidos,Tottus Aceituna Negra Deshuesada,13.50,270 g
+4,Salsas y Cocktail,Aceitunas y Encurtidos,Tottus Aceituna Negra en Rodajas,12.50,260 g
+4,Salsas y Cocktail,Aceitunas y Encurtidos,Tottus Aceituna Negra Entera,12.40,260 g
+4,Salsas y Cocktail,Aceitunas y Encurtidos,Tottus Aceituna Negra Entera Cocktail,11.50,1 un
+4,Salsas y Cocktail,Aceitunas y Encurtidos,Tottus Aceituna Verde en Rodaja,1090,260 g
+4,Salsas y Cocktail,Aceitunas y Encurtidos,El Olivar Aceituna Verde con Pimiento,9.60,240 g
+
+4,Salsas y Cocktail,Salsas,Tottus Ejí Parrillero,8.70,250 g
+4,Salsas y Cocktail,Salsas,Tottus Salsita Picante,8.70,250 g
+4,Salsas y Cocktail,Salsas,Tottus Orígenes Ají Limo Criollo Envase,8.70,250 g
+4,Salsas y Cocktail,Salsas,Tottus Ají Mirasol Molido,8.70,250 g
+4,Salsas y Cocktail,Salsas,Tottus Ají de la Casa,8.70,250 g
+4,Salsas y Cocktail,Salsas,Tottus Ajo Molido Envase,9.90,250 g
+
+5,Frutas,Durazno Melocotones y Ciruela,Tottus Frutas Durazno Premium Tottus,13.99,500 g
+5,Frutas,Durazno Melocotones y Ciruela,Tottus Frutas Durazno Huayco Tottus,12.29,500 g
+5,Frutas,Durazno Melocotones y Ciruela,Tottus Frutas Higos Negros Empacados Tottus,12.50,300 g
+
+5,Frutas,Ensalados Mixes y Frutas Picadas,Tottus Frutas Piña Golden en Trozos Tottus,7.99,400 g
+5,Frutas,Ensalados Mixes y Frutas Picadas,Tottus Frutas Mix Arándanos y Aguaymantos Tottus,5.50,300 g
+5,Frutas,Ensalados Mixes y Frutas Picadas,Tottus Frutas Sandía en Trozos Tottus,5.50,300 g
+5,Frutas,Ensalados Mixes y Frutas Picadas,Tottus Frutas Ensalada de Frutas Tottus,6.40,300 g
+5,Frutas,Ensalados Mixes y Frutas Picadas,Tottus Frutas Ensalada de Piña Melón Sandía Tottus,6.60,300 g
+
+5,Frutas,Exóticas y Tropicales,Tottus Frutas Pitahaya Tottus,16.70,1 kg
+5,Frutas,Exóticas y Tropicales,Tottus Frutas Maracuyá Tottus,5.99,1 kg
+5,Frutas,Exóticas y Tropicales,Tottus Frutas Chirimoya Cumbe Tottus,9.90,1 kg
+5,Frutas,Exóticas y Tropicales,Tottus Frutas Lúcuma Madura Tottus,14.60,1 kg
+5,Frutas,Exóticas y Tropicales,Tottus Frutas Carambola Tottus,8.70,1 kg
+
+5,Frutas,Fresas Arándanos Aguaymantos y Otros Berries,Tottus Frutas Arándanos Premium,5.90,125 g
+5,Frutas,Fresas Arándanos Aguaymantos y Otros Berries,Tottus Frutas Arándanos,5.59,250 g
+5,Frutas,Fresas Arándanos Aguaymantos y Otros Berries,Tottus Frutas Aguaymanto,5.59,250 g
+5,Frutas,Fresas Arándanos Aguaymantos y Otros Berries,Tottus Frutas Mix Arándanos y Aguaymanto,9.29,300 g
+5,Frutas,Fresas Arándanos Aguaymantos y Otros Berries,Tottus Frutas Aguaymanto Orgánico,8.40,250 g
+
+5,Frutas,Granadillas Granadas Tunas y Pitahayas,Tottus Frutas Granadilla Premium,0.89,1 UN
+5,Frutas,Granadillas Granadas Tunas y Pitahayas,Tottus Frutas Pitahaya,16.70,500 g
+5,Frutas,Granadillas Granadas Tunas y Pitahayas,Tottus Frutas Tuna Mix,9.60,1 kg
+5,Frutas,Granadillas Granadas Tunas y Pitahayas,Tottus Frutas Granadilla Orgánico,7.60,4 UN
+
+5,Frutas,Limones Naranjas Mandarinas y Otros Cítricos,Tottus Frutas Limón Sutil,4.39,1 kg
+5,Frutas,Limones Naranjas Mandarinas y Otros Cítricos,Tottus Frutas Naranja de Jugo Premium,3.20,1 kg
+5,Frutas,Limones Naranjas Mandarinas y Otros Cítricos,Tottus Frutas Maracuyá,5.99,1 kg
+5,Frutas,Limones Naranjas Mandarinas y Otros Cítricos,Tottus Naranja de Jugo Norte,4.69,1 kg
+5,Frutas,Limones Naranjas Mandarinas y Otros Cítricos,Tottus Frutas Cocona,10.99,500 g
+
+6,Pollo,Cortes Congelados,Tottus Filete De Pechuga Importada,14.90,1 kg
+6,Pollo,Cortes Congelados,San Fernando Filete De Pechuga De Pollo Corte Mariposa Congelado,19.92,1 kg
+
+6,Pollo,Cortes Frescos,Tottus Pechuga Especial de Pollo,14.88,1 kg
+6,Pollo,Cortes Frescos,Tottus Pack Ahorrador De Filete De Pechuga De Pollo Tottus,24.90,1 kg
+ 
+6,Pollo,Cortes Light,Tottus Piernitas Light De Pollo Sin Piel,17.90,1 kg
+
+6,Pollo,Elaborados,Tottus Milanesa de Pollo,24.90,1 kg
+6,Pollo,Elaborados,Redondos Sangrecita Criolla,6.40,1 kg
+
+6,Pollo,Entero,Tottus Pollo Fresco Con Menudencia Tottus,9.40,1 kg
+6,Pollo,Entero,Redondos Pollo Entero Trozado Redondos,10.90,1 kg
+
+6,Pollo,Packs Ahorradores,Tottus Pack Ahorrador De Filete De Pechuga De Pollo Tottus,24.90,1 kg
+6,Pollo,Packs Ahorradores,Tottus Pechuga Especial de Pollo,14.88,1 kg
+
+6,Res,Argentina,Tottus Argentina Bife Angosto Argentino Tottus,94.90,1 kg
+6,Res,Argentina,Tottus Argentina Bife Ancho Argentino Tottus,99.90,1 kg
+
+6,Res,Black,Tottus Black Bife De Vacío Tottus Black,69.90,1 kg
+6,Res,Black,Tottus Black Asado De Tira Sin Hueso Tottus Black,67.90,1 kg
+
+6,Res,Cortes Caseros Nacional,Tottus Guiso Especial Tottus,38.90,1 kg
+6,Res,Cortes Caseros Nacional,Tottus Bisteck Tottus,39.50,1 kg
+
+6,Res,Cortes Parrilleros Nacional,Tottus Bife Ancho De Res Corte Clásico Tottus,51.90,1 kg 
+6,Res,Cortes Parrilleros Nacional,Tottus Asado De Tira Parrillero,34.90,1 kg
+
+6,Res,Elaborados y Menudencias,Tottus Mondongo Corte Italiano Tottus,5.90,500 g
+6,Res,Elaborados y Menudencias,Tottus Mondongo Corte Cau Cau Tottus,5.90,500 g
+
+6,Res,Molidas,Tottus Bisteck Molido De Res Corte Clásico Tottus,17.90,500 g
+6,Res,Molidas,Tottus Carne Molida De Res Corte Clásico Tottus,12.50,500 g
+
+6,Res,Porterhouse Angus Choice,Porterhouse Asado De Tira Con Hueso,119.90,1 kg
+
+6,Res,USA Angus Reserva,Tottus USA Bife Angosto Americano Tottus,105.90,1 kg
+6,Res,USA Angus Reserva,
+
+6,Cerdo,Cerdo Duroc,Tottus Chicharrón De Panceta De Cerdo Duroc Tottus,31.90,1 kg
+6,Cerdo,Cerdo Duroc,Tottus Carne Molida De Cerdo Duroc,24.90,1 kg
+
+6,Cerdo,Cortes Caseros,Tottus Saltadito De Cerdo Tottus,8.90,500 g
+6,Cerdo,Cortes Caseros,Tottus Panceta Con Piel Con Hueso Tottus,30.90,1 kg
+
+6,Cerdo,Cortes Parrilleros,Tottus Spare Ribs Tottus Congelado,33.90,1 kg
+6,Cerdo,Cortes Parrilleros,Tottus Panceta Sin Piel De Cerdo Tottus,33.90,1 kg
+
+6,Cerdo,Elaborados,Tottus Chuleta De Punta De Lomo Tottus,16.90,1 kg
+6,Cerdo,Elaborados,Tottus Carne Molida De Cerdo Mixta Tottus,12.90,500 g
+
+6,Pavo,Cortes Caseros,Chuleta Pavita,28.90,1 Kg
+6,Pavo,Cortes Caseros,Pechuga Especial Pavo,23.50,1 Kg
+
+6,Pavo,Elaborados,Medio Pavo Marinado,17.90,1 Kg
+6,Pavo,Elaborados,Sangrecita Pavita,6.40,500 gr
+
+6,Pavo,Entero,Pollipavo Entero,13.90, 1Kg
+
+6,Carnes Regionales,Cabrito,Cabrito Congelado,41.90, 1Kg
+
+6,Carnes Regionales,Conejo,Conejo Entero,49.90, 1Kg
+
+6,Carnes Regionales,Gallina,Gallina Entera,8.90, 1Kg
+6,Carnes Regionales,Gallina,Pechuga con Ala,13.90, 1Kg
+6,Carnes Regionales,Gallina,Pierna con Encuentro,13.90, 1Kg
+
+6,Carnes Regionales,Pato,Pato Congelado,32.90, 1Kg
+
+
+7,Pescados Congelados,Ahumado,South Wind Carpaccio de Salmón,17.90,100 g
+7,Pescados Congelados,Ahumado,South Wind Salmón Ahumado,36.90,200 g
+7,Pescados Congelados,Ahumado,Azúl Marino Trucha Ahumada,35.90,250 g
+7,Pescados Congelados,Ahumado,South Wind Salmón Ahumado en Caliente,29.90,200 g
+
+7,Pescados Congelados,Empanizados,Umi Foods Salmón Hamburguesa Congelada,18.90,
+7,Pescados Congelados,Empanizados,Santa Priscila Filetes de Tilapa Marina,16.90,1 UN
+7,Pescados Congelados,Empanizados,Santa Priscila Nuggets de Tilapia Marina,16.90,1 UN
+7,Pescados Congelados,Empanizados,Seafrost Neggets de Pescado Caja,19.90,500 g
+7,Pescados Congelados,Empanizados,Santa Priscila Colas de Langostino Apanado,26.90,1 UN
+7,Pescados Congelados,Empanizados,Umi Foods Hamburguesa de Perico,21.50,500 g
+
+7,Pescados Congelados,Enteros,Tottus Trucha Entera Eviscerada Congelada,25.90,700 g
+7,Pescados Congelados,Enteros,Tottus Bonito Entero Congelado,8.90,1 kg
+
+7,Pescados Congelados,Filetes y Porciones,Tottus Filete de Tilapa sin Piel,24.90,1 kg
+7,Pescados Congelados,Filetes y Porciones,Tottus Porciones de Bonito,9.90,500 g
+7,Pescados Congelados,Filetes y Porciones,Tottus Filete de Trucha,29.90, 500 g
+7,Pescados Congelados,Filetes y Porciones,Tottus Premium Porciones de Salmón,39.90,500 g
+7,Pescados Congelados,Filetes y Porciones,Tottus Filete de Tilapa,12.90,500 g 
+7,Pescados Congelados,Filetes y Porciones,Tottus Porciones de Perico sin Piel,29.90,500 g
+
+7,Pescados Congelados,Otros,Tottus Premium Porciones de Salmón,39.90,500 g
+7,Pescados Congelados,Otros,Tottus Premium Medallones de Atún sin Piel,38.90,600 g
+7,Pescados Congelados,Otros,Tottus Porciones de Perico sin Piel,29.90,500 g
+7,Pescados Congelados,Otros,Tottus Porciones de Bonito,9.90,500 g
+
+7,Mariscos Congelados,Calamares,Azúl Marino Mixtura de Mariscos Premium,29.90,500 g
+7,Mariscos Congelados,Calamares,Seafrost Anillos de Calamar Gigante,25.90,500 g
+
+7,Mariscos Congelados,Conchas,Azúl Marino Conchas Media Valva Extra Grande 6 Unidades,19.90,500 g
+7,Mariscos Congelados,Conchas,Vadimar Mejillones Enteros,8.50,500 g
+
+7,Mariscos Congelados,Langostino,Tottus Langostinos Crudos Pelados y Desvenados,24.90,250 g
+7,Mariscos Congelados,Langostino,Santa Priscila Langostinos Grandes sin Cáscara,22.90,454 g
+7,Mariscos Congelados,Langostino,Tottus Choritos Cocidos,8.90,300 g
+7,Mariscos Congelados,Langostino,Tottus Langostinos Crudos y Pelados,21.90,250 g
+7,Mariscos Congelados,Langostino,Santa Priscila Colas de Langostino Apanado,26.90,1 UN
+7,Mariscos Congelados,Langostino,Umi Foods Colas de Langostino Cocido,25.90,170 g
+
+7,Mariscos Congelados,Mixturas,Tottus Choritos Cocidos,8.90,300 g
+7,Mariscos Congelados,Mixturas,Azúl Marino Mixtura de Mariscos Premium,29.90,500 g
+
+7,Frescos,Filetes Y Enteros,Tottus Filete de Salmón Fresco,76.90,1 kg
+7,Frescos,Filetes Y Enteros,Tottus Filete de Basa,13.90,1 kg
+7,Frescos,Filetes Y Enteros,Tottus Filete de Trucha Fresca,49.90,1 kg
+7,Frescos,Filetes Y Enteros,Tottus Choritos Cocidos,8.90,300 g
+7,Frescos,Filetes Y Enteros,Tottus Trucha Entera Eviscerada Fresca,21.90,1 kg
+7,Frescos,Filetes Y Enteros,Tottus Bonito Entero Fresco,9.90,1 kg
+
+8,Hamburguesas,Parrilleras,Otto Kunz Hamburguesa Premium de Res,13.90,4 UN
+8,Hamburguesas,Parrilleras,Otto Kunz Hamburguesa Parrillera Premium de Res,26.90,4 UN
+8,Hamburguesas,Parrilleras,Los Hierros Hamburguesa Parrillera de Carne,28.50,4 UN
+8,Hamburguesas,Parrilleras,Los Hierros Hamburguesa Premium de Carne,34.30,4 UN
+8,Hamburguesas,Parrilleras,Otto Kunz Mini Hamburguesa Parrillera 12 UNI Empaque,29.90,600 g
+8,Hamburguesas,Parrilleras,Avinka Hamburguesa Parillera,23,4 UN
+
+8,Hamburguesas,Regulares,Redondos Hamburguesa la Redondita de Pollo,8.90,14 UN
+8,Hamburguesas,Regulares,Otto Kunz Hamburguesa Premium de Res,24.90,8 UN
+8,Hamburguesas,Regulares,Tottus Hamburguesa Casera de Carne,13.50,14 UN
+8,Hamburguesas,Regulares,Tottus Hamburguesa Parrillera de Carne Pack 8 UNI,22.90,85 g
+8,Hamburguesas,Regulares,San Fernando Twelve Pack Choriburger 12 UNI,17.50,780 g
+
+8,Hamburguesas,Saludables,Sanua Hamburguesa de Frijoles Negros y Camote Caja,24.90,600 g
+8,Hamburguesas,Saludables,Sanua Hamburguesa Lentejas y Champiñones Caja,24.90,600 g
+8,Hamburguesas,Saludables,Sanua Hamburguesa Garbanzos y Espinaca Caja,24.90,5 UN
+
+8,Frutas y Verduras Congeladas,Frutas Congeladas,El Frutero Fresa Entera Congelada,15.50,1 kg
+8,Frutas y Verduras Congeladas,Frutas Congeladas,El Frutero Mix de Frutas Congeladas Fresa Papaya y Piña,18.50,1 kg
+8,Frutas y Verduras Congeladas,Frutas Congeladas,Tottus Fresa Congelada en Trozos,14.90,1 kg
+8,Frutas y Verduras Congeladas,Frutas Congeladas,Tottus Arándano Congelado en Trozos,18.50,1 kg
+8,Frutas y Verduras Congeladas,Frutas Congeladas,Tottus Piña Congelada en Trozos,14.90,1 kg
+8,Frutas y Verduras Congeladas,Frutas Congeladas,Tottus Tropical Mix Smoothie,7.90,350 g
+
+8,Frutas y Verduras Congeladas,Verduras Congeladas,Tottus Papas Pre Fritas Rectas,11.90,1 UN
+8,Frutas y Verduras Congeladas,Verduras Congeladas,Tottus Choclo Serrano Granos,8.40,400 g
+8,Frutas y Verduras Congeladas,Verduras Congeladas,Tottus Choclo Americano Granos,8.40,400 g
+8,Frutas y Verduras Congeladas,Verduras Congeladas,Tottus Arveja Granos,6.90,400 g
+8,Frutas y Verduras Congeladas,Verduras Congeladas,Tottus Mix Primavera,6.50,400 g
+8,Frutas y Verduras Congeladas,Verduras Congeladas,TottusMix Arveja y Zanahoria,6,400 g
+
+8,Helados,Bandejas Familiares,Donofrio Peziduri Chocolucuma Cremoso,18.90,2.2 l
+8,Helados,Bandejas Familiares,Donofrio Helado Peziduri Chocochip,9.90,900 ml
+8,Helados,Bandejas Familiares,Donofrio Helado Peziduri Tricolor,9.90,900 ml
+8,Helados,Bandejas Familiares,Donofrio Helado Peziduri Chocolate,9.90,900 ml
+8,Helados,Bandejas Familiares,Donofrio Helado Peziduri Pie de Limón,19.90,900 ml
+8,Helados,Bandejas Familiares,Tottus Helado Lúcuma con Chips Pote,8.90,930 ml
+
+8,Helados,Helados Importados,Haagen Dazs Vani Lla,35.90,473 ml
+8,Helados,Helados Importados,Beyers Cookie Duo Chocolate Chips,16.90,1.41 ml
+
+8,Helados,Paletas y Postres,Donofrio Four Pack Frio Rico Helado Vainilla,16.50,120 ml
+8,Helados,Paletas y Postres,Donofrio Helado Bombones Gran Prix.9.90,216 ml
+8,Helados,Paletas y Postres,Tottus Six Pack Paleta Helado Frutado Maracutá,8.90,6 UN
+8,Helados,Paletas y Postres,Tottus Paletas Frutadas de Fresa,8.90,6 UN
+8,Helados,Paletas y Postres,Donofrio Mini Sándwich,17,10 UN
+8,Helados,Paletas y Postres,Tottus Pack Helado Vainilla Lúcuma,8.20,372 g
+
+8,Helados,Potes,Donofrio Helado Donosandwich Vainilla,16.90,900 ml
+8,Helados,Potes,Donofrio Helado Donito Napolitano Pote,17.90,2.2 l
+8,Helados,Potes,Donofrio Helado Frio Rico Crocante Caram Sal Maras,21.90,900 ml
+8,Helados,Potes,Donofrio Helado Sublime Chocolate con Maní,16.90,900 ml
+8,Helados,Potes,Donofrio Helado Frio Rico Cracante con Salsa Café,21.90,900 ml
+8,Helados,Potes,Donofrio Helado Peziduri Postres Cheesecake,19.90,900 ml
+
+8,Pizzas Pastas y Bocaditos,Bocaditos,Tottus Tequeños con Jamón y Queso Congelado,21.50,50 UN
+8,Pizzas Pastas y Bocaditos,Bocaditos,Pastifico Classico Mini Empanada Clásica Carne Empaque,27.90,320 g
+
+8,Pizzas Pastas y Bocaditos,Pastas,Tottus Ravioles con Carne y Verduras,9.90,500 g
+8,Pizzas Pastas y Bocaditos,Pastas,Tottus Ravioles con Ricotta y Espinaca,9.90,500 g
+8,Pizzas Pastas y Bocaditos,Pastas,Tottus Ravioles cuatro Quesos,9.90,500 g
+8,Pizzas Pastas y Bocaditos,Pastas,Tottus Mini Ravioles con Cuatro Quesos,12.90,500 g
+8,Pizzas Pastas y Bocaditos,Pastas,Tottus Pasta Congelada Tortelloni de Ricotta y Champiñones,14.90,250 g
+8,Pizzas Pastas y Bocaditos,Pastas,Tottus Ravioles con Pollo y Verduras,9.90,500 g
+
+8,Productos Vegetarianos,Hamburgesas,Sanua Mix de Hamburguesas Sanúa,24.90,600 g
+8,Productos Vegetarianos,Hamburgesas,Sanua Hamburguesa Lentejas y Champiñones Caja,24.90,600 g
+8,Productos Vegetarianos,Hamburgesas,Sanua Hamburguesa Garbanzo y Espinaca Caja,24.90,5 UN
+8,Productos Vegetarianos,Hamburgesas,Sanua Hamburguesa de Frijoles Negros y Camote Caja,24.90,600 g
+8,Productos Vegetarianos,Hamburgesas,Flexfood Flex Nuggets,11.90,190 g
+8,Productos Vegetarianos,Hamburgesas,Flexfood Flex Burger,15.90,240 g
+
+9,Panes,Franceses y Tradicionales,Tottus Pan Yema,4.20,6 UN
+9,Panes,Franceses y Tradicionales,Tottus Pan Ciabatta Clásico de Masa Madre,3.40,6 UN
+9,Panes,Franceses y Tradicionales,Tottus Pan Francés,3.40,6 UN
+9,Panes,Franceses y Tradicionales,Tottus Karamanduka Chips,3.10,6 UN
+9,Panes,Franceses y Tradicionales,Tottus Pan Integral,3.40,6 UN
+9,Panes,Franceses y Tradicionales,Tottus Pan Pepitan,7,600 g
+
+9,Panes,Gourmet,Tottus Pan Artesanal con Romero y Sal de Maras,10.90,1 UN
+9,Panes,Gourmet,Orno Media Hogaza Integral,11.50,400 g
+9,Panes,Gourmet,Orno Media Hogaza Multigrano,9.20,400 g
+
+9,Panes Congelados,Hamburgesas y HotDog,Tottus Pan Ciabatta Precocido Congelado,4.50,440 g
+9,Panes Congelados,Hamburgesas y HotDog,Tottus Pan Francés Precocido Congelado,4.50,6 UN
+9,Panes Congelados,Hamburgesas y HotDog,Tottus Enrollado Hot Dog,2.90,1 UN
+9,Panes Congelados,Hamburgesas y HotDog,Tottus Pan Hamburguesa Embolsado,4.70,400 g
+9,Panes Congelados,Hamburgesas y HotDog,Tottus Pan Hotdog Embolsado,4.50,350 g
+9,Panes Congelados,Hamburgesas y HotDog,Tottus Croissant Congelado,8.90,460 g
+
+9,Pan de la Casa y Pan de Molde,Molde de la Casa,Tottus Pan de la Casa Blanco,4.70,350 g
+9,Pan de la Casa y Pan de Molde,Molde de la Casa,Tottus Pan de Molde Integral Multicereal,9.90,510 g
+9,Pan de la Casa y Pan de Molde,Molde de la Casa,Tottus Pan de Molde Integral con Frutos Secos,12.90,510 g
+9,Pan de la Casa y Pan de Molde,Molde de la Casa,Tottus Pan de la Casa Integral 6 Semillas,11.90,510 g
+9,Pan de la Casa y Pan de Molde,Molde de la Casa,Tottus Pan Integral,3.40,6 UN
+
+9,Pan de la Casa y Pan de Molde,Molde Blanco,Tottus Pan de la Casa Blanco,4.70,350 g
+9,Pan de la Casa y Pan de Molde,Molde Blanco,Molinos del Mundo Pan De Molde Blanco sin Gluten Molinos,17.20,480 g
+9,Pan de la Casa y Pan de Molde,Molde Blanco,Bimbo Pan Hamburguesa Brioche Artesano,9,360 g
+9,Pan de la Casa y Pan de Molde,Molde Blanco,Don Marino Pan Hamburguesa Brioche,11.90,600 g
+
+9,Pan de la Casa y Pan de Molde,Molde Integral,Tottus Pan de Molde Integral Multicereal,9.90,510 g
+9,Pan de la Casa y Pan de Molde,Molde Integral,Tottus Pan de Molde Integral con Frutos Secos,12.90,510 g
+9,Pan de la Casa y Pan de Molde,Molde Integral,Tottus Pan de Casa Integral 6 Semillas,11.90,510 g
+9,Pan de la Casa y Pan de Molde,Molde Integral,Tottus Pan Integral,3.40,6 UN
+
+9,Croissant Enrollandos y Otros,Baguettes y Artesanales,
+9,Croissant Enrollandos y Otros,Baguettes y Artesanales,
+9,Croissant Enrollandos y Otros,Baguettes y Artesanales,
+9,Croissant Enrollandos y Otros,Baguettes y Artesanales,
+9,Croissant Enrollandos y Otros,Baguettes y Artesanales,
+
+9,Tostadas y Bocaditos,Bocaditos Dulces,La Cajamarqueza Rosquitas Tradicionales,11.90,1 UN
+9,Tostadas y Bocaditos,Bocaditos Dulces,La Cajamarqueza Rosquitas de Mantequilla,11.90,1 UN
+9,Tostadas y Bocaditos,Bocaditos Dulces,Tottus Alfajores Rellenos con Manjar,11.90,24 UN
+9,Tostadas y Bocaditos,Bocaditos Dulces,Tottus Empanaditas,11.90,24 UN
+9,Tostadas y Bocaditos,Bocaditos Dulces,Tottus Alfajores Sabor Chocolate con Fudge,17.90,1 UN
+
+9,Tostadas y Bocaditos,Bocaditos Salados,Tottus Pita Chips Tomillo y Sal de Maras Envase,10.90,130 g
+9,Tostadas y Bocaditos,Bocaditos Salados,Tottus Croccantini Sabor Queso,9.90,190 g
+9,Tostadas y Bocaditos,Bocaditos Salados,Tottus Galletas de Salvado Surtidas,13.90,250 g
+9,Tostadas y Bocaditos,Bocaditos Salados,Tottus Palitos de Yuca con Orégano,9.90,120 g
+
+9,Tostadas y Bocaditos,Tostadas,Tottus Mini Tostadas Clásicas,6.90,110 g
+9,Tostadas y Bocaditos,Tostadas,Tottus Mini Tostadas Integrales,6.90,110 g
+9,Tostadas y Bocaditos,Tostadas,Tottus Tostadas,7.90,200 g
+9,Tostadas y Bocaditos,Tostadas,Tottus Mini Tostadas Finas Hierbas,6.90,110 g
+9,Tostadas y Bocaditos,Tostadas,Tottus Tostadas Integrales,7.90,230 g
+
+9,Tortas,Otras Tortas,Tottus Torta Tres Leches Café Chica,41.90,10 Por
+9,Tortas,Otras Tortas,Tottus Torta Vainilla Crema Frosting,48.90,850 g
+9,Tortas,Otras Tortas,Tottus Torta Chantilly de Frutas Mediana,60.90,12 Por
+9,Tortas,Otras Tortas,Tottus Torta Temática Mini,24.90,1 UN
+9,Tortas,Otras Tortas,Tottus Torta de Lúcuma Grande,69.90,16 Por
+9,Tortas,Otras Tortas,Tottus Torta Moka Grande,62.90,16 Por
+
+9,Tortas,Tortas de Chocolate Fudge y Manjar,Tottus Torta Capricho de Chocolate Mediana,60.90,12 Por
+9,Tortas,Tortas de Chocolate Fudge y Manjar,Tottus Torta Cumpleañera Sabor Chocolate,34.90,16 Por
+9,Tortas,Tortas de Chocolate Fudge y Manjar,Tottus Torta Fudge Corazón Mediana,53.90,12 Por
+9,Tortas,Tortas de Chocolate Fudge y Manjar,Tottus Torta Selva Negra Mediana,60.90,12 Por
+9,Tortas,Tortas de Chocolate Fudge y Manjar,Tottus Torta Chocomanjar Corazón Medina,50.90,12 Por
+
+9,Tortas,Tortas Tres Leches,Tottus Torta Tres Leches Café Chica,41.90,10 Por
+9,Tortas,Tortas Tres Leches,Tottus Torta Tres Leches Vainilla Chica,41.90,10 Por
+9,Tortas,Tortas Tres Leches,Tottus Torta Tres Leches Crema Volteada Chica,41.90,16 Por
+9,Tortas,Tortas Tres Leches,Tottus Torta Tres Leches Chocolate Mediana,60.90,12 Por
+9,Tortas,Tortas Tres Leches,Tottus Torta Tres Leches Lúcuma Mediana,60.90,12 Por
+
+10,Galletas,Bañadas,Morochas Galleta Nestlé Vainilla Cubierta de Chocolate,6.50,6 UN
+10,Galletas,Bañadas,Picaras Sixpack Galletas Clásicas,5.50,38 g
+10,Galletas,Bañadas,Chips Ahoy,6.30,6 UN
+10,Galletas,Bañadas,Field Sixpack Galleta Chokosoda,5.90,6 UN
+10,Galletas,Bañadas,Victoria Galleta Glacitas Fresa Sixpack.4.80,192 g
+10,Galletas,Bañadas,Victoria Galletas Glacitas Chocolate Sixpack,5.60,192 g
+
+10,Galletas,Integrales Arroz y Saludables,Victoria Galletas Integrackers Pack,7.90,9 UN
+10,Galletas,Integrales Arroz y Saludables,Union Mega Galleta Coco Unión,5.70,195 g
+10,Galletas,Integrales Arroz y Saludables,Incasur Galleta de Quinua y Frutos Rojos,8.50,180 g
+10,Galletas,Integrales Arroz y Saludables,Union Mega Galleta Integral Naranja Unión,5.70,195 g
+10,Galletas,Integrales Arroz y Saludables,Incasur Galleta con Chispas Chocolate y Menta,8.50,180 g
+10,Galletas,Integrales Arroz y Saludables,Costa Galleta Integral con Salvado de Trigo,5,6 UN
+
+10,Galletas,Rellenas,Victoria Galleta Casino Sabor Menta Sixpack,5,258g
+10,Galletas,Rellenas,Oreo Galleta Regular,8.50,12 UN
+10,Galletas,Rellenas,Costa Bizcocho Chocman Relleno de Manjar,4.50,6 UN
+10,Galletas,Rellenas,Oreo Galleta Pack,5.20,6 UN
+10,Galletas,Rellenas,Victoria Galleta Casino Sabor Fresa Sixpack,5,258 g
+10,Galletas,Rellenas,Victoria Galleta Casino Sabor Chocolate Sixpack,5,258 g
+
+10,Galletas,Saborizadas,Field Galleta de Vainilla,5.50,6 UN
+10,Galletas,Saborizadas,Margarita Galleta Sixpack,4.80,258 g
+10,Galletas,Saborizadas,Victoria Galleta Tentación Naranja Sixpack,5.20,258 g
+10,Galletas,Saborizadas,Victoria Galleta Tentación Chocolate Sixpack,5.20,258 g
+10,Galletas,Saborizadas,San Jorge Galleta Munición Familiar,8.61,450 g
+10,Galletas,Saborizadas,Victoria Galleta Chomp Chocolate Sixpack,5,228 g
+
+10,Galletas,Soda y Salada,San Jorge Galleta de Soda,5.04,7 UN
+10,Galletas,Soda y Salada,Field Sixpack Galleta Soda,4,192 g
+10,Galletas,Soda y Salada,Ritz Galletas Plain,4.80,6 UN
+10,Galletas,Soda y Salada,Victoria Galleta Soda V Original Sixpack,4,210 g
+10,Galletas,Soda y Salada,Tottus Galletas Saladitas,4.50,6 UN
+10,Galletas,Soda y Salada,Costa Galleta Soda Line Bolsa,4.50,6 UN
+
+10,Chocolates,Bañadas y Lentejas,Vizzio Chocolate con Leche,19.90,182 g
+10,Chocolates,Bañadas y Lentejas,Cremino Muss Chocolate Turrón,4.30,14 g
+10,Chocolates,Bañadas y Lentejas,Lentejas Pack Fiesta Mini Bolsa,14.90,30 UN
+10,Chocolates,Bañadas y Lentejas,Arcor Chocolate Mini Sapito,18,275 g
+10,Chocolates,Bañadas y Lentejas,Costa Cereal Barra Cañonazo Mini Bolsa,9,20 UN
+10,Chocolates,Bañadas y Lentejas,Chin Chin Chocolate Grageas Bolsa,4,45 g
+
+10,Chocolates,Barras y Tabletas,Sublime Chocolate Extremo con Leche y Maní Sob,4,50 g
+10,Chocolates,Barras y Tabletas,Sublime Chocolate Almendras con Leche,4,50 g
+10,Chocolates,Barras y Tabletas,Innato Chocolate Bitter 50% Cacao,10.50,80 g
+10,Chocolates,Barras y Tabletas,Orquidea Chocolate Bitter Cacao sin Azúcar,22.90,90 g
+10,Chocolates,Barras y Tabletas,HH Tableta de Chocolate con Leche Crunchy Negro,8.50,60 g
+10,Chocolates,Barras y Tabletas,Sublime Chocolate Almendras con Leche,60,15 Un
+
+10,Chocolates,Bombones y Pastillas,Bon o Bon Bombones de Chocolate Bolsa,7.14,90 g
+10,Chocolates,Bombones y Pastillas,Bon o Bon Bombones Minis Relleno Maní Caja,4.33,48 g
+10,Chocolates,Bombones y Pastillas,Ferrero Rocher Bombones de Chocolate,24.50,100 g
+10,Chocolates,Bombones y Pastillas,Nestlé Chocolate Princesa Nestlé,13.90,16 UN
+10,Chocolates,Bombones y Pastillas,Nestlé Chocolate Beso de Moza Clásico,10.90,24 UN
+10,Chocolates,Bombones y Pastillas,Sublime Bombón Bitter con Maní Doypack,16.50,17 UN
+
+10,Caramelos y Chupetes,Caramelos,Sayon Caramelos Perita Bolsa,6.30,380 g
+10,Caramelos y Chupetes,Caramelos,Trolli Gomitas Gusanos Sour Glowworms,4.50,100 g
+10,Caramelos y Chupetes,Caramelos,Ambrosoli Caramelos de Limón,8.30,100 UN
+10,Caramelos y Chupetes,Caramelos,Ambrosoli Caramelos Frutina,7.20,60 UN
+10,Caramelos y Chupetes,Caramelos,Ambrosoli Caramelos Masticables Súper Blando Bolsa,14.67,400 g
+10,Caramelos y Chupetes,Caramelos,Ancor Caramelos de Limón,10.43,100 UN
+
+10,Caramelos y Chupetes,Chupetes,Globo Pop Chupetín Neón Bolsa,8,432 g
+10,Caramelos y Chupetes,Chupetes,Globo Pop Chupetín Renovado Surtido Bolsa,8,432 g
+10,Caramelos y Chupetes,Chupetes,Ambrosoli Chupetín Colorado Surtido,8.90,408 g
+10,Caramelos y Chupetes,Chupetes,Globo Pop Chupete Colorado Maracuyá,8,25 UN
+10,Caramelos y Chupetes,Chupetes,Ambrosoli Chupetines Picolines,16.50,50 UN
+10,Caramelos y Chupetes,Chupetes,Bon Bon Bum Chupetines Fresa,8,24 UN
+
+10,Marshmellows y Gomitas,Chicles,Trident Chicles Menta Fresca,46.80,12 UN
+10,Marshmellows y Gomitas,Chicles,Trident Chicle X Splash Fresa y Limón Display,53.40,6 UN
+10,Marshmellows y Gomitas,Chicles,Trident Splash Strwbry Lime,3.90,17.1 g
+10,Marshmellows y Gomitas,Chicles,Trident Chicle Cool Bubble,46.80,12 UN
+10,Marshmellows y Gomitas,Chicles,Fini Chicle Ensalada de Frutas,4.90,80 g
+10,Marshmellows y Gomitas,Chicles,Grosso Chicles Surtidos,18.45,325 g
+
+10,Marshmellows y Gomitas,Gomitas,Tottus Gomitas Osito,3.90,100 g
+10,Marshmellows y Gomitas,Gomitas,olitalia Fruna Fresa Durazno y Manzana,10.90,420 g
+10,Marshmellows y Gomitas,Gomitas,Tottus Gomitas Delfines,3.90,100 g
+10,Marshmellows y Gomitas,Gomitas,Trolli Gummi Pizza,1.70,15.5 g
+10,Marshmellows y Gomitas,Gomitas,Ambrosoli Goma Gelatina Gusanos Surtido Bolsa,2.90,90 g
+10,Marshmellows y Gomitas,Gomitas,Grissly Gomitas Gusanos,3,80 g
+
+10,Marshmellows y Gomitas,Marshmellows,Colombina Marshmellows Millows Margarita,5.50,145 g
+10,Marshmellows y Gomitas,Marshmellows,Colombina Marshmellows Millows Surtidos,5.50,145 g
+10,Marshmellows y Gomitas,Marshmellows,Millows Marshmellows Osos,11.50,250 g
+10,Marshmellows y Gomitas,Marshmellows,Colombina Marshmellows Millows Cilindro Blanco,5.50,145 g
+10,Marshmellows y Gomitas,Marshmellows,Guandy Marshmellows Twister,4.91,74 g
+10,Marshmellows y Gomitas,Marshmellows,Guandy Marshmellows Corazones,4.91,71 g
+
+11,Snacks,Camote y Chifles,Villa Natura Villa Natura Chifle Salado,9.90,250 g
+11,Snacks,Camote y Chifles,Natuchips NatuChips Camote,7.50,135 g
+
+11,Snacks,Chizitos y Chicharron,Dyfferent Crunch Garbanzo Cheddar Dyff,7.50,100 g
+11,Snacks,Chizitos y Chicharron,Dyfferent Crunch Garbanzo Bbq Dyfferent,7.50,100 g
+
+11,Snacks,Complementos,Tottus Aceituna Negra Deshuesada,13.50,270 g
+11,Snacks,Complementos,Tottus Aceituna Botija con Pepa Tottus,9.90,240 g
+
+11,Snacks,Mix,Vallealto Snack Frutos Secos Vallealto,10.20,150 g
+11,Snacks,Mix,Piqueo Snax Snacks Piqueo Snax,5,105 g
+
+11,Snacks,Papitas y Yucas,Inka Chips Papa Salada Inka Chips,8.50,135 g
+11,Snacks,Papitas y Yucas,Tottus Piqueo Andino Tottus,7.90,175 g
+
+11,Snacks,PopCorn,Bucky Snacks Bucky Pop Extra Mantequilla,3.90,90 g
+
+11,Snacks,Pretzels y Otros,Chetos Cheetos Horneados Mega Queso,5,90 g
+11,Snacks,Pretzels y Otros,Edith Palitos Con Albahaca Y Parmesano Edith,3.10,55 g
+
+11,Snacks,Saludables,Qfoods Quinoa Chips Sabor Guacamole Qfoods,2.50,35 g
+11,Snacks,Saludables,Qfoods Quinoa Chips Sabor Finas Hierbas,6.50,100 g
+
+11,Snacks,Tortillas de Maíz,Mexi Nachos Tortilla Chips Mexi Nachos,4.90,100 g
+11,Snacks,Tortillas de Maíz,Tortees Tortees Picante,2.50,71 g
+
+
+11,Frutos Secos,Almendras,Tottus Almendras Natural TP,9.90,120 g
+11,Frutos Secos,Almendras,Tottus Almendras,7.10,100 g
+
+11,Frutos Secos,Maíz Pistachos y Habas,Tottus Cancha Chulpi Salada TP,6,150 g
+11,Frutos Secos,Maíz Pistachos y Habas,Tottus Cancha Chulpi Salada TP,9.90,250 g
+
+11,Frutos Secos,Maní,Tottus Mani Salado Tottus,4.70,200 g
+11,Frutos Secos,Maní,Karinto Karinto Mani Engalletado Picante,4.20,100 g
+
+11,Frutos Secos,Mixes,Tottus Puro Nuts Nueces Tottus,14.90,170 g
+11,Frutos Secos,Mixes,Vallealto Cocktail de Nueces Vallealto,6,90 g
+
+11,Frutos Secos,Pasas Guindones Damascos Albaricoques y Dátiles,Tottus Semilla De grirasol Tottus,2.90,80 g
+11,Frutos Secos,Pasas Guindones Damascos Albaricoques y Dátiles,Villa Natura Guindón Sin Pepa,7.90,150 g
+
+11,Frutos Secos,Pecanas y Cashews,Villa Natura Nuts Nuts,13.90,150 g
+11,Frutos Secos,Pecanas y Cashews,Villa Natura Cocktail Nuts Raisins Seeds,10.90,150 g
+
+12,Cervezas Nacionales,Cusqueña,Cusqueña Six Pack Cerveza Trigo Botella,21.90,310 ml
+12,Cervezas Nacionales,Cusqueña,Cusqueña Six Pack Cerveza Trigo Lata,26.90,355 ml
+12,Cervezas Nacionales,Cusqueña,Cusqueña Cerveza Dorada en Lata,26.90,6 UN
+12,Cervezas Nacionales,Cusqueña,Cusqueña Six Pack Cerveza Negra Lata,26.90,355 ml
+12,Cervezas Nacionales,Cusqueña,Cusqueña Six Pack Cerveza Negra Botella,21.90,310 ml
+
+12,Cervezas Nacionales,Pilsen,Pilsen Cerveza Lata Pack,39.90,12 UN
+12,Cervezas Nacionales,Pilsen,Pilsen SixPack Cerveza,20.90,305 ml
+12,Cervezas Nacionales,Pilsen,Pilsen Cerveza Callao Pack 6 Latas,30.90,473 ml
+12,Cervezas Nacionales,Pilsen,Pilsen Cerveza en Lata PAck 6 Unidades,27.90,355 ml
+
+12,Cervezas Nacionales,Tres Cruces,Tres Cruces Lager Six Pack Tres Cruces Lager LT,16.90,355 ml
+
+12,Cervezas Importadas,Amstel,Amstel Premium Sixpack Lata,20.90,310 ml
+
+12,Cervezas Importadas,Budweiser,Budweiser Sixpack Cerveza Lata,20.90,355 ml
+
+12,Cervezas Importadas,Corona,Corona Cero SixPack Cerveza sin Alcohol Botella,28.90,355 ml
+12,Cervezas Importadas,Corona,Corona Extra Sixpack Corana Lata,20.90,355 ml
+
+12,Cervezas Importadas,Estrella Damm,SixPack Cerveza Estrella Damm Lata,24.90,330 ml
+12,Cervezas Importadas,Estrella Damm,SixPack Cerveza Estrella Damm Botella,24.90,330 ml
+
+12,Cervezas Importadas,Heinesek,Heinesek Cerveza Heinesek en Botella Sixpack,25.90,330 ml
+
+12,Cervezas Importadas,Scolta,Tottus Sixpack Scolta,16.90,330 ml
+
+12,Cervezas Importadas,Stella Artois,Stella Artois Cerveza Stella Artois,25.90,330 ml
+
+12,Cervezas Artesanales,Erdinger,Erdinger Cerveza de Trigo Rubia Botella,11.90,330 ml
+12,Cervezas Artesanales,Erdinger,Erdinger Cerveza de Trigo Rubia Botella,13.90,500 ml
+
+12,Otras Marcas de Cervezas,Bitburger,Bitburger Cerveza 0 Alcohol Drive Bit,7.50,330 ml
+
+12,Otras Marcas de Cervezas,Golden,Golden Bebida de Maíz Cebada Fermentada Golden,14.90,355 ml
+
+12,Otras Marcas de Cervezas,Pum Pum,Pum Pum Cerveza de Maíz Six Pack,21.90,473 ml
+12,Otras Marcas de Cervezas,Pum Pum,Pum Pum Six Pack,16.90,310 ml
+
+
+13,Ron,Appleton Estate,Signature,75.90,1 L
+13,Ron,Appleton Estate,Signature,64.90,750 ml
+13,Ron,Appleton Estate,Reserve 8 Años,86.90,750 ml
+
+13,Ron,Bacardi,Carta Blanca,85.90,1.75 L
+13,Ron,Bacardi,Carta Blanca,56.90,980 ml
+13,Ron,Bacardi,Carta Blanca,48.90,750 ml
+13,Ron,Bacardi,Carta Oro,85.90,1.75 L
+13,Ron,Bacardi,Carta Oro,56.90,980 ml
+13,Ron,Bacardi,Carta Oro,48.90,750 ml
+13,Ron,Bacardi,Limon,54.90,750 ml
+13,Ron,Bacardi,Mojito,44.90,750 ml
+13,Ron,Bacardi,Añejo,58.90,750 ml
+13,Ron,Bacardi,Reserva 8 años,99.90,750 ml
+
+13,Ron,Barcelo,Gran Añejo,53.90,750 ml
+13,Ron,Barcelo,Gran Añejo Dark,88.90,700 ml
+13,Ron,Barcelo,Blanco Añejado,49.90,750 ml
+13,Ron,Barcelo,Dorado Añejado,54.90,1 L
+13,Ron,Barcelo,Dorado Añejado,49.90,750 ml
+13,Ron,Barcelo,Imperial,129.90,750 ml
+
+13,Ron,Cartavio,Black,30.90,1 L
+13,Ron,Cartavio,Black,26.90,750 ml
+13,Ron,Cartavio,Black Barrel,34.90,1 L
+13,Ron,Cartavio,Black Barrel,30.90,750 ml
+13,Ron,Cartavio,Blanco,30.90,1 L
+13,Ron,Cartavio,Blanco,26.90,750 ml
+13,Ron,Cartavio,Saborizado Coco,25.90,750 ml
+13,Ron,Cartavio,Saborizado Durazno,25.90,750 ml
+13,Ron,Cartavio,Superior,30.90,1 L
+13,Ron,Cartavio,Superior,26.90,750 ml
+13,Ron,Cartavio,Black Barrel 3 Años,30.90,1 L
+13,Ron,Cartavio,Blanco Selecto 5 Años,39.90,750 ml
+13,Ron,Cartavio,Selecto 5 Años,60.90,1.75 L
+13,Ron,Cartavio,Selecto 5 Años,44.90,1 L
+13,Ron,Cartavio,Selecto 5 Años,37.90,750 ml
+13,Ron,Cartavio,Reserva 8 Años,55.90,750 ml
+13,Ron,Cartavio,Solera 12 Años,94.90,750 ml
+13,Ron,Cartavio,Gran Solera 15 Años,137.90,750 ml
+13,Ron,Cartavio,XO 18 Años,209.90,750 ml
+
+13,Ron,Flor de Caña,Añejo Oro,75.90,1 L
+
+
+14,Gaseosas,Coca Cola,Coca Cola Gaseosa,3,500 ml
+14,Gaseosas,Coca Cola,Coca Cola Gaseosa Sabor Regular sin Azúcar,8.80,2.25 l
+14,Gaseosas,Coca Cola,Coca Cola Sixpack Gaseosa sin Azúcar,15.50,500 ml 
+
+14,Gaseosas,Fanta,Fanta Gaseosa Sabor Naranja,2.70,500 ml
+14,Gaseosas,Fanta,Fanta Beb Gaseosa Manzana Verde Bot,6.90,3 l
+14,Gaseosas,Fanta,Fanta Gaseosa Fresa Lata,6.90,355 ml
+14,Gaseosas,Fanta,Fanta Six Pack Kola Inglesa,13.50,500 ml
+
+14,Gaseosas,Fresh,Fresh Cola Lima Limón Tottus,3.90,1.5 l
+14,Gaseosas,Fresh,Fresh Cola Roja Fresh,3.90,1.5 l
+
+14,Gaseosas,Guaraná,Guaraná Gaseosa Sabor Naranja,2.70,500 ml
+14,Gaseosas,Guaraná,Guaraná Gaseosa Sabor Naranja,8,3 l
+
+14,Gaseosas,Inca Kola,Inca Kola Gaseosa,3,500 ml
+14,Gaseosas,Inca Kola,Inca Kola Gaseosa Sabor Regular sin Azúcar,8.80,2.25 l
+14,Gaseosas,Inca Kola,Inca Kola Sixpack Gaseosa sin Azúcar,15.50,500 ml
+
+14,Gaseosas,Otras,Evervess Gaseosa Ginger Ale Two Pack,11.60,1.5 l
+14,Gaseosas,Otras,Seven Up Gaseosa,5.90,3 l
+
+14,Gaseosas,Pepsi,Pepsi Gaseosa Cola,4.50,2 l
+14,Gaseosas,Pepsi,Pepsi Gaseosa Cola,3.50,1 l
+14,Gaseosas,Pepsi,Pepsi Gaseosa Botella,8.50,3 l
+14,Gaseosas,Pepsi,Pepsi Gaseosa Cola,1.30,355 ml
+14,Gaseosas,Pepsi,Pepsi Gaseosa Cola,5.50,1.5 l
+
+14,Gaseosas,Sprite,Sprite Gaseosa sin Azúcar,2.70,500 ml
+14,Gaseosas,Sprite,Sprite Sixpack Gaseosa Lima Limón,13.50,500 ml
+
+14,Aguas,Agua con Gas,San Mateo Agua Mineral con Gas,11.20,6 UN
+14,Aguas,Agua con Gas,San Luis Agua Mineral con Gas,1.90,625 ml
+14,Aguas,Agua con Gas,San Luis Agua Mineral con Gas,3.20,2.5 l
+14,Aguas,Agua con Gas,San Luis bebida con Escencia Kion Sabor Piña,2.20,625 ml
+14,Aguas,Agua con Gas,Socosani Agua Mineral con Gas,2.40,500 ml
+
+14,Aguas,Agua Saborizada,San Luis Bebida Agua Saborizada Limón,2.20,625 ml
+14,Aguas,Agua Saborizada,Socosani Limón,2,500 ml
+14,Aguas,Agua Saborizada,San Luis Saborizada Limón,4.50,1.5 l
+14,Aguas,Agua Saborizada,Loa Agua Sabor Lima Limón Botella,1.70,625 ml
+14,Aguas,Agua Saborizada,Loa Agua Sabor Lima Limón Botella,1.70,625 ml
+
+14,Aguas,Agua sin Gas,Tottus Agua de Mesa Sin Gas Bidón,5.90,7 l
+14,Aguas,Agua sin Gas,San Mateo Agua Mineral sin Gas,8.90,7 l
+14,Aguas,Agua sin Gas,Cielo Agua Mineral sin Gas Bidón Descartable,6.90,7 l
+14,Aguas,Agua sin Gas,Cielo Agua Mineral sin Gas,23.90,20 l
+14,Aguas,Agua sin Gas,Cielo Mineral sin Gas,2.90,2.5 l
+
+14,Jugos y Tés Líquidos,Jugos en Polvo,Zuko Jugo en Polvo a Piña,1.20,15 g
+14,Jugos y Tés Líquidos,Jugos en Polvo,Zuko Jugo en Polvo a Naranja,1.20,15 g
+14,Jugos y Tés Líquidos,Jugos en Polvo,Zuko Jugo en Polvo a Durazno,1.20,15 g
+14,Jugos y Tés Líquidos,Jugos en Polvo,Zuko Jugo en Polvo a Limonada,1.20,15 g
+14,Jugos y Tés Líquidos,Jugos en Polvo,Zuko Jugo en Polvo a Maracuyá,1.20,15 g
+
+14,Jugos y Tés Líquidos,Jugos Naturales,Frugos Bebida Valle Freservah Citrus Naranja,6.50,3 l
+14,Jugos y Tés Líquidos,Jugos Naturales,Gloria Bebida de Maracuyá,4.90,1 l
+14,Jugos y Tés Líquidos,Jugos Naturales,Frugos Bebida del Valle Naranja,4.10,970 ml
+14,Jugos y Tés Líquidos,Jugos Naturales,Tottus Frutas Jugo Pateurizado de Naranja,13.10,1.8 l
+14,Jugos y Tés Líquidos,Jugos Naturales,Gloria Bebida de Naranja,4.90,1 l
+
+14,Jugos y Tés Líquidos,Jugos y Otras,Bebidas Frugos Bebida del Valle Naranja,5.90,1.45 l
+14,Jugos y Tés Líquidos,Jugos y Otras,Bebidas Frugos Bebida del Valle Manzana,5.90,1.45 l
+14,Jugos y Tés Líquidos,Jugos y Otras,Bebidas Watts de Pera,4.50,946 ml
+14,Jugos y Tés Líquidos,Jugos y Otras,Bebidas Kero Bebida Aloe Uva,3,300 ml
+14,Jugos y Tés Líquidos,Jugos y Otras,Watts Bebidas de Naranja
+
+14,Jugos y Tés Líquidos,Tés Líquido,Free Tea Bebida Nego Durazgo,2.50,500 ml
+14,Jugos y Tés Líquidos,Tés Líquido,Leaf Tea Bebida Té Verde con Limón,2.30,400 ml
+14,Jugos y Tés Líquidos,Tés Líquido,Free Tea Bebida de Té Negro Sabor Frutos Rojos,2.50,500 ml
+14,Jugos y Tés Líquidos,Tés Líquido,Free Tea Té Limón light Six pack Bt,12.90,450 ml
+14,Jugos y Tés Líquidos,Tés Líquido,Lipton Durazno,2,500 ml
+
+14,Energizante y Rehidratantes,Energizante,Volt Bebida Energizante Regular,12.50,300 ml
+14,Energizante y Rehidratantes,Energizante,Monter Bebida Ultra Energizante,8,473 ml
+14,Energizante y Rehidratantes,Energizante,Red Bull Energiizante Ambar Edition,7.90,250 ml
+14,Energizante y Rehidratantes,Energizante,Volt Darck,2.50,300 ml
+14,Energizante y Rehidratantes,Energizante,Der Bull Energizante Green Edition,7.90,250 ml
+
+14,Energizante y Rehidratantes,Rehidratantes,Dilyte Bebida Hidratante Manzana Botella,4,650 ml
+14,Energizante y Rehidratantes,Rehidratantes,Sporade Uva Tapa Plana,2.40,500 ml
+14,Energizante y Rehidratantes,Rehidratantes,Gatorade Bebida Rehidratante Sabor Manzana,2.40,500 ml
+14,Energizante y Rehidratantes,Rehidratantes,Electrolight Cero Piña,2.20,475 ml
+14,Energizante y Rehidratantes,Rehidratantes,Life Sos Relax Bebida Relajante,5.90,355 ml
+
+14,Complementos,Ginger Ale, Britvic Britvig Ginger Ale,5.90,150 ml
+
+14,Complementos,Hielo,Tottus Hielo en Cubo Tottus,6.90,3 kg
+
+14,Complementos,Mixers,Britvic Ginger Ale,5.90,150 ml
+14,Complementos,Mixers,Mr Perking Fourpack Pink Soda Toronja,19.90,200 ml
+14,Complementos,Mixers,Go Barman Sales Micheladas & Tequila,19.90,90 g
+14,Complementos,Mixers,Fever Tree Fourpack Agua Tónica Mediterranean,29.90,200 ml
+
+15,Detergente y Cuidado de la Ropa,Cloro,Tottus Lejía Tradicional Botella,8.90,5 kg
+15,Detergente y Cuidado de la Ropa,Cloro,Clorox Lejía Tradicional Envase,11,4 kg
+15,Detergente y Cuidado de la Ropa,Cloro,Clorox Lejía Tradicional Botella,5.80,2 kg
+15,Detergente y Cuidado de la Ropa,Cloro,Sapolio Lejía Original Botella,4,1.16 kg
+15,Detergente y Cuidado de la Ropa,Cloro,Clorox Lejía Flores de Lavanda Botella,6.20,2 kg
+15,Detergente y Cuidado de la Ropa,Cloro,Clorox Lejía Anti Splash Botella,13.90,3.9 kg
+
+15,Detergente y Cuidado de la Ropa,Detergente en Polvo,Magia Blanca Detergente Lavanda Bolsa,34,4 kg
+15,Detergente y Cuidado de la Ropa,Detergente en Polvo,Bolivar Detergente en Polvo Cuidado Micelar Bolsa,29.50,2.4 kg
+15,Detergente y Cuidado de la Ropa,Detergente en Polvo,Opal Detergete Polvo Ultra,39.86,4 kg
+15,Detergente y Cuidado de la Ropa,Detergente en Polvo,Sapolio Detergente Polvo Floral Bolsa,32,4 kg
+15,Detergente y Cuidado de la Ropa,Detergente en Polvo,Tottus Detergente Polvo Aroma Collection Bolsa,16.90,2 kg
+15,Detergente y Cuidado de la Ropa,Detergente en Polvo,Marsella Detergente en Polvo Lavanda y Rosas Bolsa,35.90,4 kg
+
+15,Detergente y Cuidado de la Ropa,Detergente Líquido,Tottus Detergente Líquido Quitamanchas Envase,22.90,2 l
+15,Detergente y Cuidado de la Ropa,Detergente Líquido,Ariel Detergente Líquido Doble Poder Envase,28.90,1.2 l
+15,Detergente y Cuidado de la Ropa,Detergente Líquido,Bolivar Detergente Líquido Cuidado Total Doypack,49.40,3 l
+15,Detergente y Cuidado de la Ropa,Detergente Líquido,Skip Detergente Líquido Envase,44.90 3 l
+15,Detergente y Cuidado de la Ropa,Detergente Líquido,Tottus Detergente Líquido Suavizante Envase,22.90,2 l
+
+15,Detergente y Cuidado de la Ropa,Jabones,Bolivar Jabón Cuidado Total Empaque,5.70,380 g
+15,Detergente y Cuidado de la Ropa,Jabones,Bolivar Jabón Cuidado Total Empaque,3.20,190 g
+15,Detergente y Cuidado de la Ropa,Jabones,Bolivar Jabón Cuidado Bebés Empaque,6,380 g
+15,Detergente y Cuidado de la Ropa,Jabones,Na Pancha Jabón Ropa Ña Pancha Floral,4.90,360 g
+15,Detergente y Cuidado de la Ropa,Jabones,Caricia Jabón Ropa Bebé,3.70,180 g
+
+15,Detergente y Cuidado de la Ropa,Quitamanchas,Clorox Quitamanchas Ropa Colores Vivos sin Lejía Botella,4,580,
+15,Detergente y Cuidado de la Ropa,Quitamanchas,Clorox Quitamanchas Ropa Colores Vivos sin Lejía Botella,19.90,1.8 l
+15,Detergente y Cuidado de la Ropa,Quitamanchas,Clorox Quitamanchas Ropa Blanco Supremo Botella,4,580 ml
+15,Detergente y Cuidado de la Ropa,Quitamanchas,Clorox Quitamanchas Ropa Blanco Supremo Botella,11.40,930 ml
+15,Detergente y Cuidado de la Ropa,Quitamanchas,Tottus Quitamanchas sin Lejía Polvo Envase,29.90,450 g 
+
+15,Detergente y Cuidado de la Ropa,Suavizantes,Suavitel Suavizante Fresca Primavera Doupack,21.50,2.3 l
+15,Detergente y Cuidado de la Ropa,Suavizantes,Downy Floral MX Esp,25.90,2600 ml
+15,Detergente y Cuidado de la Ropa,Suavizantes,Tottus Suavizante Concentrado Floral Doypack,11.90,1.5 l
+15,Detergente y Cuidado de la Ropa,Suavizantes,Downy Suavizante Concentrado Floral Botella,33.90,5 l
+15,Detergente y Cuidado de la Ropa,Suavizantes,Downy Exótico Mx Exp,17.50,1400 ml
+
+15,Papel Higiénico,Doble Hoja,Suave Papel Higiénico Resiste Max Doble Hoja Empaque,26.90,40 UN
+15,Papel Higiénico,Doble Hoja,Paracas Papel Higiénico Doble Hoja Black Pack,4.50,4 UN
+15,Papel Higiénico,Doble Hoja,Suave Papel Higiénico Cuidado Completo Empaque,39.90,40 UN
+15,Papel Higiénico,Doble Hoja,Eite Papel Higiénico Doble Hoja Clásico Pack,22.50,40 UN
+15,Papel Higiénico,Doble Hoja,Suave Papel Higiénico Esencias Empaque,41.90,24 UN
+
+15,Papel Higiénico,Simple,Tottus Papel Higiénico Maxirrollo Tottus,25.90,4 UN
+
+15,Papel Higiénico,Triple Hoja,Suave Papel Higiénico Premium Triple Hoja Empaque,36.50,24 UN
+15,Papel Higiénico,Triple Hoja,Elite Papel Higiénico Triple Hoja Soft & Strong Pack,36.5024 UN
+15,Papel Higiénico,Triple Hoja,Suave Papel Higiénico Premium Confort,26,40 UN
+15,Papel Higiénico,Triple Hoja,Elite Papel Higiénico Triple Hoja Pack,35.90,18 UN
+
+15,Limpiadores,Alfombras,Tuba Limpia Alfombra y Tapices,26.50,500 ml
+15,Limpiadores,Alfombras,Binner Espuma Limpiadora Tapicera Telas Alfombras Envase,24.90,600 ml
+15,Limpiadores,Alfombras,Dr Beckmann Limpiador Alfombras Envase,39.90,650 ml
+15,Limpiadores,Alfombras,Binner Limpiador Binner Tapicera y Alfombras Botella,18.99,500 ml
+
+15,Limpiadores,Baño,Harpic Gel Limpiador Desinfectante Innodoro Extra Fuerte,6.60,200 ml
+15,Limpiadores,Baño,Pato Limpiador de Innodoro en Gel Marina 5 en 1,17.60,500 ml
+15,Limpiadores,Baño,Precio Uno Acido Sacasarro Envase,5.50,1 l
+15,Limpiadores,Baño,Harpic Desinfectante Innodoro Todo en 1 Lavanda Envase,21.30,750 ml
+15,Limpiadores,Baño,Tottus PAstilla para Baño Pack,10.20,2 UN
+
+15,Limpiadores,Cocina,Sapolio Repuesto Sacagrasa Limón Cocina Doypack,6.10,500 ml
+15,Limpiadores,Cocina,Mr Musculo Repuesto Sacagrasa Limón Cocina Doypack,7.90,500 ml
+15,Limpiadores,Cocina,Mr Musculo Sacagrasa Mr Musculo En Spray Para Cocina Limón Botella,18.70,500 ml
+15,Limpiadores,Cocina,Mr Musculo Repuesto Sacagrasa Mr Musculo Naranja Cocina Doypack,7.90,500 ml
+15,Limpiadores,Cocina,Cif Limpiador Crema Cif Bio Active Multiusos Envase,7.90,250 ml
+
+15,Limpiadores,Desinfectantes,Sapolio Desinfectante Sapolio Pino Envase,6.10,900 ml
+15,Limpiadores,Desinfectantes,Tottus Desinfectante Pino Envase,11,1.8 l
+15,Limpiadores,Desinfectantes,Sapolio Desinfectante Pino Envase,13.80,1.8 l
+15,Limpiadores,Desinfectantes,Pinesol Desinfectante Limón Envase,10.70,900 ml
+15,Limpiadores,Desinfectantes,Pinesol Desinfectante Limón Envase,20.50,1.8 l
+
+15,Limpiadores,Limpia Vidrios y Multiusos,Sapolio Limpiavidrios Lavanda Envase,5,500 ml
+15,Limpiadores,Limpia Vidrios y Multiusos,Tottus Limpiavidrios Tottus Envase,7.90,500 ml
+15,Limpiadores,Limpia Vidrios y Multiusos,Virutex Kit Limpiavidrios de Microfibra Virutex Empaque,9.90,2 UN
+15,Limpiadores,Limpia Vidrios y Multiusos,Pledge Limpiador Pledge Cítrico Limpieza Diaria Doypack,15.90,500 ml
+15,Limpiadores,Limpia Vidrios y Multiusos,Frosch Limpiador Frosch Todo Propósito Ecoamigable Envase,24.75,500 ml
+
+15,Limpiadores,Lmpiatodo,Sapolio Limpiatodo Sapolio Antibacterial Lavanda Botella,15.90,4.9 l
+15,Limpiadores,Lmpiatodo,Dkasa Limpiatodo Dkasa Lavanda,12.80,4 l
+15,Limpiadores,Lmpiatodo,Dkasa Limpiatodo Dkasa Aromatizado Pack 3 Botella,9.40,900 ml
+15,Limpiadores,Lmpiatodo,Sapolio Limpiatodo Sapolio Antibacterial Floral Botella,15.90,4.9 l
+15,Limpiadores,Lmpiatodo,Sapolio Limpiatodo Sapolio Coco Tropical Envase,13.50,900 ml
+
+15,Limpiadores,Lustramuebles,Tazz Renovador Cuero Tazz Mito Bambú Botella,12.99,250 ml
+15,Limpiadores,Lustramuebles,Mr Cleaner Crema Mr Cleaner Revive Para Muebles Cuero Y Madera Envase,13,250 g
+15,Limpiadores,Lustramuebles,Binner Limpiador Binner Muebles Cubre Rasguños Envase,15.50,150 ml
+15,Limpiadores,Lustramuebles,Binner Limpiador Y Protector Binner Muebles Bambú Envase,24.90,350 ml
+15,Limpiadores,Lustramuebles,New Look Renovador Madera New Look Aceite Con Silicona Amarillo Botella,18,260 ml
+
+15,Limpiadores,Metales,Dr Beckmann Limpiador Dr Beckmann Para Acero Inoxidable Envase,25.90,250 ml
+15,Limpiadores,Metales,Dr Beckmann Toallitas Limpiadoras Dr Beckmann Para Plata Empaque,25.90,12 UN
+
+15,Limpiadores,Otros Limpiadores,La Oca Limpiador La Oca Para Pisos Laminados Y Parquet Botella,23.70,800 ml
+15,Limpiadores,Otros Limpiadores,Cif Limpiador Cif Bio Active Anti Hongos Envase,19.90,500 ml
+15,Limpiadores,Otros Limpiadores,Mr Cleaner Crema Mr Cleaner Revive Para Muebles Cuero Y Madera Envase,13,250 g
+15,Limpiadores,Otros Limpiadores,Cif Limpiador Cif Multisuperficie Ultra Brillo Envase,24.90,400 ml
+15,Limpiadores,Otros Limpiadores,Binner Removedor Polvo Y Brillo Binner Aroma Citrus Fresh Botella,18.90,300 ml
+
+15,Limpiadores,Toallitas Desinfectantes,Clorox Toallas Desinfectantes Clorox Expert Sin Lejía Empaque,20.90,60 UN
+15,Limpiadores,Toallitas Desinfectantes,Clorox Toallitas Desinfectantes Clorox Canister Fresh Pote,34.90,75 UN
+15,Limpiadores,Toallitas Desinfectantes,Clorox Toallas Desinfectantes Clorox Expert Sin Lejía Empaque,11.90,30 UN
+15,Limpiadores,Toallitas Desinfectantes,Lysol Toallitas Desinfectantes Lysol Citrus Envase,23.50,35 UN
+15,Limpiadores,Toallitas Desinfectantes,Clorox Toallitas Fresh Canister Clorox,20.90,35 UN
+
+15,Lavavajillas,Especializados,Frosch Lavavajilla Frosch Abrillantador Envase,23.90,750 ml
+15,Lavavajillas,Especializados,La Oca Lavavajilla Para Máquina La Oca Gel Envase,33.90,740 ml
+15,Lavavajillas,Especializados,Frosch Pastillas Para Lavavajilla Frosch Aroma Limon Caja,49.90,26 UN
+
+15,Lavavajillas,En Pasta,Sapolio Lavavajilla Pasta Sapolio Limón Envase,6.20,800 g
+15,Lavavajillas,En Pasta,Tottus Lavavajilla Pasta Tottus Envase,5.90,900 g
+15,Lavavajillas,En Pasta,Lavax Lavavajilla Crema Lavax Uva Envase,5.40,700 g
+15,Lavavajillas,En Pasta,Ayudín Lavavajilla Ayudin En Pasta Limón Y Sábila Envase,7.50,850 g
+15,Lavavajillas,En Pasta,Sapolio Lavavajilla Pasta Sapolio Manzana Envase,6.20,800 g
+
+15,Lavavajillas,Líquido,Tottus Lavavajilla Antibacterial Tottus Limón Envase,12.90,1.2 l
+15,Lavavajillas,Líquido,Tottus Lavavajilla Líquido Tottus Neutro Envase,10.90,900 ml
+15,Lavavajillas,Líquido,Ayudín Líquido Limón,22.50,1.2 L
+15,Lavavajillas,Líquido,Tottus Lavavajilla Antibacterial Tottus Limón Envase,26.90,2.6 l
+15,Lavavajillas,Líquido,Sapolio Lavavajilla Líquido Sapolio Manzana Botella,13.90,1250 ml
+
+15,Accesorios de Limpieza,Desatorador,Virutex Limpia Inodoro Virutex Con Base Clásico,9.90,1 UN
+15,Accesorios de Limpieza,Desatorador,Precio Uno Limpia Inodoro Precio Uno,6.90,1 UN
+15,Accesorios de Limpieza,Desatorador,Virutex Desatorador Virutex Baño,12.90,1 UN
+15,Accesorios de Limpieza,Desatorador,Hude Hisopo Hude,8.50,1 UN
+
+15,Accesorios de Limpieza,Escobas,Virutex Cabeza Escoba Virutex Súper Dalia,8.90,1 UN
+15,Accesorios de Limpieza,Escobas,Virutex Pack Virutex Escoba Podera Y Recogedor,19.90,2 UN
+15,Accesorios de Limpieza,Escobas,Virutex Escoba Virutex Dalia Mix 39cm,16.50,1 UN
+15,Accesorios de Limpieza,Escobas,Virutex Escoba Pisos Delicados Cm Nm,21.90,1 UN
+15,Accesorios de Limpieza,Escobas,Virutex Botador De Agua Virutex,16.90,1 UN
+
+15,Accesorios de Limpieza,Escobillas,Hude Escobilla Hude Para Lavar,7.80,1 UN
+15,Accesorios de Limpieza,Escobillas,Norhygienic Escobilla Ropa Norhygienic,6.99,1 UN
+
+15,Accesorios de Limpieza,Esponjas,Scotch Brite Esponja Scotch Brite La Máquina,4.70,1 UN
+15,Accesorios de Limpieza,Esponjas,Scotch Brite Esponja Cocina Scotch Brite 2 En 1 Multiusos Empaque,18.90,6 UN
+15,Accesorios de Limpieza,Esponjas,Scotch Brite Esponja Cocina Scotch Brite 2 En 1 Multiusos,6.20,1 UN
+15,Accesorios de Limpieza,Esponjas,Scotch Brite Esponja Scotch Brite Celulosa Delicada Cero Rayas Empaque,21.90,6 UN
+15,Accesorios de Limpieza,Esponjas,Scotch Brite Esponja Scotch Brite Multiusos Empaque,11.90,3 UN
+15,Accesorios de Limpieza,Esponjas,Scotch Brite Esponja Scotch Brite Limpieza Delicada,14.90,3 UN
+
+15,Accesorios de Limpieza,Guantes,Scotch Brite Guantes de Cocina Scotch Brite Talla 6,10.90,1 UN
+15,Accesorios de Limpieza,Guantes,Scotch Brite Guantes de Cocina Scotch Brite Talla 7,10.90,1 UN
+15,Accesorios de Limpieza,Guantes,Virutex Guantes Virutex Corrugado Clásica Talla S,11.50,1 UN
+15,Accesorios de Limpieza,Guantes,Scotch Brite Guantes Multiusos Scotch Brite Talla 7,11.90,1 UN
+15,Accesorios de Limpieza,Guantes,Virutex Guantes Virutex Corrugado Clásica Talla M,11.50,1 UN
+
+15,Accesorios de Limpieza,Mopas,Tottus Mopa Tottus Microfibra Con Palo Verde,13.90,1 UN
+15,Accesorios de Limpieza,Mopas,Tottus Repuesto Mopa Tottus Microfibra Verde,4.90,1 UN
+15,Accesorios de Limpieza,Mopas,Virutex Mopa Virutex Plana 35cm Microfibra,39.90,1 UN
+15,Accesorios de Limpieza,Mopas,Virutex Repuesto Trapeador Virutex Copa N 16,13.90,1 UN
+15,Accesorios de Limpieza,Mopas,Virutex Repuesto Mopa Virutex Microfibra Multiusos,12.90,1 UN
+
+15,Accesorios de Limpieza,Otros,Hude Set Limpieza Hude Perico,33.90,1 UN
+15,Accesorios de Limpieza,Otros,Hude Escoba Hude Limpiavidrios,12.70,1 UN
+15,Accesorios de Limpieza,Otros,Hude Balde de 13 lts,13.80,1 UN
+15,Accesorios de Limpieza,Otros,Hude Repuesto Encerador Hude,8.50,1 UN
+15,Accesorios de Limpieza,Otros,Hude Encerador,23.50,1 UN
+
+15,Accesorios de Limpieza,Paños,Scotch Brite Paño Secatodo Scotch Brite Multiusos Pack,22.20,14 UN
+15,Accesorios de Limpieza,Paños,Scotch Brite Paño Absorbente Scotch Brite Pack,16.40,4 UN
+15,Accesorios de Limpieza,Paños,Tottus Paño Secatodo Tottus Pack,3.90,4 UN
+15,Accesorios de Limpieza,Paños,Scotch Brite Paño Secatodo Scotch Brite Multiusos Pack,18.60,8 UN
+15,Accesorios de Limpieza,Paños,Tottus Paños Microfibra Tottus Pack,4.90,4 UN
+
+15,Accesorios de Limpieza,Recogedores,Tottus Recogedor Tottus Lila,6.90,1 UN
+15,Accesorios de Limpieza,Recogedores,Hude Recogedor Flip Hude,11.90,1 UN
+15,Accesorios de Limpieza,Recogedores,Hude Recolector De Basura Hude,10.80,1 UN
+15,Accesorios de Limpieza,Recogedores,Virutex Recogedor Virutex Ecológico,6.90,1 UN
+
+15,Accesorios de Limpieza,Trapeadores,Virutex Paño para Piso Virutex con Ojal Empaque,33.90,3 UN
+15,Accesorios de Limpieza,Trapeadores,Virutex Paños de Microfibra Virutex Empaque,10.90,4 UN
+15,Accesorios de Limpieza,Trapeadores,Virutex Trapo Microfibra Virutex Para Piso,10.90,1 UN
+15,Accesorios de Limpieza,Trapeadores,Tottus Trapeador Tottus Yute Con Ojal 40 x 80cm,5.90,1 UN
+15,Accesorios de Limpieza,Trapeadores,Virutex Trapero piso laminado coco,14.90,1 UN
+
+15,Bolsas y Envolturas,Bolsas para Alimentos,Tottus Bolsas Tottus Para Congelar Zipper Caja,4.90,18 UN
+15,Bolsas y Envolturas,Bolsas para Alimentos,Tottus Bolsa Sandwich Tottus Zipper Caja,4.90,50 UN
+15,Bolsas y Envolturas,Bolsas para Alimentos,Tottus Bolsa Tottus Chica Zipper Cierre Fácil Caja,5.20,20 UN
+15,Bolsas y Envolturas,Bolsas para Alimentos,Tottus Bolsas Tottus Herméticas Grandes Caja,4.90,16 UN
+15,Bolsas y Envolturas,Bolsas para Alimentos,Eurika Bolsas Eurika Chequera 7 x 10cm Empaque,3.19,100 UN
+
+15,Bolsas y Envolturas,Papel Aluminio,Tottus Papel Aluminio Cocina Tottus,8.90,12 UN
+15,Bolsas y Envolturas,Papel Aluminio,U Thil Papel Aluminio Uthil 8m Cubre Cocinas,14.20,1 UN
+15,Bolsas y Envolturas,Papel Aluminio,Eurika Papel Antiadherente Eurika Air Fryer Empaque,7.49,25 UN
+15,Bolsas y Envolturas,Papel Aluminio,Eurika Papel Kraft Eurika 30cm x 15m,14.90,1 UN
+15,Bolsas y Envolturas,Papel Aluminio,Eurika Papel Antigrasa Eurika 30cm x 15m,14.90,1 UN
+
+15,Bolsas y Envolturas,Plásticos y Bandejas,U Thil Film Plástico Uthil Con Sierra 20m,8.70,1 UN
+15,Bolsas y Envolturas,Plásticos y Bandejas,U Thil Papel Mantequilla Uthil Caja,17.90,23 m
+15,Bolsas y Envolturas,Plásticos y Bandejas,Eurika Papel Antigrasa Eurika 30cm x 15m,14.90,1 UN
+15,Bolsas y Envolturas,Plásticos y Bandejas,Eurika Papel Parafinado Eurika 30cm x 15m,16.90,1 UN
+15,Bolsas y Envolturas,Plásticos y Bandejas,U Thil Repuesto Uthil Papel Mantequilla Caja,7.90,7.5 m
+
+
+15,Lejía,Aromas,Clorox Lejía Clorox Flores De Lavanda Botella,6.20,2 kg
+15,Lejía,Aromas,Clorox Lejía Clorox Anti Splash Botella,13.90,3.9 kg
+15,Lejía,Aromas,Clorox Lejia Clorox Bebé Botella,12,4 kg
+15,Lejía,Aromas,Clorox Lejía Clorox Flores de Lavanda,12,4 l
+
+15,Lejía,Tradicional,Tottus Lejia Tottus Tradicional Botella,8.90,5 kg
+15,Lejía,Tradicional,Sapolio Lejía Sapolio Original Galón,10.80,4.8 kg
+15,Lejía,Tradicional,Clorox Lejía Clorox Tradicional Envase,11,4 kg
+15,Lejía,Tradicional,Sapolio Lejía Sapolio Original Botella,6.20,2.5 kg
+15,Lejía,Tradicional,Clorox Lejía Sapolio Original Botella,5.80,2 kg
+15,Lejía,Tradicional,Sapolio Lejía Sapolio Original Botella,4,1.6 kg
+
+15,Ambientales,Aerosol,Sapolio Ambientador Sapolio Lavanda Silvestre Envase,7,360 ml
+15,Ambientales,Aerosol,Glade Ambientador Glade Aerosol Abrazos Vainilla Envase,11.30,400 ml
+15,Ambientales,Aerosol,Glade Ambientador Glade Aerosol Paraíso Azul Envase,11.30,400 ml
+15,Ambientales,Aerosol,Tottus Ambientador Tottus Aerosol Lavanda Envase,7.90,400 ml
+15,Ambientales,Aerosol,Tottus Ambientador Tottus Automático Lavanda Envase,15.90,180 g
+
+15,Ambientales,Deshumedecedores,Bolaseca Deshumedecedor Bolaseca Recambio Con Malla Caja,26,400 g
+15,Ambientales,Deshumedecedores,Bolaseca Deshumedecedor Bolaseca Con Recambio Caja,37,400 g
+15,Ambientales,Deshumedecedores,Tottus Absorbente Humedad Tottus Colgante Vainilla Empaque,25.20,400 g
+15,Ambientales,Deshumedecedores,Bolaseca Deshumedecedor Bolaseca Recambio Caja,29.50,400 g
+15,Ambientales,Deshumedecedores,Shoeboys Protector Hongos Shoeboys Calzados Envase,63.50,125 ml
+
+15,Ambientales,Eléctricos,Glade Ambientador Glade Aceite Abrazos Vainilla Envase,30.50,1 UN
+15,Ambientales,Eléctricos,Eterna Ambientador Eléctrico Eterna Manzana Canela + Repuesto,22.50,1 UN
+15,Ambientales,Eléctricos,Glade Repuesto Ambientador Aceite Glade Abrazos Vainilla Pack 2 Envase,41.30,1 UN
+15,Ambientales,Eléctricos,Glade Ambientador Eléctrico Líquido Glade Alegría Floral Y Frutos Rojos Envase,30.30,1 UN
+
+15,Ambientales,Otros Ambientales,Tottus Difusor Tottus Aerosol Lavanda + 2 Repuestos Envase,14.90,9 g
+15,Ambientales,Otros Ambientales,Glade Repuesto Ambientador Automático Glade Manzana Canela Lata,39.70,270 ml
+15,Ambientales,Otros Ambientales,Glade Aromatizador Glade Cubo Lavanda,11.50,180 g
+15,Ambientales,Otros Ambientales,Glade Varita Paraiso Azul 100 ml,30.20,12 UN
+15,Ambientales,Otros Ambientales,Eterna Bio Varita Ambientadora Eterna Bio Limón y Naranja Envase,18.50,80 ml
+15,Ambientales,Otros Ambientales,Bolaseca Atrapa Olor para Calzado Bolaseca,13.90,1 UN
+
+15,Encendido de Parrilla,Carbón y Leña,Tottus Carbón Tottus Vegetal Bolsa,29.90,5 kg
+15,Encendido de Parrilla,Carbón y Leña,Negrito Leña Negrito Con Mechero,15.90,1 UN
+15,Encendido de Parrilla,Carbón y Leña,Braza Carbón Braza Empaque,26.50,3 kg
+15,Encendido de Parrilla,Carbón y Leña,Tottus Carbón Tottus Vegetal Bolsa,49.30,8 kg
+15,Encendido de Parrilla,Carbón y Leña,Tottus Carbon Tottus Bolsa,21.50,3 kg
+
+15,Encendido de Parrilla,Fósforos,Inti Fósforos Inti Chico Caja,2.80,40 UN
+15,Encendido de Parrilla,Fósforos,Inti Fósforos Inti Familiar Caja,2.80,200 UN
+15,Encendido de Parrilla,Fósforos,Inti Fósforos Inti Parrilla Caja,14.50,10 UN
+15,Encendido de Parrilla,Fósforos,Inti Fósforos Inti Premium Extra Largo Caja,2.70,50 UN
+
+15,Descartables,Cubiertos,Darnel Tenedor Darnel Bistrot Series Blanco Empaque,3.80,20 UN
+15,Descartables,Cubiertos,Darnel Cuchara Darnel Dulcera Series Blanca Empaque,3,20 un
+15,Descartables,Cubiertos,Darnel Tenedor Darnel Rojo Empaque,4.50,20 UN
+15,Descartables,Cubiertos,Darnel Vaso Darnel 12 Oz Murano Empaque,10,12 UN
+15,Descartables,Cubiertos,Darnel Cuchara Dulcera Darnel Rojo Empaque,4.11,20 UN
+
+15,Descartables,Mondadientes,Inti Mondadientes Inti Bambú Caja,2.50,250 UN
+
+
+15,Descartables,Platos,Tami Platos Tami 15.5 Blanco Empaque,5.05,20 UN
+15,Descartables,Platos,Darnel Platos Darnel 15.5 Naturals Bagazo Empaque,3.60,20 UN
+15,Descartables,Platos,Darnel Platos Darnel 26 Naturals Bagazo Empaque,10,20 UN
+15,Descartables,Platos,Darnel Platos Darnel 15.5 Rojo Vivo Empaque,5.80,12 UN
+15,Descartables,Platos,Tami Platos Tami 23 Blanco Empaque,8.90,20 UN
+
+15,Descartables,Vasos,Darnel Vaso Darnel 12 Oz Amarillo Vivo Empaque,7.80,12 UN
+15,Descartables,Vasos,Darnel Vasos Darnel 7 Oz Rojo Vivo Empaque,4.90,12 UN
+15,Descartables,Vasos,Darnel Vasos Darnel 7 Oz Verde Vivo Empaque,4.90,12 UN
+15,Descartables,Vasos,Darnel Vasos Darnel 12 Oz Verde Vivo Empaque,7.80,12 UN
+15,Descartables,Vasos,Darnel Vasos Darnel 12 Oz Rojo Vivo Empaque,7.80,12 UN
+
+15,Para Calzado,Accesorios de Calzado,Santiago Desodorante para Calzado Santiago,9,80 ml
+15,Para Calzado,Accesorios de Calzado,Santiago Kit Limpiador para Zapatillas Santiago,27.50,1 UN
+15,Para Calzado,Accesorios de Calzado,Santiago Betún Santiago Líquido Negro Envase,6.70,60 ml
+15,Para Calzado,Accesorios de Calzado,Santiago Limpiador Santiago Gamuza Envase,8.99,100 ml
+15,Para Calzado,Accesorios de Calzado,Santiago Kit Limpiador para Zapatos Santiago,22,1 UN
+
+15,Para Calzado,Betunes,Santiago Betún Santiago Pasta Negro Envase,3.79,90 ml
+15,Para Calzado,Betunes,Santiago Betún Santiago Pasta Marrón Envase,3.79,90 ml
+
+16,Cuidado Capilar,Acondicionador,Amaras Acondicionador Amarás Magia Andina Botella,8.80,260 ml
+16,Cuidado Capilar,Acondicionador,Nutribela Acondicionador Nutribela 15 Pro Hialuronic Envase,12.90,400 ml
+16,Cuidado Capilar,Acondicionador,Nutribela Acondicionador Nutribela 15 Biokeratina Envase,12.90,400 ml
+16,Cuidado Capilar,Acondicionador,Dove Acondicionador Dove Hidratación Intensa Envase,15.90,400 ml
+16,Cuidado Capilar,Acondicionador,Sedal Acondicionador Sedal Colágeno Vitamina C Envase,12.50,340 ml
+
+16,Cuidado Capilar,Coloración,Nutrisse Kit Tinte Capilar Nutrisse Oleos Tono 5.0 Castaño Claro,23.90,1 Kit
+16,Cuidado Capilar,Coloración,Magic Retouch Retocador Raíces Loreal Paris Spray Magic Retouch Castaño Oscuro Envase,31.90,75 ml
+16,Cuidado Capilar,Coloración,Casting Creme Glous Kit Tinte Capilar Casting Creme Gloss Tono 300 Castaño Oscuro,30.90,1 Kit
+16,Cuidado Capilar,Coloración,Palette Kit Tinte Capilar Palette Tono Moca Cremoso 500,21.90,1 Kit
+16,Cuidado Capilar,Coloración,Nutrisse Kit Tinte Capilar Nutrisse Tono 7.12 Rubio Cenizo,23.90,1 Kit
+
+16,Cuidado Capilar,Cremas para Peinar,Nutribela Crema Capilar Nutribela 15 Pro Hialurónico Envase,13.90,300 ml
+16,Cuidado Capilar,Cremas para Peinar,Nutribela Crema Capilar Nutribela 10 Cauterización Puntas Envase,13.90,300 ml
+16,Cuidado Capilar,Cremas para Peinar,Alta Moda Máscara Alfaparf Alta Moda Super Oils Envase,25.90,300 g
+16,Cuidado Capilar,Cremas para Peinar,Pantene Crema Peinadora Pantene Restauración Envase,20.90,300 ml
+16,Cuidado Capilar,Cremas para Peinar,Babaria Mascarilla Capilar Babaria De Coco Envase,18.90,400 ml
+
+16,Cuidado Capilar,Fijadores de Cabello,The Barberia Cera The Barberia Volume & Shine Envase,19.90,70 g
+16,Cuidado Capilar,Fijadores de Cabello,BAbaria Laca Babaria En Spray Envase,19.90,400 ml
+16,Cuidado Capilar,Fijadores de Cabello,Placenta Life Gel Para Cabello Placenta Life Efecto Mojado Saloon Envase,20.40,200 g
+16,Cuidado Capilar,Fijadores de Cabello,Rolda Gel Fijador Rolda Sin Alcohol Blanco Envase,13.10,250 g
+16,Cuidado Capilar,Fijadores de Cabello,Rolda Crema Rizos Rolda Sin Parabenos Envase,35.40,500 g
+
+16,Cuidado Capilar,Shampoo,Nutribela Shampoo Nutribela Biokeratina Envase,12.90,400 ml
+16,Cuidado Capilar,Shampoo,Nutribela Shampoo Nutribela Células Madre Envase,12.90,400 ml
+16,Cuidado Capilar,Shampoo,Nutribela Shampoo Nutribela Reparacion Intensiva Envase,12.90,400 ml
+16,Cuidado Capilar,Shampoo,Herbal Essences Shampoo Herbal Essences Bio Renew Manzanilla Botella,34.90,400 ml
+16,Cuidado Capilar,Shampoo,Sedal Shampoo Sedal Colágeno & Vitamina C Botella,12.50,340 ml
+
+16,Cuidado Capilar,Tratamiento Capilar,Elvive Mascarilla Elvive Glycolic Gloss Cabello Opaco Poroso Envase,21.50,300 ml
+16,Cuidado Capilar,Tratamiento Capilar,Kebatimask Efecto Botox Keratimask Kit,50.90,1 Kit
+16,Cuidado Capilar,Tratamiento Capilar,Be Natural Mascarilla Placenta Life Be Natural Nutri Quinua Envase,30.90,350 g
+16,Cuidado Capilar,Tratamiento Capilar,Pantene Mascarilla Pantene Pro V Miracles Bambú Envase,20.90,300 ml
+16,Cuidado Capilar,Tratamiento Capilar,Placenta Life Ampolla Placenta Life Control Caída Saloon Pack,20.70,4 UN
+16,Cuidado Capilar,Tratamiento Capilar,Placenta Life Ampolla Placenta Life Bbtox Reparación Intensa Pack,36,3 UN
+
+16,Jabones,Gel de Ducha,Palmolive Jabón Líquido Palmolive Humectante Sandía Envase,15.90,390 ml
+16,Jabones,Gel de Ducha,Palmolive Jabón Liq Palmolive Lum Oils Mcdamia Peonia,23.50,760 ml 
+
+16,Jabones,Jabón Antibacterial,Protex 
+16,Jabones,Jabón Antibacterial,Protex
+
+16,Jabones,Jabón de Glicerina,Jabón Barra Protex Nutri Protect Vitamina E Pack 3 Empaques,11.90,110 g
+16,Jabones,Jabón de Glicerina,Jabón Protex Antibacterial Avena Pack 6 Empaques,29,110 g
+
+16,Jabones,Jabón en Barra,Dove Jabón Dove Blanco Pack 3 Empaques,15.50,90 g
+16,Jabones,Jabón en Barra,Camay Jabón Camay Botanicals Jazmín Pack 3 Empaques,9.50,125 g
+16,Jabones,Jabón en Barra,Dove Jabón Tocador Dove Karite 90 g,24.90,6 UN
+
+16,Jabones,Líquido Antibacterial,Aval Jabón Líquido Aval Antibacterial Refrescante Envase,11.60,400 ml
+16,Jabones,Líquido Antibacterial,Rexona Jabón Tdor Rexona Antbact Fresh,11.50,110 g
+16,Jabones,Líquido Antibacterial,Rexona Jabón Tdor Rexona Antb Bamb Aloe,11.50,110 g
+16,Jabones,Líquido Antibacterial,Aval Jabón Líquido Aval Antibacterial Frutos Rojos Doypack,10.56,800 ml
+16,Jabones,Líquido Antibacterial,Neko Jabón Neko Fresh Pack 3 Empaques,10.90,110 g
+
+16,Higiene Bucal,Cepillos Eléctricos,Tottus Cepillo Eléctrico Tottus Negro,21,1 UN
+16,Higiene Bucal,Cepillos Eléctricos,Oral B Cepillo Eléctrico Oral B Recargable Vitality 100,149.90,1 UN
+16,Higiene Bucal,Cepillos Eléctricos,Oral B Cepillo Eléctrico Power Clean,79.90,1 UN
+16,Higiene Bucal,Cepillos Eléctricos,Oral B Cabezales de Repuesto,39.90,1 UN
+16,Higiene Bucal,Cepillos Eléctricos,Oral B Repuestos Cabezales Oral B Cepillo Eléctrico Cross Action,39.90,1 UN
+
+16,Higiene Bucal,Cepillos Regulares,Colgate Cepillo Dental Colgate Zig Zag Carbón Pack,16.90,4 UN
+16,Higiene Bucal,Cepillos Regulares,Precio Uno Cepillo Dental Precio Uno Empaque,5.50,3 UN
+16,Higiene Bucal,Cepillos Regulares,Colgate Cepillo Dental Colgate Triple Acción Medio,4.20,1 UN
+16,Higiene Bucal,Cepillos Regulares,Oral B Cepillo Dental Oral B Complete Color Collection Pack,10.90,2 UN
+16,Higiene Bucal,Cepillos Regulares,Pro Cepillo Dental Oral B Pro Anticaries Colors Empaque,15.90,4 UN
+
+
+16,Higiene Bucal,Cremas Dentales,Colgate Pasta Dental Colgate Luminous White Pack 2 Cajas,21.90,75 ml
+16,Higiene Bucal,Cremas Dentales,Colgate Pack Crema Dental Colgate Triple Acción Menta 3 Cajas,20.90,100 ml
+16,Higiene Bucal,Cremas Dentales,Colgate Pasta Dental Colgate Total Clean Mint Prevención Activa Pack,28.90,3 UN
+16,Higiene Bucal,Cremas Dentales,Colgate Crema Dental Colgate Triple Acción Pack,17.90,3 Cajas
+16,Higiene Bucal,Cremas Dentales,Dento Crema Denta Dento Triple Acción Sixpack Caja,18.70,80 g
+
+16,Higiene Bucal,Enjuague Bucal,Colgate Enjuage Bucal Colgate Plax Soft Mint Envase,17.90,500 ml
+16,Higiene Bucal,Enjuague Bucal,Colgate Enjuage Bucal Colgate Plax Odor Control Envase,17.90,500 ml
+16,Higiene Bucal,Enjuague Bucal,Listerine Enjuage Bucal Listerine Cuidado Total Zero Envase,26.90,500 ml
+16,Higiene Bucal,Enjuague Bucal,Enjuage Bucal Listerine Whitening Extreme Envase,13.50,236 ml
+16,Higiene Bucal,Enjuague Bucal,Listerine Enjuage Bucal Listerine Cool Mint Zero Envase,36.50,1.5 l
+
+16,Higiene Bucal,Hilo Dental,Reach Hilo Dental Reach Menta,14.80,50 m
+16,Higiene Bucal,Hilo Dental,Oral B Hilo Dental Oral B Essential Floss,13.90,50 m
+16,Higiene Bucal,Hilo Dental,Colgate Hilo Dental Colgate Total 12 Menta,14,50 m
+16,Higiene Bucal,Hilo Dental,Oral B Hilo Dental Oral B Expert Floss Picks,19.90,45 UN
+16,Higiene Bucal,Hilo Dental,Colgate Hilo Dental Colgate Natural Extracts Carbón,13.90,25 m
+
+
+16,Cuidado Mujer,Depilación Femenina,Schick Máquina de Afeitar Quattro Mujer Schick,16.50,2 UN
+16,Cuidado Mujer,Depilación Femenina,Tottus Máquina De Afeitar Tottus Mujer 6 Hojas,14.90,2 UN
+16,Cuidado Mujer,Depilación Femenina,Tottus Máquina De Afeitar Tottus Mujer 4 Hojas Pack,14.90,3 UN
+16,Cuidado Mujer,Depilación Femenina,Tottus Máquina De Afeitar Tottus Mujer Triple Hoja Pack,15.90,4 UN
+16,Cuidado Mujer,Depilación Femenina,Tottus Venus Máquina De Afeitar Gillette Mujer Venus Área Íntima Pack,19.90,2 UN
+
+16,Cuidado Mujer,Desodorante Aerosol,Nivea Desodorante Nivea Spray Aclarado Natural Beauty Envase,14.50,150 ml
+16,Cuidado Mujer,Desodorante Aerosol,Dove Antitranspirante Dove Aerosol Tono Uniforme Caléndula Envase,15.90,150 ml
+16,Cuidado Mujer,Desodorante Aerosol,Rexona Antitranspirante Rexona Active Emotion 72H Envase,15.50,150 ml
+16,Cuidado Mujer,Desodorante Aerosol,Dove Antitranspirante Dove Aerosol Tono Uniforme Rosas Envase,15.90,150 ml
+16,Cuidado Mujer,Desodorante Aerosol,Secret Antitranspirante Secret Spray Powder Protect Cotton Envase,15.90,150 ml
+16,Cuidado Mujer,Desodorante Aerosol,Nivea Desodorante Nivea Spray B&W Clear Envase,16.50,150 ml
+
+16,Cuidado Mujer,Desodorantes en Barra,Secret Antitranspirante Secret Gel Powder Cotton Envase,16.90,45 g
+16,Cuidado Mujer,Desodorantes en Barra,Secret Antitranspirante Secret Gel Invisible Berry Envase,16.90,45 g
+16,Cuidado Mujer,Desodorantes en Barra,Secret Antitranspirante Secret Gel Invisible Ccoconut Envase,16.90,45 g
+16,Cuidado Mujer,Desodorantes en Barra,Secret Antitranspirante Secret Gel Ph Lavanda Envase,16.90,45 g
+16,Cuidado Mujer,Desodorantes en Barra,Nivea Desodorante Nivea Barra Invisible B&W Fem Clear Envase,17.60,54 g
+
+16,Cuidado Mujer,Desodorantes Roll On,Rexona Desodorante Rexona Motion Sense V8 Envase,14.90,50 ml
+16,Cuidado Mujer,Desodorantes Roll On,Nivea Desodorante Nivea Roll On Silver Protect Envase,19.10,50 ml
+16,Cuidado Mujer,Desodorantes Roll On,Nivea Desodorante Nivea Roll On Dry Impact Envase,19.10,50 ml
+16,Cuidado Mujer,Desodorantes Roll On,Old Spice Desodorante Old Spice Roll On Leña Envase,13.90,52 g
+16,Cuidado Mujer,Desodorantes Roll On,Gillette Antitranspirante Gillette Roll On Cool Wave Envase,13.90,60 g
+
+16,Cuidado Mujer,Higiene Íntima,Bacterion Jabón Íntimo Manzll y Calendul,9.90,85 ml
+
+16,Cuidado Mujer,Protectores Diarios,Kotex Protector Diario Kotex Cuidado Dia Esencial,4.20,20 UN
+16,Cuidado Mujer,Protectores Diarios,Nosotras Protectores Diarios Nosotras Largos Sin Alas Empaque,21.90,80 UN
+16,Cuidado Mujer,Protectores Diarios,Ladysoft Protectores Diarios Ladysoft Clásicos Empaque,16.90,150 UN
+16,Cuidado Mujer,Protectores Diarios,Kotex Protectores Diarios Largos Kotex,4.90,6 UN
+16,Cuidado Mujer,Protectores Diarios,Kotex Protectores Diarios Largos Kotex,22.90,120 UN
+,
+16,Cuidado Mujer,Toallas Higiénicas y Tampones,Kotex Toalla Higiénica Kotex Ultrafina Antibacterial Empaque,16.90,60 UN
+16,Cuidado Mujer,Toallas Higiénicas y Tampones,Nosotras Toallas Higiénicas Nosotras Invisible Multiestilo Empaque,22.30,40 UN
+16,Cuidado Mujer,Toallas Higiénicas y Tampones,Kotex Toalla Higiénica Kotex Nocturna Larga,4.90,6 U
+16,Cuidado Mujer,Toallas Higiénicas y Tampones,Kotex Tampón Kotex Sport Medio Con Aplicador Caja,13.50,8 UN
+16,Cuidado Mujer,Toallas Higiénicas y Tampones,Ladysoft Delgada con Alas,4.60,10 UN
+
+
+16,Cuidado Hombre,Desodorante en Aerosol,Rexona Antitranspirante Rexona Aerosol V8 Envase,15.90,150 ml
+16,Cuidado Hombre,Desodorante en Aerosol,Nivea Desodorante Nivea Spray Invisible B&W Male Envase,16.50,150 ml
+16,Cuidado Hombre,Desodorante en Aerosol,Dove Desodorante Dove Aerosol Invisible Dry Envase,16.50,150 ml
+16,Cuidado Hombre,Desodorante en Aerosol,Nivea Desodorante Nivea Spray Silver Protect Envase,16.50,150 ml
+16,Cuidado Hombre,Desodorante en Aerosol,Dove Desodorante Dove Men Care En Aerosol Envase,16.50,150 ml
+16,Cuidado Hombre,Desodorante en Aerosol,Old Spice Spray Antitranspirante Old Spice Extreme Protect,26.50,2 UN
+
+16,Cuidado Hombre,Desodorantes en Barra,Old Spice Desodorante Old Spice Barra Wolfthorn Envase,15.50,50 g
+16,Cuidado Hombre,Desodorantes en Barra,Gillette Gel Antitranspirante Gillette Clear Cool Wave Envase,34.90,82 g
+16,Cuidado Hombre,Desodorantes en Barra,Old Spice Desodorante Old Spice Barra VIP Envase,15.50,50 g
+16,Cuidado Hombre,Desodorantes en Barra,Gillette Desodorante Gillette Gel Cool Wave Envase,20.90,82 g
+16,Cuidado Hombre,Desodorantes en Barra,Rexona Desodorante Rexona Barra V8 Envase,15.50,50 g
+16,Cuidado Hombre,Desodorantes en Barra,Speed Stick Desodorante Speed Stick Crema Antitranspirante Clinical Envase,12.50,100 g
+
+16,Cuidado Hombre,Desodorantes Roll On,Rexona Desodorante Rexona Motion Sense V8 Envase,14.90,50 ml
+16,Cuidado Hombre,Desodorantes Roll On,Nivea Desodorante Nivea Roll On Dry Impact Envase,19.10,50 ml
+16,Cuidado Hombre,Desodorantes Roll On,Nivea Desodorante Nivea Roll On Silver Protect Envase,19.10,50 ml
+16,Cuidado Hombre,Desodorantes Roll On,Rexona Antitrans Roll Rexona Forest Vera X,14.90,50 ml
+16,Cuidado Hombre,Desodorantes Roll On,Nivea Antitranspirante Nivea Roll On Hombre Hidratante Protect Care Envase,19.10,50 ml
+16,Cuidado Hombre,Desodorantes Roll On,Gillete Antitranspirante Gillette Roll On Cool Wave Envase,13.90,60 g
+
+16,Cuidado Hombre,Espumas de Afeitar,Tottus Espuma De Afeitar Tottus Envase,20.20,250 ml
+16,Cuidado Hombre,Espumas de Afeitar,Gillette Espuma De Afeitar Gillette Piel Sensible Envase,12.90,56 g
+16,Cuidado Hombre,Espumas de Afeitar,Gillette Espuma De Afeitar Gillette Piel Sensible Envase,24.90,150 g
+16,Cuidado Hombre,Espumas de Afeitar,Nivea Bálsamo Post Afeitado Nivea Men Deep Comfort Envase,42.90,100 ml
+16,Cuidado Hombre,Espumas de Afeitar,Gillette Espuma De Afeitar Gillette Piel Sensible Envase,38.90,322 ml
+
+16,Cuidado Hombre,Máquinas de Afeitar y Repuestos,Schick Máquina De Afeitar Schick Desechable Quattro Titanium,16.90,2 UN
+16,Cuidado Hombre,Máquinas de Afeitar y Repuestos,Tottus Máquina De Afeitar Tottus Hombre 4 Hojas,13.90,3 UN
+16,Cuidado Hombre,Máquinas de Afeitar y Repuestos,Schick Maquina Afeitar Schick xtreme3 Confort Aloe,35.90,8 UN
+16,Cuidado Hombre,Máquinas de Afeitar y Repuestos,Gillette Maquina Afeitar Gillette Recargable Sensor3 Rpto 4,1 UN
+16,Cuidado Hombre,Máquinas de Afeitar y Repuestos,Gillette Máquina Afeitar Gillette Prestobarba3 Carbono Empaque,30.90,4 UN
+
+16,Incontinencia,Incontinencia Leve,Tena Protectores Diarios Tena Discreet Largos Con Alas,33,80 UN
+16,Incontinencia,Incontinencia Leve,Plenitud Practipañal Plenitud Femme Paquete,12.50,20 UN
+16,Incontinencia,Incontinencia Leve,Plenitud Toalla Adulto Plenitud Femme Nocturna Empaque,12,8 UN
+16,Incontinencia,Incontinencia Leve,Tena Toallas Higiénicas Tena Discreet Mini Con Alas Empaque,19,30 UN
+16,Incontinencia,Incontinencia Leve,Plenitud Toalla Practipañal Plenitud Incontinencia Leve Unisex Empaque,18.50,38 UN
+
+16,Incontinencia,Pañales para Adulto,Tottus Pañal Para Adulto Tottus Talla G Empaque,51.90,22 UN
+16,Incontinencia,Pañales para Adulto,Plenitud Pañal Para Adulto Plenitud Nocturno Talla G/XG Empaque,31.90,8 UN
+16,Incontinencia,Pañales para Adulto,Cotidian Pañal Para Adulto Cotidian Premium Talla G Empaque,67.90,20 UN
+16,Incontinencia,Pañales para Adulto,Tottus Pañal Para Adulto Tottus Talla M Empaque,51.90,22 UN
+16,Incontinencia,Pañales para Adulto,Tena Pana Tena Slip Ultra Protect LX,66.60,20 U
+16,Incontinencia,Pañales para Adulto,Plenitud Pañal Para Adulto Plenitud Nocturno Talla M Empaque,31.90,8 UN
+
+16,Incontinencia,Protectores de Cama,Plenitud Protector De Cama Plenitud,28.90,10 UN
+16,Incontinencia,Protectores de Cama,Tottus Practipañal Para Adulto Tottus Paquete,7.90,20 UN
+16,Incontinencia,Protectores de Cama,Cotidian Protector De Cama Cotidian,21.50,8 UN
+16,Incontinencia,Protectores de Cama,Cotidian Toalla Multiuso Cotidian Apósito Empaque,11.20,20 UN
+
+16,Incontinencia,Ropa Interior Desechable,Tena Pañal Tena Pants Nocturno Talla L Empaque,28.90,8 UN
+16,Incontinencia,Ropa Interior Desechable,Plenitud Ropa Interior Desechable Plenitud Protect Plus G/XG Empaque,25.90,8 UN
+16,Incontinencia,Ropa Interior Desechable,Plenitud Ropa Interior Desechable Plenitud Protect Plus G/XG Empaque,84.90,24 UN
+16,Incontinencia,Ropa Interior Desechable,Plenitud Ropa Interior Desechable Plenitud Protect Plus Talla P/M Empaque,84.90,24 UN
+16,Incontinencia,Ropa Interior Desechable,Plenitud Ropa Interior Desechable Plenitud Protect Plus Talla P/M Empaque,25.90,8 UN
+
+16,Salud y Bienestar,Alcohol y Antisépticos,Alcohol Medicional Hersil 100X Envase,12.20,1 l
+
+16,Salud y Bienestar,Botiquín,Magnesol Kids Magnesol Kids X,39.50,150 g
+
+16,Salud y Bienestar,Curitas y Banditas,Curitas Curitas Niños Frozen Ii Caja,15.60,20 UN
+
+16,Salud y Bienestar,Repelentes,Off Repelente en Crema Off Baby,23.90,100 ml
+
+16,Salud y Bienestar,Talcos y Desodorantes para Pies,Isana Desodorante Isana Spray Pies Envase,19.10,150 ml
+16,Salud y Bienestar,Talcos y Desodorantes para Pies,Curitas Desodorante para Pies Curitas Spray Silver Active Envase,24.90,150 ml
+16,Salud y Bienestar,Talcos y Desodorantes para Pies,Isana Talco Pie Isana Mentolado Triple Acción,20.70,300 g
+16,Salud y Bienestar,Talcos y Desodorantes para Pies,Isana Talco Para Pies Isana Triple Acción Pack 2 Envase,13.90,60 g
+16,Salud y Bienestar,Talcos y Desodorantes para Pies,Isana Antitranspirante para Pies Isana Extreme Envase,19.50,150 ml
+
+16,Salud y Bienestar,Vitaminas,Mason Cápsulas Mason Colágeno 1500 Plus Biotina Vitamina C Envase,84.20,60 UN
+16,Salud y Bienestar,Vitaminas,Siete Dragones Superfood Sabor Original Siete Dragones,20,200 g
+16,Salud y Bienestar,Vitaminas,Mason Omega 3 Mason Fish Oil 1000 MG Envase,77,60 UN
+16,Salud y Bienestar,Vitaminas,Wild Food Barras de Proteína Chocolate Wild Protein,32.81,5 UN
+16,Salud y Bienestar,Vitaminas,Siete Dragones Superfood Siete Dragones Sabor Berries,20,200 g
+16,Salud y Bienestar,Vitaminas,Mason Superfood Siete Dragones Sabor Berries,71.50,100 Tab
+
+17,Cremas Faciales,Ácido Hialurónico,Babaria Crema Facial Babaria Ácido Hialurónico Envase,32.60,50 ml
+17,Cremas Faciales,Ácido Hialurónico,Loreal Paris Sérum Loreal Paris Rellenador Revitalift Ácido Hialurónico Envase,64.94,30 ml
+17,Cremas Faciales,Ácido Hialurónico,Loreal Paris Gel Crema Anti-brillo Acido Hialuronico,57.79,50 ml
+17,Cremas Faciales,Ácido Hialurónico,Babaria Solar Crema Facial Hialuro SPF50,27.89,75 ml
+
+17,Cremas Faciales,Aclaradores,Garnier Crema Facial Garnier Antimanchas Express Aclara Vitamina C Envase,38.50,50 ml
+17,Cremas Faciales,Aclaradores,Teatrical Crema Facial Teatrical Aclaradora Envase,29.90,75 ml
+17,Cremas Faciales,Aclaradores,Garnier Serum Vitamina C Express Aclara,36.90,15 ml
+17,Cremas Faciales,Aclaradores,Garnier Sérum Facial Garnier Anti Manchas Noche Vitaminca C Envase,81.90,30 ml
+17,Cremas Faciales,Aclaradores,Garnier Sérum Facial Garnier Anti Manchas Express Aclara Vitamina C Envase,67.90,30 ml
+
+17,Cremas Faciales,Antiedad,Nivea Sérum Facial Nivea Luminous 630 Anti Edad Envase,109.90,30 ml
+
+17,Cremas Faciales,Antimanchas,Nivea Sérum Facial Nivea Anti Manchas Luminous Envase,97.90,30 ml
+17,Cremas Faciales,Antimanchas,Nivea Fluido Nivea Día SPF50 Anti Manchas Cellular Envase,90.90,40 ml
+17,Cremas Faciales,Antimanchas,Nivea Crema Facial Nivea Regeneradora Noche Antimanchas Envase,71.90,15 ml
+17,Cremas Faciales,Antimanchas,Nivea Cortono Nivea Ojos Antimanchas Cellular Luminous Envase,90.90,50 ml
+17,Cremas Faciales,Antimanchas,Babaria Crema Facial Babaria Antimanchas Envase,49.90,50 ml
+
+17,Cremas Faciales,Hidratantes,Ponds Gel Hidratante Ponds Fruity Hydra Fresh Sandía Envase,27.50,100 g
+17,Cremas Faciales,Hidratantes,Ponds Gel Hidratante Ponds Fruity Hydra Fresh Aloe Envase,27.50,100 g
+17,Cremas Faciales,Hidratantes,Babaria Solar Crema Facial Hialuro SPF50,27.89,75 ml
+17,Cremas Faciales,Hidratantes,Loreal Paris Protector Solar Loreal Paris Sin Color SPF50+ Hialurónico Envase,60.90,40 ml
+
+17,Cremas Faciales,Sérum Facial,Portugal Sérum Facial Portugal HY Advance Envase,37.43,30 ml
+17,Cremas Faciales,Sérum Facial,Nivea Sérum Facial Nivea Luminous 630 Anti Edad Envase,109.90,30 ml
+17,Cremas Faciales,Sérum Facial,Nivea Sérum Facial Nivea Luminous 630 Anti Imperfecciones Envase,109.90,30 ml
+17,Cremas Faciales,Sérum Facial,Nivea Sérum Facial Nivea Anti Manchas Luminous Envase,97.90,30 ml
+17,Cremas Faciales,Sérum Facial,Loreal Paris Sérum Loreal Paris Rellenador Revitalift Ácido Hialurónico Envase,64.94,30 ml
+
+17,Cuidado del Rostro,Aguas Minerales y Tónicos,Garnier Agua Micelar Garnier,30.73,1400 ml
+17,Cuidado del Rostro,Aguas Minerales y Tónicos,Ponds Agua Micelar Ponds Fruity Hydra Fresh Sandía Envase,26.90,300 ml
+17,Cuidado del Rostro,Aguas Minerales y Tónicos,Neutrogena Agua Micelar Neutrogena 7 En 1 Purified Skin Envase,42.50,200 ml
+17,Cuidado del Rostro,Aguas Minerales y Tónicos,Nivea Agua Micelar Nivea Rose Care Envase,38.90,400 ml
+17,Cuidado del Rostro,Aguas Minerales y Tónicos,Ponds Agua Micelar Ponds Fruity Hydra Fresh Aloe Envase,26.90,300 ml
+
+17,Cuidado del Rostro,Desmaquillantes,Ponds Crema Facial Ponds Limpiadora Pepino Envase,27.90,100 g
+17,Cuidado del Rostro,Desmaquillantes,Murana Set Roller Verde + Pad Desmaquillante Murana,24.90,2 UN
+17,Cuidado del Rostro,Desmaquillantes,Neutrogena Desmaquillante Neutrogena Ojos Oil Free Envase,42.50,162 ml
+17,Cuidado del Rostro,Desmaquillantes,Loreal Paris Agua Micelar Loreal Paris Desmaquillante Bifásica Envase,37.90,200 ml
+
+17,Cuidado del Rostro,Exfoliantes,Neutrogena Exfoliante Facial Neutrogena Deep Clean Envase,42.50,100 g
+17,Cuidado del Rostro,Exfoliantes,Neutrogena Exfoliante Neutrogena Grapefruit Envase,47.50,124 ml
+17,Cuidado del Rostro,Exfoliantes,Petal Fresh Exfoliante Facial Petal Fresh Papaya Envase,39.90,200 ml
+17,Cuidado del Rostro,Exfoliantes,Asepxia Jabón Asepxia Barra Ecfoliante Empaque,11.90,100 g
+17,Cuidado del Rostro,Exfoliantes,Asepxia Gel Exfoliante Asepxia Carbón Detox Envase,25.90,120 g
+
+17,Cuidado del Rostro,Limpieza Facial,Asepxia Jabón Asepxia Líquido Carbón Detox Envase,25.90,200 ml
+17,Cuidado del Rostro,Limpieza Facial,Loreal Paris Gel Limpiador Loreal Paris Ácido Hialurónico Envase,36.90,150 ml
+17,Cuidado del Rostro,Limpieza Facial,Nivea Limpiador Facial Nivea Gel Rose Care Envase,37.90,150 ml
+17,Cuidado del Rostro,Limpieza Facial,Neutrogena Hidratante Facial Neutrogena Hydro Boost Envase,59.50,50 g
+17,Cuidado del Rostro,Limpieza Facial,Asepxia Jabón Asepxia Barra Ecfoliante Empaque,11.90,100 g
+
+17,Cuidado del Rostro,Mascarillas,Dermal Mascarilla Facial Dermal Colágeno Q10 Sachet,6.90,23 g
+17,Cuidado del Rostro,Mascarillas,Asepxia Mascarilla Asepxia Peel Off Purificante Carbón Detox Envase,25.90,30 g 
+17,Cuidado del Rostro,Mascarillas,Purederm Mascarillas Para Pies Purederm Exfoliante,15.90,1 UN
+17,Cuidado del Rostro,Mascarillas,Dermal Mascarilla Facial Dermal Colágeno Pepino Sachet,6.90,23 g
+17,Cuidado del Rostro,Mascarillas,Dermal Mascarilla Facial Dermal Colágeno Aloe Sachet,6.90,23 g
+
+17,Cuidado del Rostro,Toallitas Desmaquillantes,Murana Toallitas Desmaquillantes Murana Ácido Hialurónico Hidrantante Empaque,9.90,25 UN
+17,Cuidado del Rostro,Toallitas Desmaquillantes,Murana Toallitas Desmaquillantes Murana Aclaradora Empaque,9.90,25 UN
+17,Cuidado del Rostro,Toallitas Desmaquillantes,Babaria Toallitas Desmaquillantes Mosqt Babaria,18.90,25 UN
+17,Cuidado del Rostro,Toallitas Desmaquillantes,Babaria Toallitas Desmaquillantes Aloe Babaria,18.90,25 UN
+17,Cuidado del Rostro,Toallitas Desmaquillantes,Tottus Toallitas Desmaquillantes Tottus Energizante Granada Empaque,3.90,10 UN
+
+17,Cremas Coorporales,Nivea Crema Corporal Nivea Soft Milk Piel Seca Envase,19.25,250 ml
+17,Cremas Coorporales,Vaseline Crema Corporal Vaseline Cocoa Radiant Envase,33.68,600 ml
+17,Cremas Coorporales,Vaseline Vaseline Crema Corp Nourish Moist,21.68,295 ml
+17,Cremas Coorporales,Vaseline Crema Corporal Vaseline Nourish Moisture Envase,33.68,600 ml
+17,Cremas Coorporales,Vaseline Balsamo Corporal Vaseline Cocoa Butter Envase,6.68,49 g
+
+17,Protección Solar,Bloqueadores,Babaria Protector Solar Babaria Piel Sensible SPF50+ Envase,25.29,100 ml
+17,Protección Solar,Bloqueadores,Nivea Hidratante Labial Nivea Color Rosa Envase,26.30,4.8 g
+17,Protección Solar,Bloqueadores,Babaria Protector Solar Babaria Aloe SPF50+ Envase,21.39,100 ml
+17,Protección Solar,Bloqueadores,Bahia Bloqueador Solar Bahia Faces Color 1 SPF 90 Envase,44.16,60 g
+17,Protección Solar,Bloqueadores,Bahia Protector Solar Bahia Sunblock SPF100 Hipoalergénico Envase,44.79,60 g
+
+17,Protección Solar,Bronceadores,Bio Oil Loción,54.90,175 ml
+
+17,Perfumería,Aromaterapia,Beautik Body Lotion Glow Girl,24.68,250 ml
+17,Perfumería,Aromaterapia,Beautik Body Lotion Endless Flowers,24.68,250 ml
+17,Perfumería,Aromaterapia,Beautik Body Lotion Beats Of Love,24.68,250 ml
+17,Perfumería,Aromaterapia,Beautik Body Lotion Loud Waves,24.68,250 ml
+17,Perfumería,Aromaterapia,Beautik Loción Corporal Beautik Lady Bright Envase,24.68,250 ml
+
+17,Perfumería,Colonias,Tuinies Colonia para Niños Rose,9.90,200 ml
+17,Perfumería,Colonias,Tuinies Colonia para Niños Light Blue,9.90,200 ml
+
+18,Pañales,Babysec,Babysec Pañales Babysec Super Premium Recién Nacido Empaque,15.90,20 UN
+18,Pañales,Babysec,Babysec Pañales Babysec Súper Premium Talla M Empaque,50.90,58 UN
+18,Pañales,Babysec,Babysec Pañales Babysec Premium Talla XXG Empaque,60.20,72 UN
+18,Pañales,Babysec,Babysec Pañales Babysec Súper Premium Talla G Empaque, 50.90,52 UN
+18,Pañales,Babysec,Babysec Pañales Babysec Premium Talla M Empaque,50.90,68 UN
+
+18,Pañales,Bambo Nature,Bambo Nature Pañales Bambo Nature Recién Nacido Empaque,25.90,22 UN
+18,Pañales,Bambo Nature,Bambo Nature Pañal Bambo Nature Talla XL Empaque,69.90,44 UN
+18,Pañales,Bambo Nature,Bambo Nature Pañales Bambo Nature Talla M Empaque,69.90,52 UN
+18,Pañales,Bambo Nature,Bambo Nature Pañal Bambo Nature Talla XXL Empaque,69.90,40 UN
+18,Pañales,Bambo Nature,Bambo Nature Pañales Bambo Nature Talla G Empaque,69.90,48 UN
+
+18,Pañales,Huggies,Huggies Pañales Huggies Natural Care Talla XG Empaque,59.90,60 UN
+18,Pañales,Huggies,Huggies Pañales Huggies Goodnites Talla M Empaque,38.90,14 UN
+18,Pañales,Huggies,Huggies Pañal Huggies Active Sec Talla XXXG Empaque,59.90,70 UN
+18,Pañales,Huggies,Huggies Pañales Huggies Naural Care Talla M Empaque,52.50,60 UN
+18,Pañales,Huggies,Huggies Pañales Huggies Triple Protección Talla M Empaque,39.90,72 UN
+
+18,Pañales,Mimi,Mimi Premium Plus Maxiahorro XXL,52.90,70 UN
+18,Pañales,Mimi,Mimi Adaptable Pants XXL,36.90,32 UN
+18,Pañales,Mimi,Mimi Premium Plus Maxiahorro XL,52.90,72 UN
+
+18,Pañales,Pampers,Pampers Pañales Pampers Premium Care Talla XXG Empaque,65.20,60 UN
+18,Pañales,Pampers,Pampers Pañales Pampers Premium Care Talla XG Empaque,65.20,60 UN
+18,Pañales,Pampers,Pampers Pañal Pampers Premium Care Pants Talla XXG Empaque,79.90,52 UN
+18,Pañales,Pampers,Pampers Pañal Pampers Premium Care Pants Talla XG Empaque,79.90,52 UN
+18,Pañales,Pampers,Pampers Pañales Pampers Premium Care Talla G Empaque,67.90,54 UN
+
+18,Pañales,Tottus,Tottus Pañales Tottus Súper Absorbentes Talla M Empaque,37.90,64 UN
+18,Pañales,Tottus,Tottus Bebé Pañal Tottus Bebe Súper Absorbente Talla XG Empaque,48.90,72 UN
+18,Pañales,Tottus,Tottus Bebé Pañal Tottus Bebe Cuidado Premium Talla XXG Empaque,48.90,68 UN
+18,Pañales,Tottus,Tottus Bebé Pañal Tottus Bebe Súper Absorbente Talla XXG Empaque,48.90,72 UN
+18,Pañales,Tottus,Tottus Pañales Tottus Cuidado Premium Talla G Empaque,35.90,54 UN
+
+18,Aseo del Bebé,Aceites e Hisopos,Tottus Hisopos Tottus Papel Bebé Envase,3.90,100 UN
+18,Aseo del Bebé,Aceites e Hisopos,Tottus Hisopos Tottus Papel Bebé Envase,9.90,500 UN
+18,Aseo del Bebé,Aceites e Hisopos,Dr Zaidman Aceite Corporal Dr Zaidman Baby Aloe Vera Vitamina E Envase,17.90,200 ml
+18,Aseo del Bebé,Aceites e Hisopos,Tottus Hisopos Tottus Papel Recién Nacidos Envase,3.90,55 UN
+18,Aseo del Bebé,Aceites e Hisopos,Tottus Hisopos Tottus Papel Bebé Envase,7.90,300 UN
+
+18,Aseo del Bebé,Cepillos Dentales,Oral B Cepillo Dental Oral B Kids Suave Pack,9.50,2 UN
+18,Aseo del Bebé,Cepillos Dentales,Tottus Cepillo Dental Niña,3.50,1 UN
+18,Aseo del Bebé,Cepillos Dentales,Colgate Cepillo Dental Colgate Niños 5+ Años Pack,8.50,2 UN
+18,Aseo del Bebé,Cepillos Dentales,Aquafresh Cepillo Aquafresh Big Teeth Suave,10.90,1 UN
+18,Aseo del Bebé,Cepillos Dentales,Colgate Cepillo Dental Colgate Niños Agnes Fluffy Pack,17.50,2 UN
+ 
+18,Aseo del Bebé,Colonias,Gelatti Colonia Gelatti Bob Esponja Envase,19.90,140 ml
+18,Aseo del Bebé,Colonias,Gelatti Colonia Gelatti Sonic Envase,19.90,175 ml
+18,Aseo del Bebé,Colonias,Simonds Loción Simonds Bebé Marina Hipoalergénico Envase,26,260 ml
+18,Aseo del Bebé,Colonias,Tuinies Colonia para Niños Rose,9.90,200 ml
+18,Aseo del Bebé,Colonias,Tuinies Colonia para Niños Light Blue,9.90,200 ml
+
+18,Aseo del Bebé,Cremas Dentales,Colgate Pasta Dental Niños Colgate Minions Sabor Bubble Fruit Envase,11.90,75 ml
+18,Aseo del Bebé,Cremas Dentales,Oral B Pasta Dental Niños Oral B Disney Frozen Envase,11.90,75 ml
+18,Aseo del Bebé,Cremas Dentales,Aquafresh Pasta Dental Aquafresh Big Teeth 6+ Años Envase,11.50,75 ml
+18,Aseo del Bebé,Cremas Dentales,Dentito Gel Dental Dentito Chicle Globo Envase,4,85 g
+18,Aseo del Bebé,Cremas Dentales,Aquafresh Pasta Dental Aquafresh Little Teeth 2 A 5 Años Envase,11.90,63 g
+
+18,Aseo del Bebé,Cremas y Lociones,Portugal Crema Sinescal para Bebes Pote,19.90,80 g
+18,Aseo del Bebé,Cremas y Lociones,Simonds Crema Simonds Niños Avena Soft Envase,26.32,340 ml
+18,Aseo del Bebé,Cremas y Lociones,Portugal Vaselina Pura Portugal Envase,9.50,100 g
+18,Aseo del Bebé,Cremas y Lociones,Bepanthen Crema Bepanthen Baby Protectora Envase,63.50,100 g
+18,Aseo del Bebé,Cremas y Lociones,Desitin Crema Desitin Para Colita Envase,44.50,57 g
+
+18,Aseo del Bebé,Cuidado del Cabello,Johnsons Acondicionador Johnsons Baby Gotas Brillo Envase,20.50,200 ml
+18,Aseo del Bebé,Cuidado del Cabello,Johnsons Baby Shampoo Johnsons Baby Original Botella,20.50,200 ml
+18,Aseo del Bebé,Cuidado del Cabello,Dr Zaidman Shampoo Dr Zaidman Baby Manzanilla Brillitos Botella,22.90,400 ml
+18,Aseo del Bebé,Cuidado del Cabello,tuinies Shampoo Manzanilla Tuinies,23.90,1000 ml
+18,Aseo del Bebé,Cuidado del Cabello,Johnsons Baby Shampoo Johnsons Baby Hidratación Intensa Botella,30.90,400 ml
+
+18,Aseo del Bebé,Jabones,Tottus Jabon Glicerina Bebé Empaque,7.50,3 UN
+18,Aseo del Bebé,Jabones,Johnsons Baby Baño Líquido Johnsons Baby Avena Envase,32.80,400 ml
+18,Aseo del Bebé,Jabones,Johnsons Baby Jabón Johnsons Baby Baño Líquido Envase,21.90,200 ml
+18,Aseo del Bebé,Jabones,Dove Jabon Dove Baby Humectante Sensible 75 G,13.50,3 UN
+18,Aseo del Bebé,Jabones,Simonds Jabón Líquido Simonds De Glicerina Envase,22.32,340 ml
+
+18,Aseo del Bebé,Talcos,Johnsons Baby Talco Para Bebé Johnsons Baby Bedtime Envase,20.40,200 g
+18,Aseo del Bebé,Talcos,Johnsons Baby Talco Johnsons Baby Bed Time Envase,28.40,400 g
+18,Aseo del Bebé,Talcos,Dr Zaidman Talco Para Bebé Dr Zaidman Almidón Envase,10.90,100 g
+18,Aseo del Bebé,Talcos,Dr Zaidman Talco Para Bebé Dr Zaidman Almidón Envase,16.50,200 g
+18,Aseo del Bebé,Talcos,Johnsons Baby Talco Para Bebé Johnsons Baby Protección Pura Envase,14.90,100 g
+
+18,Aseo del Bebé,Toallitas Húmedas,Tottus Toallitas Húmedas Tottus Cuidado Esencial,6.90,80 UN
+18,Aseo del Bebé,Toallitas Húmedas,Babysec Toallitas Húmedas Babysec Súper Premium Empaque,28.50,184 UN
+18,Aseo del Bebé,Toallitas Húmedas,Huggies Pack Toallitas Húmedas Huggies Cuidado 4 En 1 Empaque,33.90,240 UN
+18,Aseo del Bebé,Toallitas Húmedas,Huggies Toallitas Húmedas Huggies Limpieza Pack 4 Empaques,25.90,48 UN
+18,Aseo del Bebé,Toallitas Húmedas,Tottus Toallitas Húmedas Tottus Cuidado Esencial Extra Suave Empaque,14.90,184 UN
+
+18,Alimentos para Bebés,Biberones,Nuby Biberón Nuby Boca Ancha,25.90,360 ml
+18,Alimentos para Bebés,Biberones,Nuby Biberón Nuby Decorado,28.90,270 ml
+
+18,Alimentos para Bebés,Cereales y Galletas,Qfoods Puff Qfoods Sabor Plátano Bolsa,3.50,25 g
+18,Alimentos para Bebés,Cereales y Galletas,Qfoods Crunchies Qfoods Sabor Lúcuma Bolsa,3.50,25 g
+18,Alimentos para Bebés,Cereales y Galletas,Qfoods Puff Qfoods Sabor Camote Bolsa,2.50,25 g
+18,Alimentos para Bebés,Cereales y Galletas,Hot Kid Galleta de Arroz Manzana,14,50 g
+18,Alimentos para Bebés,Cereales y Galletas,Qfoods Crunchies Qfoods Sabor Natural Bolsa,3.50,25 g
+
+18,Alimentos para Bebés,Colados,Tottus Kids Pack 5 Compotas Varias Tottus Kids,10.50,450 g
+18,Alimentos para Bebés,Colados,Tottus Bebé Compota de Manzana Tottus Bebé,2.50,113 g
+18,Alimentos para Bebés,Colados,Tottus Bebé Compota de Pera Tottus Bebé,2.50,113 g
+18,Alimentos para Bebés,Colados,Tottus Bebé Compota Durazno y Manzana Tottus,2.70,90 g
+18,Alimentos para Bebés,Colados,Tottus Bebé Compota de Manzana Tottus,2.70,90 g
+
+18,Alimentos para Bebés,Fórmulas Lácteas,Similac 3,194.50,2.1 kg
+18,Alimentos para Bebés,Fórmulas Lácteas,Similac 3,135,1.4 kg
+18,Alimentos para Bebés,Fórmulas Lácteas,Enfamil Fórmula Infantil Enfamil Etapa 1 Premium Promental,85.90,375 g
+18,Alimentos para Bebés,Fórmulas Lácteas,Similac Total Comfort Kid,193.60,2.1 kg
+18,Alimentos para Bebés,Fórmulas Lácteas,Enfagrow Enfagow Premium Pro Mental Sabor Natural,89.50,850 g
+
+19,Perros,Alimento Húmedo,Ricocan Comida Húmeda para Perros Ricocan Adultos Sabor Cordero,6.50,330 g
+19,Perros,Alimento Húmedo,Ricocan Trocitos En Salsa Ricocan Carne Y Cordero Pack 4 Pouches,10,100 g
+19,Perros,Alimento Húmedo,Dog Chow Alimento húmedo para perros Dog Chow Adultos todos los tamaños con Cordero,5,100 g
+19,Perros,Alimento Húmedo,Ricocan Trocitos En Salsa Ricocan Sabor Cordero DoyPack,4,100 g
+19,Perros,Alimento Húmedo,Ricocan Estofado Sabor Carne Ricocan Adulto Razas Medianas y grandes Lata,6.50,290 g
+
+19,Perros,Alimento Seco,Ricocan Comida para Perros Ricocrack Adultos Mulisabores,18.90,500 g
+19,Perros,Alimento Seco,Ricocan Comida para Perros Ricocan Adultos Pequeñas Sabor Cordero y Cereales,119.90,15 kg
+19,Perros,Alimento Seco,Dog Chow Alimento para perro Dog Chow Adulto Minis y Pequeños,121.90,8 kg
+19,Perros,Alimento Seco,Dog Chow Alimento para perros Dog Chow Extra Life Adulto Mediano Grande sabor Carne Pollo,145.90,15 kg
+19,Perros,Alimento Seco,Ricocan Comida para Perros Ricocan Adultos Pequeñas Sabor Cordero y Cereales,33.50,3 kg
+
+19,Perros,Snacks y Carnazas,Tottus Carnaza Natural de Salchicha para Perros Tottus Pet,6.50,10 UN
+19,Perros,Snacks y Carnazas,Tottus Salchicha para Perros Tottus,21.90,500 g
+19,Perros,Snacks y Carnazas,Tottus Carnaza Natural Delicias para Perros Tottus Pet,5,2 UN
+19,Perros,Snacks y Carnazas,Gnawlers Stick Trenzado sabor Cordero GNawlers,12.50,6 UN
+19,Perros,Snacks y Carnazas,Tottus Hueso Chico para Perros Tottus Pet,3.90,30 g
+
+19,Gatos,Alimento Húmedo,Félix Comida Húmeda para gatos Felix Adultos Sabor Atún y Aceite de Pescado,7.60,156 g
+19,Gatos,Alimento Húmedo,Félix Alimento húmedo para gatos Felix Paté Salmón,7.60,156 g
+19,Gatos,Alimento Húmedo,Ricocat Paté Ricocat Sabor Sardina Pollo Lata,7,330 g
+19,Gatos,Alimento Húmedo,Félix Comida Húmeda para gatos Felix Adultos Sabor Pavo,7.60,156 g
+19,Gatos,Alimento Húmedo,Gourmet Comida Húmeda para gatos Felix Adultos Sabor Pavo,5.20,85 g
+
+19,Gatos,Alimento Seco,Cat Chow Comida para Gatos Cat Chow Adulto Sabor Pescado,105.90,8 kg
+19,Gatos,Alimento Seco,Ricocat Comida para Gatos Ricocat Festival de Sabores,14.90,1 kg
+19,Gatos,Alimento Seco,Ricocat Comida para Gatos Esterilizado Ricocat Sabor Pescado,98.90,9 kg
+19,Gatos,Alimento Seco,Friskies Comida para Gatos Friskies Adulto Especial,28.50,1 kg
+19,Gatos,Alimento Seco,Ricocat Comida para Gatos Adultos Ricocat Festival de Sabores,98.90,9 kg
+ 
+19,Gatos,Arena para Gatos,Tottus Arena Para Gatos Tottus Sin Perfume,23.90,10 kg
+19,Gatos,Arena para Gatos,Klinkat Arena para Gatos KlinKat,17.40,5 kg
+19,Gatos,Arena para Gatos,Klinkat Arena para Gatos KlinKat,34.90,10 kg
+19,Gatos,Arena para Gatos,Klinkat Arena para Gatos Klin Kat,69.90,20 kg
+19,Gatos,Arena para Gatos,Tottus Arena para Gatos Tottus Sin Perfume,13.90,5 kg
+
+19,Higiene,Cuidado para Mascotas,Claws Paws Baño De Espuma Seco Claws Paws,29.90,250 ml
+19,Higiene,Cuidado para Mascotas,Claws Paws Educador Perro Cp Pipi Now,24.90,120 ml
+19,Higiene,Cuidado para Mascotas,Claws Paws Toallitas Húmedas Claws Paws,15.90,120 UN
+19,Higiene,Cuidado para Mascotas,Simple Solution Manna Pro Destructor Orina Ss,66,1 l
+19,Higiene,Cuidado para Mascotas,Claws Paws Paños De Entrenamiento,49.90,1 UN
+
+19,Higiene,Shampoo,Fresh Can Shampoo para Perro Piel Sensible Fresh-Can,11.90,300 ml
+19,Higiene,Shampoo,Fresh Can Shampoo Fresh Can Pelo Suavebrill Fresh Can,11.90,300 ml
+19,Higiene,Shampoo,Fresh Can Shampoo Fresh Can Cachorros,11.90,300 ml
+19,Higiene,Shampoo,Hartz Shampoo Living 3 en 1 Hartz,33.90,532 ml
+19,Higiene,Shampoo,Ricocan Shampoo Ricocan 4 En 1 Adulto,18,380 ml
+
+19,Higiene,Toallas Húmedas,Claws Paws Toallitas Húmedas Claws Paws,15.90,120 UN
+
+19,Accesorios,Arnés,Fina Stampa Arnés para Mascotas Reforzado de Cuero Fina Stampa,14,Talla M
+
+19,Accesorios,Collares,Hartz Collar Hartz para Perros Ultragard Reflective,34.90,1 UN
+19,Accesorios,Collares,Hartz Collar Hartz para Cachorros Ultragard,32.90,1 UN
+
+19,Accesorios,Huesos,Tottus Pack X2 Pelotas De Tenis Para Perros,9.90,2 UN
+19,Accesorios,Huesos,Gnawlers Stick GNawlers Sabor Tocino,11.90,8 UN
+19,Accesorios,Huesos,Tottus Hueso Grande para Perros Tottus Pet,10.90,130 g
+19,Accesorios,Huesos,Tottus Carnaza Natural Delicias para Perros Tottus Pet,5,2 UN
+19,Accesorios,Huesos,Tottus Jueguete De Soga Para Perros,5.90,1 UN
+
+19,Accesorios,Pelotas,Tottus Pack X2 Pelotas De Tenis Para Perros,9.90,2 UN
+19,Accesorios,Pelotas,Pet Care Pelotitas De Colores Para Gatos,6.90,1 UN
+
+19,Accesorios,Platos,Accecan Plato de Aluminio para Perros Accecan,31.90,1 UN
+
+19,Accesorios,Sogas,Fina Stampa Soga Delgada 1.20cm Fina Stampa,6.15,1 UN
+19,Accesorios,Sogas,Fina Stampa Soga Delgada Paseo + Ahorque Fina Stampa,27,1 UN
+
+
+

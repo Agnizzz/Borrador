@@ -1,0 +1,733 @@
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1004
+Cliente:   (DNI: )
+Fecha:   28/6/2025
+------------------------------
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1005
+Cliente:   (DNI: )
+Fecha:   28/6/2025
+------------------------------
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1006
+Cliente:   (DNI: )
+Fecha:   28/6/2025
+------------------------------
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1007
+Cliente:   (DNI: )
+Fecha:   28/6/2025
+------------------------------
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1008
+Cliente:   (DNI: )
+Fecha:   28/6/2025
+------------------------------
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1009
+Cliente:   (DNI: )
+Fecha:   28/6/2025
+------------------------------
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1010
+Cliente:   (DNI: )
+Fecha:   28/6/2025
+------------------------------
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1011
+Cliente:   (DNI: )
+Fecha:   28/6/2025
+------------------------------
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1013
+Cliente:   (DNI: )
+Fecha:   28/6/2025
+------------------------------
+[Debug] Dirección de producto[0]: DDDDDDDDDDDDDDDD
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1014
+Cliente:   (DNI: )
+Fecha:   28/6/2025
+------------------------------
+[Debug] Dirección de producto[0]: DDDDDDDDDDDDDDDD
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1015
+Cliente:   (DNI: )
+Fecha:   28/6/2025
+------------------------------
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1016
+Cliente:   (DNI: )
+Fecha:   28/6/2025
+------------------------------
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1017
+Cliente:   (DNI: )
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 2 - S/. 7.90
+------------------------------
+Total a pagar: S/. 15.80
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1018
+Cliente:   (DNI: )
+Fecha:   29/6/2025
+------------------------------
+ 1.  - Cantidad: 3 - S/. 35.90
+------------------------------
+Total a pagar: S/. 107.70
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1019
+Cliente:   (DNI: )
+Fecha:   29/6/2025
+------------------------------
+ 1. Tottus Duraznos en Mitades - Cantidad: 2 - S/. 9.90
+------------------------------
+Total a pagar: S/. 19.80
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1020
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 2 - S/. 7.90
+------------------------------
+Total a pagar: S/. 15.80
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1021
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 2 - S/. 7.90
+------------------------------
+Total a pagar: S/. 15.80
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1022
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 2 - S/. 7.90
+------------------------------
+Total a pagar: S/. 15.80
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1023
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Extra - Cantidad: 3 - Precio: S/. 22.90
+------------------------------
+Total a pagar: S/. 68.70
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1024
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Tottus Duraznos en Mitades - Cantidad: 3 - Precio: S/. 9.90 (-990%) ? S/. -88.11
+------------------------------
+Total a pagar: S/. 29.70
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1025
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 2 - Precio: S/. 7.90 (-790%) ? S/. -54.51
+------------------------------
+Total a pagar: S/. 31.60
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1026
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Tottus Duraznos en Mitades - Cantidad: 2 - Precio: S/. 9.90 (-990%) ? S/. -88.11
+------------------------------
+Total a pagar: S/. 39.60
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1027
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Tottus Filete de AtÃºn en Aceite - Cantidad: 2 - Precio: S/. 3.90 (-390%) ? S/. -11.31
+------------------------------
+Total a pagar: S/. 15.60
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1028
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Tottus Duraznos en Mitades - Cantidad: 3 - Precio: S/. 9.90 (-990%) ? S/. -88.11
+------------------------------
+Total a pagar: S/. 89.10
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1029
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Tottus Filete de AtÃºn en Aceite - Cantidad: 2 - Precio: S/. 3.90 (-390%) ? S/. -11.31
+------------------------------
+Total a pagar: S/. 15.60
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1030
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Valle FÃ©rtil Chocolate Dulce Desgranado - Cantidad: 3 - Precio: S/. 6.50 (-650%) ? S/. -35.75
+------------------------------
+Total a pagar: S/. 58.50
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1031
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Tottus Duraznos en Mitades - Cantidad: 3 - Precio: S/. 9.90 (-990%) ? S/. -88.11
+------------------------------
+Total a pagar: S/. 89.10
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1032
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Extra - Cantidad: 3 - Precio: S/. 22.90
+------------------------------
+Total a pagar: S/. 206.10
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1033
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 1 - Precio: S/. 7.90
+------------------------------
+Total a pagar: S/. 7.90
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1034
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 3 - Precio: S/. 7.90
+ 2. Paisana Arroz Integral - Cantidad: 1 - Precio: S/. 7.90
+------------------------------
+Total a pagar: S/. 79.00
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1035
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 3 - Precio: S/. 7.90
+------------------------------
+Total a pagar: S/. 71.10
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1036
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Extra - Cantidad: 3 - Precio: S/. 22.90
+------------------------------
+Total a pagar: S/. 206.10
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1037
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 3 - Precio: S/. 7.90
+------------------------------
+Total a pagar: S/. 23.70
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1038
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 3 - Precio: S/. 7.90 (-790%) ? S/. -54.51
+------------------------------
+Total a pagar: S/. 23.70
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1039
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 3 - Precio: S/. 7.90 (-790%) ? S/. -54.51
+------------------------------
+Total a pagar: S/. 0.00
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1040
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 3 - Precio: S/. 7.90 (-790%) ? S/. -54.51
+------------------------------
+Total a pagar: S/. 0.00
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1041
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 3 - Precio: S/. 7.90 (-790%) ? S/. -54.51
+------------------------------
+Total a pagar: S/. 23.70
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1042
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 3 - Precio: S/. 7.90 (-632%) ? S/. -42.03
+------------------------------
+Total a pagar: S/. 18.96
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1043
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 3 - Precio: S/. 7.90 (-632%) ? S/. -42.03
+------------------------------
+Total a pagar: S/. 18.96
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1044
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Tottus Duraznos en Mitades - Cantidad: 5 - Precio: S/. 9.90 (-792%) ? S/. -68.51
+------------------------------
+Total a pagar: S/. 39.60
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1045
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Tottus Duraznos en Mitades - Cantidad: 4 - Precio: S/. 9.90 (-792%) ? S/. -68.51
+ 2. Paisana Arroz Extra - Cantidad: 3 - Precio: S/. 22.90 (-1832%) ? S/. -396.63
+------------------------------
+Total a pagar: S/. 86.64
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1046
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Extra - Cantidad: 3 - Precio: S/. 22.90 (-1832%) ? S/. -396.63
+------------------------------
+Total a pagar: S/. 54.96
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1047
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 5 - Precio: S/. 7.90 (-20%) ? S/. 6.32 | Ahorraste: S/. 7.90
+------------------------------
+Total a pagar: S/. 31.60
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1048
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Extra - Cantidad: 5 - Precio: S/. 22.90 (-20%) ? S/. 18.32 | Ahorraste: S/. 22.90
+------------------------------
+Total a pagar: S/. 91.60
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1049
+Cliente: Adrian Rogers Gomez (DNI: 75089033)
+Fecha:   29/6/2025
+------------------------------
+ 1. Tottus Frijoles con Tocino - Cantidad: 2 - Precio: S/. 7.80 (-20%) ? S/. 6.24 | Ahorraste: S/. 3.12
+ 2. Paisana Arroz Extra - Cantidad: 5 - Precio: S/. 22.90 (-20%) ? S/. 18.32 | Ahorraste: S/. 22.90
+------------------------------
+Total a pagar: S/. 104.08
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1050
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Extra - Cantidad: 3 - Precio: S/. 22.90 (-20%) ? S/. 18.32 | Ahorraste: S/. 13.74
+------------------------------
+Total a pagar: S/. 54.96
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1051
+Cliente: Adrian Rogers Gomez (DNI: 75089033)
+Fecha:   29/6/2025
+------------------------------
+ 1. Tottus Duraznos en Mitades - Cantidad: 2 - Precio: S/. 9.90 (-20%) ? S/. 7.92 | Ahorraste: S/. 3.96
+ 2. Paisana Arroz Extra - Cantidad: 3 - Precio: S/. 22.90 (-20%) ? S/. 18.32 | Ahorraste: S/. 13.74
+------------------------------
+Total a pagar: S/. 70.80
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1052
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 2 - Precio: S/. 7.90 (-20%) ? S/. 6.32 | Ahorraste: S/. 3.16
+------------------------------
+Total a pagar: S/. 12.64
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1053
+Cliente: Adrian Rogers Gomez (DNI: 75089033)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Extra - Cantidad: 3 - Precio: S/. 22.90 (-20%) ? S/. 18.32 | Ahorraste: S/. 13.74
+ 2. Paisana Arroz Integral - Cantidad: 2 - Precio: S/. 7.90 (-20%) ? S/. 6.32 | Ahorraste: S/. 3.16
+------------------------------
+Total a pagar: S/. 67.60
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1054
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 2 - Precio: S/. 7.90 (-20%) ? S/. 6.32 | Ahorraste: S/. 3.16
+------------------------------
+Total a pagar: S/. 12.64
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1055
+Cliente: Adrian Rogers Gomez (DNI: 75089033)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Extra - Cantidad: 4 - Precio: S/. 22.90 (-20%) ? S/. 18.32 | Ahorraste: S/. 18.32
+ 2. Paisana Arroz Integral - Cantidad: 2 - Precio: S/. 7.90 (-20%) ? S/. 6.32 | Ahorraste: S/. 3.16
+------------------------------
+Total a pagar: S/. 85.92
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1056
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 2 - Precio: S/. 7.90 (-20%) ? S/. 6.32 | Ahorraste: S/. 3.16
+------------------------------
+Total a pagar: S/. 12.64
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1057
+Cliente: Adrian Rogers Gomez (DNI: 75089033)
+Fecha:   29/6/2025
+------------------------------
+ 1. Tottus Duraznos en Mitades - Cantidad: 2 - Precio: S/. 9.90 (-20%) ? S/. 7.92 | Ahorraste: S/. 3.96
+ 2. Paisana Arroz Integral - Cantidad: 2 - Precio: S/. 7.90 (-20%) ? S/. 6.32 | Ahorraste: S/. 3.16
+------------------------------
+Total a pagar: S/. 28.48
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1058
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Extra - Cantidad: 2 - Precio: S/. 22.90 (-20%) ? S/. 18.32 | Ahorraste: S/. 9.16
+------------------------------
+Total a pagar: S/. 36.64
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1059
+Cliente: Adrian Rogers Gomez (DNI: 75089033)
+Fecha:   29/6/2025
+------------------------------
+ 1. Tottus Duraznos en Mitades - Cantidad: 2 - Precio: S/. 9.90 (-20%) ? S/. 7.92 | Ahorraste: S/. 3.96
+ 2. Paisana Arroz Extra - Cantidad: 2 - Precio: S/. 22.90 (-20%) ? S/. 18.32 | Ahorraste: S/. 9.16
+------------------------------
+Total a pagar: S/. 52.48
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1060
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 2 - Precio: S/. 7.90 (-20%) ? S/. 6.32 | Ahorraste: S/. 3.16
+------------------------------
+Total a pagar: S/. 12.64
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1061
+Cliente: Adrian Rogers Gomez (DNI: 75089033)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Extra - Cantidad: 3 - Precio: S/. 22.90 (-20%) ? S/. 18.32 | Ahorraste: S/. 13.74
+ 2. Paisana Arroz Integral - Cantidad: 2 - Precio: S/. 7.90 (-20%) ? S/. 6.32 | Ahorraste: S/. 3.16
+------------------------------
+Total a pagar: S/. 67.60
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1062
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Extra - Cantidad: 3 - Precio: S/. 22.90 (-20%) ? S/. 18.32 | Ahorraste: S/. 13.74
+------------------------------
+Total a pagar: S/. 54.96
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1063
+Cliente: Adrian Rogers Gomez (DNI: 75089033)
+Fecha:   29/6/2025
+------------------------------
+ 1. Tottus Duraznos en Mitades - Cantidad: 3 - Precio: S/. 9.90 (-20%) ? S/. 7.92 | Ahorraste: S/. 5.94
+ 2. Paisana Arroz Extra - Cantidad: 3 - Precio: S/. 22.90 (-20%) ? S/. 18.32 | Ahorraste: S/. 13.74
+------------------------------
+Total a pagar: S/. 78.72
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1064
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Extra - Cantidad: 2 - Precio: S/. 22.90 (-20%) ? S/. 18.32 | Ahorraste: S/. 9.16
+------------------------------
+Total a pagar: S/. 36.64
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1065
+Cliente: Adrian Rogers Gomez (DNI: 75089033)
+Fecha:   29/6/2025
+------------------------------
+ 1. Tottus Duraznos en Mitades - Cantidad: 3 - Precio: S/. 9.90 (-20%) ? S/. 7.92 | Ahorraste: S/. 5.94
+ 2. Paisana Arroz Extra - Cantidad: 2 - Precio: S/. 22.90 (-20%) ? S/. 18.32 | Ahorraste: S/. 9.16
+------------------------------
+Total a pagar: S/. 60.40
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1066
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Extra - Cantidad: 2 - Precio: S/. 22.90 (-20%) ? S/. 18.32 | Ahorraste: S/. 9.16
+------------------------------
+Total a pagar: S/. 36.64
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1067
+Cliente: Adrian Rogers Gomez (DNI: 75089033)
+Fecha:   29/6/2025
+------------------------------
+ 1. Tottus Arroz Integral - Cantidad: 2 - Precio: S/. 23.60 (-20%) ? S/. 18.88 | Ahorraste: S/. 9.44
+------------------------------
+Total a pagar: S/. 37.76
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1068
+Cliente: manuel alberca (DNI: 72969215)
+Fecha:   29/6/2025
+------------------------------
+ 1. Tottus Duraznos en Mitades - Cantidad: 2 - Precio: S/. 9.90 (-20%) ? S/. 7.92 | Ahorraste: S/. 3.96
+------------------------------
+Total a pagar: S/. 15.84
+==============================
+
+==============================
+         BOLETA DE VENTA     
+==============================
+N° Boleta: 1069
+Cliente: Adrian Rogers Gomez (DNI: 75089033)
+Fecha:   29/6/2025
+------------------------------
+ 1. Paisana Arroz Integral - Cantidad: 3 - Precio: S/. 7.90 (-20%) ? S/. 6.32 | Ahorraste: S/. 4.74
+------------------------------
+Total a pagar: S/. 18.96
+==============================
+
